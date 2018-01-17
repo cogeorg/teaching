@@ -1,0 +1,33 @@
+\select@language {english}
+\beamer@sectionintoc {1}{Fintech}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Digital disruption}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Fintech in action}{21}{0}{1}
+\beamer@sectionintoc {2}{Blockchains}{36}{0}{2}
+\beamer@subsectionintoc {2}{1}{History of bookkeeping}{39}{0}{2}
+\beamer@subsectionintoc {2}{2}{Blockchain 101}{41}{0}{2}
+\beamer@subsectionintoc {2}{3}{Cryptography}{51}{0}{2}
+\beamer@subsectionintoc {2}{4}{Public key cryptography}{70}{0}{2}
+\beamer@subsectionintoc {2}{5}{Peer to peer networks}{78}{0}{2}
+\beamer@subsectionintoc {2}{6}{Types of blockchains}{85}{0}{2}
+\beamer@subsectionintoc {2}{7}{Transactions}{92}{0}{2}
+\beamer@subsectionintoc {2}{8}{Consensus}{111}{0}{2}
+\beamer@subsectionintoc {2}{9}{Digital tokens}{149}{0}{2}
+\beamer@subsectionintoc {2}{10}{How it works}{152}{0}{2}
+\beamer@subsectionintoc {2}{11}{Blockchains outside of finance}{158}{0}{2}
+\beamer@sectionintoc {3}{Cryptocurrency}{172}{0}{3}
+\beamer@subsectionintoc {3}{1}{Cryptocurrency}{174}{0}{3}
+\beamer@subsectionintoc {3}{2}{Bitcoin}{185}{0}{3}
+\beamer@subsubsectionintoc {3}{2}{1}{2013 Bitcoin fork}{202}{0}{3}
+\beamer@subsubsectionintoc {3}{2}{2}{Scalability}{205}{0}{3}
+\beamer@subsubsectionintoc {3}{2}{3}{Mining pools}{221}{0}{3}
+\beamer@subsectionintoc {3}{3}{Ethereum}{225}{0}{3}
+\beamer@subsectionintoc {3}{4}{Ripple}{293}{0}{3}
+\beamer@subsectionintoc {3}{5}{IOTA}{304}{0}{3}
+\beamer@subsectionintoc {3}{6}{Central Bank Cryptocurrencies}{320}{0}{3}
+\beamer@sectionintoc {4}{Blockchain applications}{334}{0}{4}
+\beamer@subsectionintoc {4}{1}{Clearing and settlement}{336}{0}{4}
+\beamer@subsectionintoc {4}{2}{Initial Coin Offerings}{344}{0}{4}
+\beamer@sectionintoc {5}{Regulation}{365}{0}{5}
+\beamer@subsectionintoc {5}{1}{Regulatory environment}{367}{0}{5}
+\beamer@subsectionintoc {5}{2}{Regulating ICOs}{396}{0}{5}
+\beamer@subsectionintoc {5}{3}{Smart contracts and contract law}{409}{0}{5}

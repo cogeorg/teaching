@@ -1,0 +1,12 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Buchak et~al.(2017)Buchak, Matvos, Piskorski, and Seru}]{buchak2017}
+Buchak, G., Matvos, G., Piskorski, T., Seru, A., 2017. Fintech, regulatory
+  arbitrage, and the rise of shadow banks. Tech. rep., National Bureau of
+  Economic Research.
+
+\end{thebibliography}
