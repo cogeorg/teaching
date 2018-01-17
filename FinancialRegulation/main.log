@@ -1,0 +1,3035 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  18 JAN 2018 00:18
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamer.cls
+Document Class: beamer 2017/01/23 v3.41 A class for typesetting presentations
+(/usr/local/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count79
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
+\beamer@tempbox=\box26
+\beamer@tempcount=\count80
+\c@beamerpauses=\count81
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+\beamer@slideinframe=\count82
+\beamer@minimum=\count83
+)
+\beamer@commentbox=\box27
+\beamer@modecount=\count84
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+\headheight=\dimen102
+\headdp=\dimen103
+\footheight=\dimen104
+\sidebarheight=\dimen105
+\beamer@tempdim=\dimen106
+\beamer@finalheight=\dimen107
+\beamer@animht=\dimen108
+\beamer@animdp=\dimen109
+\beamer@animwd=\dimen110
+\beamer@leftmargin=\dimen111
+\beamer@rightmargin=\dimen112
+\beamer@leftsidebar=\dimen113
+\beamer@rightsidebar=\dimen114
+\beamer@boxsize=\dimen115
+\beamer@vboxoffset=\dimen116
+\beamer@descdefault=\dimen117
+\beamer@descriptionwidth=\dimen118
+\beamer@lastskip=\skip41
+\beamer@areabox=\box28
+\beamer@animcurrent=\box29
+\beamer@animshowbox=\box30
+\beamer@sectionbox=\box31
+\beamer@logobox=\box32
+\beamer@linebox=\box33
+\beamer@sectioncount=\count85
+\beamer@subsubsectionmax=\count86
+\beamer@subsectionmax=\count87
+\beamer@sectionmax=\count88
+\beamer@totalheads=\count89
+\beamer@headcounter=\count90
+\beamer@partstartpage=\count91
+\beamer@sectionstartpage=\count92
+\beamer@subsectionstartpage=\count93
+\beamer@animationtempa=\count94
+\beamer@animationtempb=\count95
+\beamer@xpos=\count96
+\beamer@ypos=\count97
+\beamer@showpartnumber=\count98
+\beamer@currentsubsection=\count99
+\beamer@coveringdepth=\count100
+\beamer@sectionadjust=\count101
+\beamer@tocsectionnumber=\count102
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+\beamer@paperwidth=\skip42
+\beamer@paperheight=\skip43
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count103
+\Gm@cntv=\count104
+\c@Gm@tempcnt=\count105
+\Gm@bindingoffset=\dimen119
+\Gm@wd@mp=\dimen120
+\Gm@odd@mp=\dimen121
+\Gm@even@mp=\dimen122
+\Gm@layoutwidth=\dimen123
+\Gm@layoutheight=\dimen124
+\Gm@layouthoffset=\dimen125
+\Gm@layoutvoffset=\dimen126
+\Gm@dimlist=\toks15
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count106
+))
+\Gin@req@height=\dimen127
+\Gin@req@width=\dimen128
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen129
+\pgfutil@tempdimb=\dimen130
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box34
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+)) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen131
+\pgf@y=\dimen132
+\pgf@xa=\dimen133
+\pgf@ya=\dimen134
+\pgf@xb=\dimen135
+\pgf@yb=\dimen136
+\pgf@xc=\dimen137
+\pgf@yc=\dimen138
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count107
+\c@pgf@countb=\count108
+\c@pgf@countc=\count109
+\c@pgf@countd=\count110
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+))) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count111
+\pgfsyssoftpath@bigbuffer@items=\count112
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen139
+\pgfmath@count=\count113
+\pgfmath@box=\box35
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count114
+))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen140
+\pgf@picmaxx=\dimen141
+\pgf@picminy=\dimen142
+\pgf@picmaxy=\dimen143
+\pgf@pathminx=\dimen144
+\pgf@pathmaxx=\dimen145
+\pgf@pathminy=\dimen146
+\pgf@pathmaxy=\dimen147
+\pgf@xx=\dimen148
+\pgf@xy=\dimen149
+\pgf@yx=\dimen150
+\pgf@yy=\dimen151
+\pgf@zx=\dimen152
+\pgf@zy=\dimen153
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen154
+\pgf@path@lasty=\dimen155
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen156
+\pgf@shorten@start@additional=\dimen157
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box36
+\pgf@hbox=\box37
+\pgf@layerbox@main=\box38
+\pgf@picture@serial@count=\count115
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen158
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen159
+\pgf@pt@y=\dimen160
+\pgf@pt@temp=\dimen161
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen162
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen163
+\pgf@sys@shading@range@num=\count116
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box39
+)) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+))) (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count117
+\XC@countmixins=\count118
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen164
+\Hy@linkcounter=\count119
+\Hy@pagecounter=\count120
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count121
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4374.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4374.
+Package hyperref Info: Option `implicit' set `false' on input line 4374.
+Package hyperref Info: Hyper figures OFF on input line 4498.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing OFF on input line 4518.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4751.
+\c@Hy@tempcnt=\count122
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5104.
+\XeTeXLinkMargin=\dimen165
+\Fld@menulength=\count123
+\Field@Width=\dimen166
+\Fld@charsize=\dimen167
+Package hyperref Info: Hyper figures OFF on input line 6358.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing OFF on input line 6373.
+Package hyperref Info: Link coloring OFF on input line 6378.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
+\Hy@abspage=\count124
+
+
+Package hyperref Message: Stopped early.
+
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
+\Fld@listcount=\count125
+\c@bookmark@seq@number=\count126
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaserequires.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasefont.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks26
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+Package: sansmathaccent 2013/03/28
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/filehook/filehook.sty
+Package: filehook 2011/10/12 v0.5d Hooks for input files
+))) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/translator.sty
+Package: translator 2010/06/12 ver 1.10
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/translator-language-mappings.tex))) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasemisc.sty)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+\beamer@argscount=\count127
+\beamer@lastskipcover=\skip44
+\beamer@trivlistdepth=\count128
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasetitle.sty) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+\c@lecture=\count129
+\c@part=\count130
+\c@section=\count131
+\c@subsection=\count132
+\c@subsubsection=\count133
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+\beamer@framebox=\box40
+\beamer@frametitlebox=\box41
+\beamer@zoombox=\box42
+\beamer@zoomcount=\count134
+\beamer@zoomframecount=\count135
+\beamer@frametextheight=\dimen168
+\c@subsectionslide=\count136
+\beamer@frametopskip=\skip45
+\beamer@framebottomskip=\skip46
+\beamer@frametopskipautobreak=\skip47
+\beamer@framebottomskipautobreak=\skip48
+\beamer@envbody=\toks27
+\framewidth=\dimen169
+\c@framenumber=\count137
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+\beamer@verbatimfileout=\write4
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+\beamer@splitbox=\box43
+\beamer@autobreakcount=\count138
+\beamer@autobreaklastheight=\dimen170
+\beamer@frametitletoks=\toks28
+\beamer@framesubtitletoks=\toks29
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
+\beamer@footins=\box44
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasecolor.sty) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
+\beamer@frameboxcopy=\box45
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasetoc.sty) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+\beamer@sbttoks=\toks30
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
+(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
+\bmb@box=\box46
+\bmb@colorbox=\box47
+\bmb@boxshadow=\box48
+\bmb@boxshadowball=\box49
+\bmb@boxshadowballlarge=\box50
+\bmb@temp=\dimen171
+\bmb@dima=\dimen172
+\bmb@dimb=\dimen173
+\bmb@prevheight=\dimen174
+)
+\beamer@blockheadheight=\dimen175
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks31
+)
+\c@figure=\count139
+\c@table=\count140
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+\beamer@section@min@dim=\dimen176
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks32
+\ex@=\dimen177
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen178
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count141
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count142
+\leftroot@=\count143
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count144
+\DOTSCASE@=\count145
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen179
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count146
+\c@MaxMatrixCols=\count147
+\dotsspace@=\muskip11
+\c@parentequation=\count148
+\dspbrk@lvl=\count149
+\tag@help=\toks33
+\row@=\count150
+\column@=\count151
+\maxfields@=\count152
+\andhelp@=\toks34
+\eqnshift@=\dimen180
+\alignsep@=\dimen181
+\tagshift@=\dimen182
+\tagwidth@=\dimen183
+\totwidth@=\dimen184
+\lineht@=\dimen185
+\@envbody=\toks35
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks37
+\thm@bodyfont=\toks38
+\thm@headfont=\toks39
+\thm@notefont=\toks40
+\thm@headpunct=\toks41
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks42
+)
+\c@theorem=\count153
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/beamerbasethemes.sty)) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/themes/theme/beamerthemedefault.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/themes/font/beamerfontthemedefault.sty) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/themes/color/beamercolorthemedefault.sty) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/themes/inner/beamerinnerthemedefault.sty
+\beamer@dima=\dimen186
+\beamer@dimb=\dimen187
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/themes/outer/beamerouterthemedefault.sty))) (/usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2017/05/19 3.10 The Babel package
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/01/24 v3.3q English support from the babel system
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2017/05/19 3.10 Babel common definitions
+\babel@savecnt=\count154
+\U@D=\dimen188
+LaTeX Info: Redefining \textlatin on input line 1648.
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks43
+\inpenc@posthook=\toks44
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count155
+\uc@combtoks=\toks45
+\uc@combtoksb=\toks46
+\uc@temptokena=\toks47
+) (./colordef.tex) (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+./main.tex:42: Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.42 }
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.42 }
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+\hyper@linkurl ...tionraw >>}\relax \Hy@colorlink 
+                                                  \@urlcolor #1\Hy@xspace@en...
+l.42 }
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \Hy@VerboseLinkStop \pdfendlink 
+l.42 }
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (39.51503pt too wide) in paragraph at lines 42--42
+[][]\OT1/cmss/m/n/9 These 
+ []
+
+
+Overfull \hbox (20.39703pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 slides 
+ []
+
+
+Overfull \hbox (11.45827pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 are 
+ []
+
+
+Overfull \hbox (17.41649pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 pub- 
+ []
+
+
+Overfull \hbox (21.62895pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 lished 
+ []
+
+
+Overfull \hbox (12.63876pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 un- 
+ []
+
+
+Overfull \hbox (12.04852pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 der 
+ []
+
+
+Overfull \hbox (12.22908pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 the 
+ []
+
+
+Overfull \hbox (14.87488pt too wide) in paragraph at lines 42--42
+[]\OT1/cmss/m/n/9 ma- 
+ []
+
+
+Overfull \hbox (16.5971pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 gen- 
+ []
+
+
+Overfull \hbox (23.50674pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 taGnu 
+ []
+
+
+Overfull \hbox (22.1665pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 LGPL 
+ []
+
+
+Overfull \hbox (16.0832pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 v3.0 
+ []
+
+
+Overfull \hbox (7.49991pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 li- 
+ []
+
+
+Overfull \hbox (23.22624pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 cense[]. 
+ []
+
+
+Overfull \hbox (13.88187pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 De- 
+ []
+
+
+Overfull \hbox (13.66655pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 vel- 
+ []
+
+
+Overfull \hbox (18.54846pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 oped 
+ []
+
+
+Overfull \hbox (6.98602pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 in 
+ []
+
+
+Overfull \hbox (14.02766pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 col- 
+ []
+
+
+Overfull \hbox (14.51375pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 lab- 
+ []
+
+
+Overfull \hbox (7.70828pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 o- 
+ []
+
+
+Overfull \hbox (10.68742pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 ra- 
+ []
+
+
+Overfull \hbox (14.95125pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 tion 
+ []
+
+
+Overfull \hbox (16.64566pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 with 
+ []
+
+
+Overfull \hbox (14.64987pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 Esti 
+ []
+
+
+Overfull \hbox (25.24286pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 Kemp. 
+ []
+
+
+Overfull \hbox (21.56926pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 Many 
+ []
+
+
+Overfull \hbox (7.45134pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 of 
+ []
+
+
+Overfull \hbox (19.88599pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 these 
+ []
+
+
+Overfull \hbox (20.39703pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 slides 
+ []
+
+
+Overfull \hbox (11.45827pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 are 
+ []
+
+
+Overfull \hbox (21.65677pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 based 
+ []
+
+
+Overfull \hbox (9.4027pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 on 
+ []
+
+
+Overfull \hbox (12.22908pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 the 
+ []
+
+
+Overfull \hbox (19.06233pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 book 
+ []
+
+
+Overfull \hbox (22.43735pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 "Reg- 
+ []
+
+
+Overfull \hbox (7.86104pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 u- 
+ []
+
+
+Overfull \hbox (13.07628pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 lat- 
+ []
+
+
+Overfull \hbox (11.611pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 ing 
+ []
+
+
+Overfull \hbox (17.354pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 Wall 
+ []
+
+
+Overfull \hbox (27.82623pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 Street" 
+ []
+
+
+Overfull \hbox (8.78462pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 by 
+ []
+
+
+Overfull \hbox (33.43723pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 Acharya, 
+ []
+
+
+Overfull \hbox (18.49988pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 Coo- 
+ []
+
+
+Overfull \hbox (12.38184pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 ley, 
+ []
+
+
+Overfull \hbox (32.29831pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 Richard- 
+ []
+
+
+Overfull \hbox (15.51793pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 son, 
+ []
+
+
+Overfull \hbox (13.99986pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 and 
+ []
+
+
+Overfull \hbox (18.22902pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 Wal- 
+ []
+
+
+Overfull \hbox (10.61105pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 ter 
+ []
+
+
+Overfull \hbox (28.2637pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 (2013). 
+ []
+
+
+Overfull \hbox (24.33734pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 Please 
+ []
+
+
+Overfull \hbox (16.59709pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 con- 
+ []
+
+
+Overfull \hbox (15.23601pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 tact 
+ []
+
+
+Overfull \hbox (11.45825pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 me 
+ []
+
+
+Overfull \hbox (12.63876pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 un- 
+ []
+
+
+Overfull \hbox (12.04852pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 der 
+ []
+
+
+Overfull \hbox (70.88959pt too wide) in paragraph at lines 42--42
+[]\OT1/cmss/m/n/9 magenta$\OT1/cmtt/m/n/9 cogeorg @ 
+ []
+
+
+Overfull \hbox (28.34967pt too wide) in paragraph at lines 42--42
+\OT1/cmtt/m/n/9 gmail . 
+ []
+
+
+Overfull \hbox (14.17484pt too wide) in paragraph at lines 42--42
+\OT1/cmtt/m/n/9 com$[] 
+ []
+
+
+Overfull \hbox (5.03467pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 if 
+ []
+
+
+Overfull \hbox (13.40959pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 you 
+ []
+
+
+Overfull \hbox (17.59708pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 have 
+ []
+
+
+Overfull \hbox (13.48598pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 any 
+ []
+
+
+Overfull \hbox (19.16652pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 com- 
+ []
+
+
+Overfull \hbox (23.12204pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 ments 
+ []
+
+
+Overfull \hbox (7.52773pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 or 
+ []
+
+
+Overfull \hbox (14.51375pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 find 
+ []
+
+
+Overfull \hbox (16.18457pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 mis- 
+ []
+
+
+Overfull \hbox (19.70541pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 takes 
+ []
+
+
+Overfull \hbox (6.98602pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 in 
+ []
+
+
+Overfull \hbox (19.88599pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 these 
+ []
+
+
+Overfull \hbox (22.96646pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 slides. 
+ []
+
+
+Overfull \hbox (16.0138pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 Per- 
+ []
+
+
+Overfull \hbox (15.56934pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 pet- 
+ []
+
+
+Overfull \hbox (11.43044pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 ual 
+ []
+
+
+Overfull \hbox (18.11095pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 work 
+ []
+
+
+Overfull \hbox (6.98602pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 in 
+ []
+
+
+Overfull \hbox (33.86226pt too wide) in paragraph at lines 42--42
+\OT1/cmss/m/n/9 progress.|  
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\long' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<def>-command' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beamer@todo' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<def>-command' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beamer@ospec' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beamer@argscount' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@ifnextchar' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\begingroup' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\catcode' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\active' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<def>-command' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\csname\endcsname' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\catcode' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\active' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<let>-command' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\csname\endcsname' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<let>-command' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\%' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\catcode' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\active' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<def>-command' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\csname\endcsname' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<def>-command' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\#' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\catcode' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<def>-command' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\csname\endcsname' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<def>-command' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\&' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<def>-command' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\textunderscore' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<let>-command' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\_' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\catcode' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\active' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<let>-command' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\csname\endcsname' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<let>-command' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\csname\endcsname' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<let>-command' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\~' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<let>-command' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\textasciitilde' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<let>-command' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<def>-command' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\csname\endcsname' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<def>-command' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\Hy@tempa' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<def>-command' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\Hy@tempa' on input line 42.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 42.
+
+(./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=307.28987pt
+* \textheight=244.6939pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count156
+\scratchdimen=\dimen189
+\scratchbox=\box53
+\nofMPsegments=\count157
+\nofMParguments=\count158
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count159
+\MPscratchDim=\dimen190
+\MPnumerator=\count160
+\makeMPintoPDFobject=\count161
+\everyMPtoPDFconversion=\toks49
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+)) ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box54
+Package hyperref Info: Link coloring OFF on input line 49.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count162
+)
+LaTeX Info: Redefining \ref on input line 49.
+LaTeX Info: Redefining \pageref on input line 49.
+LaTeX Info: Redefining \nameref on input line 49.
+ (./main.out) (./main.out)
+\@outlinefile=\write5
+\openout5 = `main.out'.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 49.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 49.
+\symnumbers=\mathgroup6
+\sympureletters=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 49.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 49.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 49.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 49.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 49.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 49.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 49.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 49.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 49.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 49.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 49.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 49.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 49.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 49.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 49.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 49.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 49.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 49.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 49.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 49.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 49.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 49.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 49.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translator-basic-dictionary/translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translator-bibliography-dictionary/translator-bibliography-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translator-environment-dictionary/translator-environment-dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translator-months-dictionary/translator-months-dictionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translator-numbers-dictionary/translator-numbers-dictionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translator-theorem-dictionary/translator-theorem-dictionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+LaTeX Info: Redefining \includegraphics on input line 49.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+) (./main.nav)
+LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input line 55.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/mathkerncmss.
+)
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
+(Font)              size <5> substituted on input line 55.
+
+[1
+
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+
+] <FIs1.png, id=74, 705.63625pt x 444.66125pt>
+File: FIs1.png Graphic file (type png)
+ <use FIs1.png>
+Package pdftex.def Info: FIs1.png used on input line 79.
+(pdftex.def)             Requested size: 245.83282pt x 154.91455pt.
+ [3
+
+ <./FIs1.png>] [4
+
+] [5
+
+] [6
+
+] [7
+
+] [8
+
+] [9
+
+] [10
+
+] [11
+
+] [12
+
+] [13
+
+] <mthatch.png, id=141, 648.17157pt x 310.15875pt>
+File: mthatch.png Graphic file (type png)
+ <use mthatch.png>
+Package pdftex.def Info: mthatch.png used on input line 251.
+(pdftex.def)             Requested size: 307.28987pt x 147.04297pt.
+ [14
+
+ <./mthatch.png>] [15
+
+] [16
+
+] [17
+
+] [18
+
+] [19
+
+] [20
+
+]
+Package epstopdf Info: Source file: <Figures/intermediates.eps>
+(epstopdf)                    date: 2018-01-17 22:08:18
+(epstopdf)                    size: 2646764 bytes
+(epstopdf)             Output file: <Figures/intermediates-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-01-18 00:14:02
+(epstopdf)                    size: 190437 bytes
+(epstopdf)             Command: <repstopdf --outfile=Figures/intermediates-eps-converted-to.pdf Figures/intermediates.eps>
+(epstopdf)             \includegraphics on input line 377.
+Package epstopdf Info: Output file is already uptodate.
+ <Figures/intermediates-eps-converted-to.pdf, id=179, 1268.74pt x 762.85pt>
+File: Figures/intermediates-eps-converted-to.pdf Graphic file (type pdf)
+ <use Figures/intermediates-eps-converted-to.pdf>
+Package pdftex.def Info: Figures/intermediates-eps-converted-to.pdf used on input line 377.
+(pdftex.def)             Requested size: 245.83282pt x 147.80647pt.
+ [21
+
+ <./Figures/intermediates-eps-converted-to.pdf>] [22
+
+] [23
+
+] [24
+
+] [25
+
+]
+Overfull \hbox (24.53311pt too wide) in paragraph at lines 497--497
+[]  
+ []
+
+[26
+
+] [27
+
+] [28
+
+]
+Overfull \hbox (1.23772pt too wide) in paragraph at lines 597--597
+[][]  
+ []
+
+[29
+
+] <TotalBS.png, id=237, 743.77875pt x 286.06876pt>
+File: TotalBS.png Graphic file (type png)
+ <use TotalBS.png>
+Package pdftex.def Info: TotalBS.png used on input line 607.
+(pdftex.def)             Requested size: 307.28987pt x 118.1925pt.
+ [30
+
+ <./TotalBS.png>] <commret.png, id=243, 833.36343pt x 531.48563pt>
+File: commret.png Graphic file (type png)
+ <use commret.png>
+Package pdftex.def Info: commret.png used on input line 620.
+(pdftex.def)             Requested size: 307.28987pt x 195.97348pt.
+ [31
+
+ <./commret.png>] [32
+
+] [33
+
+] [34
+
+] [35
+
+] [36
+
+] [37
+
+] [38
+
+] <Cars.png, id=293, 307.1475pt x 329.73187pt>
+File: Cars.png Graphic file (type png)
+ <use Cars.png>
+Package pdftex.def Info: Cars.png used on input line 792.
+(pdftex.def)             Requested size: 184.3758pt x 197.93623pt.
+ [39
+
+ <./Cars.png>] [40
+
+] [41
+
+] [42
+
+] [43
+
+] [44
+
+] [45
+
+] [46
+
+] [47
+
+] [48
+
+] [49
+
+] [50
+
+] [51
+
+] [52
+
+] [53
+
+] [54
+
+] [55
+
+] [56
+
+] [57
+
+] [58
+
+] (/usr/local/texlive/2017/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+) [59
+
+] [60
+
+] [61
+
+] [62
+
+] <Fed.png, id=441, 262.73157pt x 115.18031pt>
+File: Fed.png Graphic file (type png)
+ <use Fed.png>
+Package pdftex.def Info: Fed.png used on input line 1261.
+(pdftex.def)             Requested size: 262.73091pt x 115.18001pt.
+ [63
+
+ <./Fed.png>] [64
+
+] [65
+
+] [66
+
+] <Stockmarket.png, id=462, 302.63063pt x 245.41687pt>
+File: Stockmarket.png Graphic file (type png)
+ <use Stockmarket.png>
+Package pdftex.def Info: Stockmarket.png used on input line 1332.
+(pdftex.def)             Requested size: 307.28987pt x 249.19846pt.
+
+Overfull \vbox (1.05183pt too high) detected at line 1332
+ []
+
+[67
+
+ <./Stockmarket.png>] [68
+
+] [69
+
+] <Bankrun.png, id=479, 690.32906pt x 503.63156pt>
+File: Bankrun.png Graphic file (type png)
+ <use Bankrun.png>
+Package pdftex.def Info: Bankrun.png used on input line 1382.
+(pdftex.def)             Requested size: 307.28987pt x 224.18834pt.
+ [70
+
+ <./Bankrun.png>] [71
+
+] [72
+
+]
+Overfull \vbox (4.12697pt too high) detected at line 1430
+ []
+
+[73
+
+] [74
+
+] <GS1.png, id=506, 790.45313pt x 633.11531pt>
+File: GS1.png Graphic file (type png)
+ <use GS1.png>
+Package pdftex.def Info: GS1.png used on input line 1466.
+(pdftex.def)             Requested size: 307.28987pt x 246.12181pt.
+
+Overfull \vbox (31.44867pt too high) detected at line 1466
+ []
+
+[75
+
+ <./GS1.png>]
+Overfull \vbox (6.25613pt too high) detected at line 1497
+ []
+
+[76
+
+] [77
+
+] [78
+
+] <GS3.png, id=528, 1239.88219pt x 1284.29813pt>
+File: GS3.png Graphic file (type png)
+ <use GS3.png>
+Package pdftex.def Info: GS3.png used on input line 1551.
+(pdftex.def)             Requested size: 460.9348pt x 477.43651pt.
+
+Overfull \hbox (153.64493pt too wide) in paragraph at lines 1551--1551
+ [] 
+ []
+
+
+Overfull \vbox (262.36337pt too high) detected at line 1551
+ []
+
+[79
+
+ <./GS3.png>] [80
+
+] <Interestceiling1.png, id=540, 631.60968pt x 453.19313pt>
+File: Interestceiling1.png Graphic file (type png)
+ <use Interestceiling1.png>
+Package pdftex.def Info: Interestceiling1.png used on input line 1574.
+(pdftex.def)             Requested size: 307.28987pt x 220.48991pt.
+ [81
+
+ <./Interestceiling1.png>] [82
+
+] <Interestceiling2.png, id=551, 616.55344pt x 459.21562pt>
+File: Interestceiling2.png Graphic file (type png)
+ <use Interestceiling2.png>
+Package pdftex.def Info: Interestceiling2.png used on input line 1602.
+(pdftex.def)             Requested size: 307.28987pt x 228.87851pt.
+ [83
+
+ <./Interestceiling2.png>] [84
+
+] [85
+
+] [86
+
+] <SB1.png, id=574, 469.00218pt x 362.10281pt>
+File: SB1.png Graphic file (type png)
+ <use SB1.png>
+Package pdftex.def Info: SB1.png used on input line 1669.
+(pdftex.def)             Requested size: 307.28987pt x 237.24814pt.
+ [87
+
+ <./SB1.png>] [88
+
+] [89
+
+] [90
+
+] [91
+
+] [92
+
+] [93
+
+] [94
+
+] [95
+
+] [96
+
+] <BaselII.png, id=626, 485.56406pt x 340.27126pt>
+File: BaselII.png Graphic file (type png)
+ <use BaselII.png>
+Package pdftex.def Info: BaselII.png used on input line 1803.
+(pdftex.def)             Requested size: 307.28987pt x 215.33775pt.
+ [97
+
+ <./BaselII.png>] [98
+
+] <Lehman.png, id=638, 2014.52625pt x 1510.89468pt>
+File: Lehman.png Graphic file (type png)
+ <use Lehman.png>
+Package pdftex.def Info: Lehman.png used on input line 1820.
+(pdftex.def)             Requested size: 2014.52136pt x 1510.891pt.
+
+Overfull \hbox (1707.23149pt too wide) in paragraph at lines 1820--1820
+ [] 
+ []
+
+
+Overfull \vbox (1276.34439pt too high) detected at line 1820
+ []
+
+[99
+
+ <./Lehman.png>] [100
+
+] [101
+
+] [102
+
+] <SavingsGlut.png, id=659, 499.11469pt x 329.73187pt>
+File: SavingsGlut.png Graphic file (type png)
+ <use SavingsGlut.png>
+Package pdftex.def Info: SavingsGlut.png used on input line 1888.
+(pdftex.def)             Requested size: 307.28987pt x 203.0128pt.
+ [103
+
+ <./SavingsGlut.png>] <HPUS.png, id=666, 467.49657pt x 300.3722pt>
+File: HPUS.png Graphic file (type png)
+ <use HPUS.png>
+Package pdftex.def Info: HPUS.png used on input line 1896.
+(pdftex.def)             Requested size: 307.28987pt x 197.44417pt.
+ [104
+
+ <./HPUS.png>] <Intrate.png, id=672, 544.28343pt x 333.49594pt>
+File: Intrate.png Graphic file (type png)
+ <use Intrate.png>
+Package pdftex.def Info: Intrate.png used on input line 1904.
+(pdftex.def)             Requested size: 307.28987pt x 188.28307pt.
+ [105
+
+ <./Intrate.png>] <Ninja.png, id=678, 280.04625pt x 356.83313pt>
+File: Ninja.png Graphic file (type png)
+ <use Ninja.png>
+Package pdftex.def Info: Ninja.png used on input line 1913.
+(pdftex.def)             Requested size: 307.28987pt x 391.56479pt.
+
+Overfull \vbox (205.82083pt too high) detected at line 1913
+ []
+
+[106
+
+ <./Ninja.png>] [107
+
+] [108
+
+] [109
+
+] [110
+
+] <table6_1.png, id=706, 767.86874pt x 466.74374pt>
+File: table6_1.png Graphic file (type png)
+ <use table6_1.png>
+Package pdftex.def Info: table6_1.png used on input line 1971.
+(pdftex.def)             Requested size: 307.28987pt x 186.78677pt.
+ [111
+
+ <./table6_1.png>] [112
+
+] [113
+
+] [114
+
+] [115
+
+] <Figures/ASS2013_Figure1.png, id=734, 692.5875pt x 781.92125pt>
+File: Figures/ASS2013_Figure1.png Graphic file (type png)
+ <use Figures/ASS2013_Figure1.png>
+Package pdftex.def Info: Figures/ASS2013_Figure1.png used on input line 2026.
+(pdftex.def)             Requested size: 184.3758pt x 208.1507pt.
+ [116
+
+ <./Figures/ASS2013_Figure1.png>] <Figures/ASS2013_Figure2.png, id=741, 914.41624pt x 467.7475pt>
+File: Figures/ASS2013_Figure2.png Graphic file (type png)
+ <use Figures/ASS2013_Figure2.png>
+Package pdftex.def Info: Figures/ASS2013_Figure2.png used on input line 2035.
+(pdftex.def)             Requested size: 307.28987pt x 157.18349pt.
+ [117
+
+ <./Figures/ASS2013_Figure2.png>] <Figures/ASS2013_Table1.png, id=748, 809.0225pt x 548.0475pt>
+File: Figures/ASS2013_Table1.png Graphic file (type png)
+ <use Figures/ASS2013_Table1.png>
+Package pdftex.def Info: Figures/ASS2013_Table1.png used on input line 2044.
+(pdftex.def)             Requested size: 245.83282pt x 166.53123pt.
+ [118
+
+ <./Figures/ASS2013_Table1.png>] <Figures/ASS2013_Table2.png, id=755, 813.0375pt x 690.58pt>
+File: Figures/ASS2013_Table2.png Graphic file (type png)
+ <use Figures/ASS2013_Table2.png>
+Package pdftex.def Info: Figures/ASS2013_Table2.png used on input line 2053.
+(pdftex.def)             Requested size: 245.83282pt x 208.79836pt.
+ [119
+
+ <./Figures/ASS2013_Table2.png>] <Figures/ASS2013_Figure3-A.png, id=762, 391.4625pt x 302.12875pt>
+File: Figures/ASS2013_Figure3-A.png Graphic file (type png)
+ <use Figures/ASS2013_Figure3-A.png>
+Package pdftex.def Info: Figures/ASS2013_Figure3-A.png used on input line 2073.
+(pdftex.def)             Requested size: 101.40622pt x 78.26118pt.
+ <Figures/ASS2013_Figure3-B.png, id=763, 370.38374pt x 285.065pt>
+File: Figures/ASS2013_Figure3-B.png Graphic file (type png)
+ <use Figures/ASS2013_Figure3-B.png>
+Package pdftex.def Info: Figures/ASS2013_Figure3-B.png used on input line 2073.
+(pdftex.def)             Requested size: 101.40622pt x 78.04295pt.
+ <Figures/ASS2013_Figure3-C.png, id=764, 429.605pt x 372.39125pt>
+File: Figures/ASS2013_Figure3-C.png Graphic file (type png)
+ <use Figures/ASS2013_Figure3-C.png>
+Package pdftex.def Info: Figures/ASS2013_Figure3-C.png used on input line 2073.
+(pdftex.def)             Requested size: 101.40622pt x 87.89835pt.
+
+[120
+
+ <./Figures/ASS2013_Figure3-A.png> <./Figures/ASS2013_Figure3-B.png> <./Figures/ASS2013_Figure3-C.png>] <Figures/ASS2013_Table3.png, id=773, 1139.25626pt x 767.86874pt>
+File: Figures/ASS2013_Table3.png Graphic file (type png)
+ <use Figures/ASS2013_Table3.png>
+Package pdftex.def Info: Figures/ASS2013_Table3.png used on input line 2082.
+(pdftex.def)             Requested size: 245.83282pt x 165.68611pt.
+ [121
+
+ <./Figures/ASS2013_Table3.png>] <Figures/ASS2013_Table10.png, id=781, 547.04375pt x 754.82pt>
+File: Figures/ASS2013_Table10.png Graphic file (type png)
+ <use Figures/ASS2013_Table10.png>
+Package pdftex.def Info: Figures/ASS2013_Table10.png used on input line 2091.
+(pdftex.def)             Requested size: 153.64493pt x 212.00467pt.
+ [122
+
+ <./Figures/ASS2013_Table10.png>] [123
+
+] [124
+
+] [125
+
+] [126
+
+] [127
+
+] <GFC1.png, id=814, 701.62125pt x 497.60907pt>
+File: GFC1.png Graphic file (type png)
+ <use GFC1.png>
+Package pdftex.def Info: GFC1.png used on input line 2156.
+(pdftex.def)             Requested size: 307.28987pt x 217.9464pt.
+ [128
+
+ <./GFC1.png>] [129
+
+] <Iceland1.png, id=825, 469.755pt x 264.23718pt>
+File: Iceland1.png Graphic file (type png)
+ <use Iceland1.png>
+Package pdftex.def Info: Iceland1.png used on input line 2171.
+(pdftex.def)             Requested size: 307.28987pt x 172.8488pt.
+ [130
+
+ <./Iceland1.png>] [131
+
+] [132
+
+] [133
+
+] [134
+
+] [135
+
+] [136
+
+] [137
+
+] [138
+
+] [139
+
+] [140
+
+] [141
+
+] [142
+
+] [143
+
+] (/usr/local/texlive/2017/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+) [144
+
+] <Europe1.png, id=904, 752.8125pt x 465.23813pt>
+File: Europe1.png Graphic file (type png)
+ <use Europe1.png>
+Package pdftex.def Info: Europe1.png used on input line 2357.
+(pdftex.def)             Requested size: 307.28987pt x 189.91118pt.
+ [145
+
+ <./Europe1.png>] <Stockmarket2008.png, id=911, 324.46219pt x 481.8pt>
+File: Stockmarket2008.png Graphic file (type png)
+ <use Stockmarket2008.png>
+Package pdftex.def Info: Stockmarket2008.png used on input line 2365.
+(pdftex.def)             Requested size: 153.64493pt x 228.15161pt.
+
+Overfull \vbox (7.64513pt too high) detected at line 2365
+ []
+
+[146
+
+ <./Stockmarket2008.png>] [147
+
+]
+Overfull \vbox (3.02696pt too high) detected at line 2389
+ []
+
+[148
+
+]
+Overfull \vbox (3.02696pt too high) detected at line 2403
+ []
+
+[149
+
+] [150
+
+]
+Overfull \vbox (26.72697pt too high) detected at line 2444
+ []
+
+[151
+
+] [152
+
+] [153
+
+] <G20.png, id=953, 649.67719pt x 333.49594pt>
+File: G20.png Graphic file (type png)
+ <use G20.png>
+Package pdftex.def Info: G20.png used on input line 2483.
+(pdftex.def)             Requested size: 307.28987pt x 157.7405pt.
+ [154
+
+ <./G20.png>] [155
+
+] <BCBS1.png, id=964, 657.95813pt x 321.45094pt>
+File: BCBS1.png Graphic file (type png)
+ <use BCBS1.png>
+Package pdftex.def Info: BCBS1.png used on input line 2499.
+(pdftex.def)             Requested size: 307.28987pt x 150.1304pt.
+ [156
+
+ <./BCBS1.png>] [157
+
+] <IMF.png, id=976, 148.30406pt x 148.30406pt>
+File: IMF.png Graphic file (type png)
+ <use IMF.png>
+Package pdftex.def Info: IMF.png used on input line 2524.
+(pdftex.def)             Requested size: 148.30368pt x 148.30368pt.
+
+Overfull \vbox (3.35974pt too high) detected at line 2524
+ []
+
+[158
+
+ <./IMF.png>] [159
+
+] [160
+
+] [161
+
+] <Figures/BoE_UnconvMonPol.png, id=999, 385.44pt x 398.48875pt>
+File: Figures/BoE_UnconvMonPol.png Graphic file (type png)
+ <use Figures/BoE_UnconvMonPol.png>
+Package pdftex.def Info: Figures/BoE_UnconvMonPol.png used on input line 2585.
+(pdftex.def)             Requested size: 101.40622pt x 104.83896pt.
+ <Figures/Fed_UnconvMonPol.png, id=1000, 364.36125pt x 452.69125pt>
+File: Figures/Fed_UnconvMonPol.png Graphic file (type png)
+ <use Figures/Fed_UnconvMonPol.png>
+Package pdftex.def Info: Figures/Fed_UnconvMonPol.png used on input line 2585.
+(pdftex.def)             Requested size: 101.40622pt x 125.98595pt.
+ <Figures/ECB_UnconvMonPol.png, id=1001, 360.34625pt x 445.665pt>
+File: Figures/ECB_UnconvMonPol.png Graphic file (type png)
+ <use Figures/ECB_UnconvMonPol.png>
+Package pdftex.def Info: Figures/ECB_UnconvMonPol.png used on input line 2585.
+(pdftex.def)             Requested size: 101.40622pt x 125.41096pt.
+ [162
+
+ <./Figures/BoE_UnconvMonPol.png> <./Figures/Fed_UnconvMonPol.png> <./Figures/ECB_UnconvMonPol.png>] <QE123.png, id=1010, 479.54156pt x 411.78844pt>
+File: QE123.png Graphic file (type png)
+ <use QE123.png>
+Package pdftex.def Info: QE123.png used on input line 2595.
+(pdftex.def)             Requested size: 245.83282pt x 211.10262pt.
+ [163
+
+ <./QE123.png>] <Figures/How_QE_works.png, id=1017, 918.43124pt x 405.515pt>
+File: Figures/How_QE_works.png Graphic file (type png)
+ <use Figures/How_QE_works.png>
+Package pdftex.def Info: Figures/How_QE_works.png used on input line 2600.
+(pdftex.def)             Requested size: 307.28987pt x 135.67665pt.
+ [164
+
+ <./Figures/How_QE_works.png>] <Figures/FinancialConditions.png, id=1024, 705.63625pt x 676.5275pt>
+File: Figures/FinancialConditions.png Graphic file (type png)
+ <use Figures/FinancialConditions.png>
+Package pdftex.def Info: Figures/FinancialConditions.png used on input line 2612.
+(pdftex.def)             Requested size: 245.83282pt x 235.69392pt.
+
+Overfull \vbox (7.02078pt too high) detected at line 2612
+ []
+
+[165
+
+ <./Figures/FinancialConditions.png>] <Figures/MacroIndicators.png, id=1031, 703.62875pt x 715.67375pt>
+File: Figures/MacroIndicators.png Graphic file (type png)
+ <use Figures/MacroIndicators.png>
+Package pdftex.def Info: Figures/MacroIndicators.png used on input line 2621.
+(pdftex.def)             Requested size: 245.83282pt x 250.03091pt.
+
+Overfull \vbox (21.35777pt too high) detected at line 2621
+ []
+
+[166
+
+ <./Figures/MacroIndicators.png>] [167
+
+] [168
+
+] [169
+
+] [170
+
+] [171
+
+] [172
+
+] [173
+
+]
+Overfull \vbox (23.85614pt too high) detected at line 2742
+ []
+
+[174
+
+] [175
+
+] [176
+
+] [177
+
+] [178
+
+] [179
+
+] [180
+
+] [181
+
+] [182
+
+] [183
+
+] [184
+
+] [185
+
+] [186
+
+] [187
+
+] [188
+
+] [189
+
+] [190
+
+] [191
+
+] [192
+
+] [193
+
+]
+Overfull \vbox (3.59787pt too high) detected at line 3082
+ []
+
+[194
+
+] [195
+
+] [196
+
+] [197
+
+] [198
+
+] [199
+
+] [200
+
+] <table5_1.png, id=1215, 755.82375pt x 336.25626pt>
+File: table5_1.png Graphic file (type png)
+ <use table5_1.png>
+Package pdftex.def Info: table5_1.png used on input line 3174.
+(pdftex.def)             Requested size: 307.28987pt x 136.70638pt.
+ [201
+
+ <./table5_1.png>] [202
+
+] [203
+
+] [204
+
+] [205
+
+] [206
+
+] [207
+
+] [208
+
+] [209
+
+] [210
+
+] [211
+
+] <6_1.png, id=1275, 474.77374pt x 155.58125pt>
+File: 6_1.png Graphic file (type png)
+ <use 6_1.png>
+Package pdftex.def Info: 6_1.png used on input line 3335.
+(pdftex.def)             Requested size: 307.28987pt x 100.70166pt.
+ [212
+
+ <./6_1.png>] [213
+
+] [214
+
+] [215
+
+] [216
+
+] [217
+
+] [218
+
+] [219
+
+]
+Overfull \vbox (25.85611pt too high) detected at line 3427
+ []
+
+[220
+
+] [221
+
+] <6_2.png, id=1328, 645.41125pt x 489.83pt>
+File: 6_2.png Graphic file (type png)
+ <use 6_2.png>
+Package pdftex.def Info: 6_2.png used on input line 3442.
+(pdftex.def)             Requested size: 307.28987pt x 233.20981pt.
+ [222
+
+ <./6_2.png>] <6_3.png, id=1335, 645.41125pt x 357.335pt>
+File: 6_3.png Graphic file (type png)
+ <use 6_3.png>
+Package pdftex.def Info: 6_3.png used on input line 3448.
+(pdftex.def)             Requested size: 307.28987pt x 170.12846pt.
+ [223
+
+ <./6_3.png>] <6_4.png, id=1343, 639.38875pt x 594.22pt>
+File: 6_4.png Graphic file (type png)
+ <use 6_4.png>
+Package pdftex.def Info: 6_4.png used on input line 3455.
+(pdftex.def)             Requested size: 245.83282pt x 228.46259pt.
+ [224
+
+ <./6_4.png>] [225
+
+] <6_5.png, id=1355, 595.22375pt x 303.1325pt>
+File: 6_5.png Graphic file (type png)
+ <use 6_5.png>
+Package pdftex.def Info: 6_5.png used on input line 3474.
+(pdftex.def)             Requested size: 307.28987pt x 156.49194pt.
+ [226
+
+ <./6_5.png>] <6_6.png, id=1362, 595.22375pt x 315.1775pt>
+File: 6_6.png Graphic file (type png)
+ <use 6_6.png>
+Package pdftex.def Info: 6_6.png used on input line 3481.
+(pdftex.def)             Requested size: 307.28987pt x 162.71017pt.
+ [227
+
+ <./6_6.png>] [228
+
+] [229
+
+] [230
+
+] [231
+
+] <7_1.png, id=1390, 501.875pt x 580.1675pt>
+File: 7_1.png Graphic file (type png)
+ <use 7_1.png>
+Package pdftex.def Info: 7_1.png used on input line 3531.
+(pdftex.def)             Requested size: 184.3758pt x 213.13596pt.
+ [232
+
+ <./7_1.png>] [233
+
+] [234
+
+] <7_2.png, id=1408, 444.66125pt x 204.765pt>
+File: 7_2.png Graphic file (type png)
+ <use 7_2.png>
+Package pdftex.def Info: 7_2.png used on input line 3559.
+(pdftex.def)             Requested size: 307.28987pt x 141.5067pt.
+ [235
+
+ <./7_2.png>] [236
+
+] [237
+
+] [238
+
+] [239
+
+]
+Overfull \vbox (2.2535pt too high) detected at line 3618
+ []
+
+[240
+
+] [241
+
+] [242
+
+] [243
+
+] [244
+
+]
+Overfull \vbox (5.18262pt too high) detected at line 3680
+ []
+
+[245
+
+] [246
+
+] [247
+
+] [248
+
+]
+Overfull \vbox (15.8535pt too high) detected at line 3727
+ []
+
+[249
+
+] <DepIns.png, id=1488, 374.90062pt x 325.215pt>
+File: DepIns.png Graphic file (type png)
+ <use DepIns.png>
+Package pdftex.def Info: DepIns.png used on input line 3734.
+(pdftex.def)             Requested size: 307.28987pt x 266.57877pt.
+
+Overfull \vbox (18.43214pt too high) detected at line 3734
+ []
+
+[250
+
+ <./DepIns.png>] [251
+
+] [252
+
+] [253
+
+] [254
+
+] [255
+
+] [256
+
+] [257
+
+] [258
+
+] [259
+
+] [260
+
+] [261
+
+] [262
+
+] [263
+
+] [264
+
+] [265
+
+] [266
+
+] [267
+
+] [268
+
+] [269
+
+] [270
+
+] [271
+
+] [272
+
+] [273
+
+] [274
+
+] [275
+
+] [276
+
+] [277
+
+] [278
+
+] <figuretwo.png, id=1643, 925.4575pt x 530.98375pt>
+File: figuretwo.png Graphic file (type png)
+ <use figuretwo.png>
+Package pdftex.def Info: figuretwo.png used on input line 4114.
+(pdftex.def)             Requested size: 307.28987pt x 176.31085pt.
+ [279
+
+ <./figuretwo.png>] [280
+
+] [281
+
+] [282
+
+] <srisk4.png, id=1666, 684.30656pt x 270.25969pt>
+File: srisk4.png Graphic file (type png)
+ <use srisk4.png>
+Package pdftex.def Info: srisk4.png used on input line 4169.
+(pdftex.def)             Requested size: 307.28987pt x 121.36417pt.
+ [283
+
+ <./srisk4.png>] [284
+
+] [285
+
+] [286
+
+] <srisk1.png, id=1694, 498.86375pt x 121.45375pt>
+File: srisk1.png Graphic file (type png)
+ <use srisk1.png>
+Package pdftex.def Info: srisk1.png used on input line 4227.
+(pdftex.def)             Requested size: 216.81pt x 52.78375pt.
+ [287
+
+ <./srisk1.png>] <srisk2.png, id=1701, 951.555pt x 242.9075pt>
+File: srisk2.png Graphic file (type png)
+ <use srisk2.png>
+Package pdftex.def Info: srisk2.png used on input line 4240.
+(pdftex.def)             Requested size: 312.9803pt x 79.89655pt.
+
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 4240--4240
+ [] 
+ []
+
+[288
+
+ <./srisk2.png>] <srisk3.png, id=1708, 229.85875pt x 197.73875pt>
+File: srisk3.png Graphic file (type png)
+ <use srisk3.png>
+Package pdftex.def Info: srisk3.png used on input line 4256.
+(pdftex.def)             Requested size: 144.54pt x 124.34978pt.
+ [289
+
+ <./srisk3.png>] [290
+
+] [291
+
+] <shadowbank1.png, id=1726, 703.87968pt x 361.35pt>
+File: shadowbank1.png Graphic file (type png)
+ <use shadowbank1.png>
+Package pdftex.def Info: shadowbank1.png used on input line 4311.
+(pdftex.def)             Requested size: 307.28987pt x 157.74838pt.
+ [292
+
+ <./shadowbank1.png>] [293
+
+] <shadowbank2.png, id=1738, 596.70717pt x 449.60893pt>
+File: shadowbank2.png Graphic file (type png)
+ <use shadowbank2.png>
+Package pdftex.def Info: shadowbank2.png used on input line 4328.
+(pdftex.def)             Requested size: 307.28987pt x 231.54088pt.
+
+Overfull \vbox (2.86774pt too high) detected at line 4328
+ []
+
+[294
+
+ <./shadowbank2.png>] [295
+
+] [296
+
+] [297
+
+] [298
+
+] [299
+
+] <shadowbank3.png, id=1771, 657.95813pt x 321.45094pt>
+File: shadowbank3.png Graphic file (type png)
+ <use shadowbank3.png>
+Package pdftex.def Info: shadowbank3.png used on input line 4390.
+(pdftex.def)             Requested size: 307.28987pt x 150.1304pt.
+ [300
+
+ <./shadowbank3.png>] <shadowbank4.png, id=1777, 650.43pt x 459.6372pt>
+File: shadowbank4.png Graphic file (type png)
+ <use shadowbank4.png>
+Package pdftex.def Info: shadowbank4.png used on input line 4396.
+(pdftex.def)             Requested size: 307.28987pt x 217.15868pt.
+ [301
+
+ <./shadowbank4.png>] <shadowbank5.png, id=1785, 698.61pt x 389.95688pt>
+File: shadowbank5.png Graphic file (type png)
+ <use shadowbank5.png>
+Package pdftex.def Info: shadowbank5.png used on input line 4401.
+(pdftex.def)             Requested size: 307.28987pt x 171.528pt.
+ [302
+
+ <./shadowbank5.png>] <shadowbank6.png, id=1792, 673.91776pt x 435.42674pt>
+File: shadowbank6.png Graphic file (type png)
+ <use shadowbank6.png>
+Package pdftex.def Info: shadowbank6.png used on input line 4408.
+(pdftex.def)             Requested size: 307.28987pt x 198.5447pt.
+ [303
+
+ <./shadowbank6.png>] <shadowbank7.png, id=1799, 686.0832pt x 437.9562pt>
+File: shadowbank7.png Graphic file (type png)
+ <use shadowbank7.png>
+Package pdftex.def Info: shadowbank7.png used on input line 4412.
+(pdftex.def)             Requested size: 307.28987pt x 196.15625pt.
+ [304
+
+ <./shadowbank7.png>] <shadowbank8.png, id=1806, 671.6292pt x 439.8834pt>
+File: shadowbank8.png Graphic file (type png)
+ <use shadowbank8.png>
+Package pdftex.def Info: shadowbank8.png used on input line 4417.
+(pdftex.def)             Requested size: 307.28987pt x 201.25475pt.
+ [305
+
+ <./shadowbank8.png>] [306
+
+] [307
+
+] [308
+
+] <10_1.png, id=1830, 518.93875pt x 185.69376pt>
+File: 10_1.png Graphic file (type png)
+ <use 10_1.png>
+Package pdftex.def Info: 10_1.png used on input line 4453.
+(pdftex.def)             Requested size: 307.28987pt x 109.96355pt.
+ [309
+
+ <./10_1.png>] [310
+
+] <10_2.png, id=1842, 515.9275pt x 199.74625pt>
+File: 10_2.png Graphic file (type png)
+ <use 10_2.png>
+Package pdftex.def Info: 10_2.png used on input line 4468.
+(pdftex.def)             Requested size: 307.28987pt x 118.97392pt.
+ [311
+
+ <./10_2.png>] [312
+
+] [313
+
+] [314
+
+] [315
+
+] <10_3.png, id=1870, 543.02875pt x 285.065pt>
+File: 10_3.png Graphic file (type png)
+ <use 10_3.png>
+Package pdftex.def Info: 10_3.png used on input line 4524.
+(pdftex.def)             Requested size: 307.28987pt x 161.31865pt.
+ [316
+
+ <./10_3.png>] [317
+
+] <10_4.png, id=1882, 574.145pt x 330.23375pt>
+File: 10_4.png Graphic file (type png)
+
+<use 10_4.png>
+Package pdftex.def Info: 10_4.png used on input line 4541.
+(pdftex.def)             Requested size: 307.28987pt x 176.74637pt.
+ [318
+
+ <./10_4.png>] [319
+
+] [320
+
+] <10_5.png, id=1900, 530.98375pt x 294.09875pt>
+File: 10_5.png Graphic file (type png)
+ <use 10_5.png>
+Package pdftex.def Info: 10_5.png used on input line 4568.
+(pdftex.def)             Requested size: 307.28987pt x 170.20042pt.
+ [321
+
+ <./10_5.png>] [322
+
+] [323
+
+] [324
+
+] [325
+
+] [326
+
+] <10_6.png, id=1933, 507.8975pt x 364.36125pt>
+File: 10_6.png Graphic file (type png)
+ <use 10_6.png>
+Package pdftex.def Info: 10_6.png used on input line 4634.
+(pdftex.def)             Requested size: 307.28987pt x 220.45313pt.
+
+Overfull \vbox (1.85095pt too high) detected at line 4634
+ []
+
+[327
+
+ <./10_6.png>] [328
+
+] [329
+
+] [330
+
+] [331
+
+] [332
+
+] [333
+
+] [334
+
+] [335
+
+] [336
+
+] <11_1.png, id=1987, 518.93875pt x 246.9225pt>
+File: 11_1.png Graphic file (type png)
+ <use 11_1.png>
+Package pdftex.def Info: 11_1.png used on input line 4746.
+(pdftex.def)             Requested size: 307.28987pt x 146.22179pt.
+ [337
+
+ <./11_1.png>] [338
+
+] [339
+
+] <11_2.png, id=2005, 228.855pt x 285.065pt>
+File: 11_2.png Graphic file (type png)
+ <use 11_2.png>
+Package pdftex.def Info: 11_2.png used on input line 4775.
+(pdftex.def)             Requested size: 184.3758pt x 229.67041pt.
+ [340
+
+ <./11_2.png>] <11_3.png, id=2012, 228.855pt x 230.8625pt>
+File: 11_3.png Graphic file (type png)
+ <use 11_3.png>
+Package pdftex.def Info: 11_3.png used on input line 4781.
+(pdftex.def)             Requested size: 184.3758pt x 186.00067pt.
+ [341
+
+ <./11_3.png>] [342
+
+] [343
+
+] <11_4.png, id=2030, 542.025pt x 356.33125pt>
+File: 11_4.png Graphic file (type png)
+ <use 11_4.png>
+Package pdftex.def Info: 11_4.png used on input line 4816.
+(pdftex.def)             Requested size: 307.28987pt x 202.01804pt.
+ [344
+
+ <./11_4.png>] [345
+
+] <11_5.png, id=2042, 517.935pt x 275.0275pt>
+File: 11_5.png Graphic file (type png)
+ <use 11_5.png>
+Package pdftex.def Info: 11_5.png used on input line 4830.
+(pdftex.def)             Requested size: 307.28987pt x 163.17967pt.
+ [346
+
+ <./11_5.png>] <11_7.png, id=2049, 374.39874pt x 246.9225pt>
+File: 11_7.png Graphic file (type png)
+ <use 11_7.png>
+Package pdftex.def Info: 11_7.png used on input line 4837.
+(pdftex.def)             Requested size: 307.28987pt x 202.67366pt.
+ [347
+
+ <./11_7.png>] <11_8.png, id=2056, 398.48875pt x 252.945pt>
+File: 11_8.png Graphic file (type png)
+ <use 11_8.png>
+Package pdftex.def Info: 11_8.png used on input line 4844.
+(pdftex.def)             Requested size: 307.28987pt x 195.06158pt.
+ [348
+
+ <./11_8.png>] <11_6.png, id=2063, 375.4025pt x 554.07pt>
+File: 11_6.png Graphic file (type png)
+ <use 11_6.png>
+Package pdftex.def Info: 11_6.png used on input line 4851.
+(pdftex.def)             Requested size: 153.64493pt x 226.77281pt.
+
+Overfull \vbox (8.17064pt too high) detected at line 4851
+ []
+
+[349
+
+ <./11_6.png>] [350
+
+] [351
+
+] [352
+
+] <11_9.png, id=2086, 457.71pt x 278.03876pt>
+File: 11_9.png Graphic file (type png)
+ <use 11_9.png>
+Package pdftex.def Info: 11_9.png used on input line 4890.
+(pdftex.def)             Requested size: 307.28987pt x 186.67107pt.
+ [353
+
+ <./11_9.png>] [354
+
+] [355
+
+] <11_10.png, id=2104, 465.74pt x 251.94125pt>
+File: 11_10.png Graphic file (type png)
+ <use 11_10.png>
+Package pdftex.def Info: 11_10.png used on input line 4916.
+(pdftex.def)             Requested size: 307.28987pt x 166.23175pt.
+ [356
+
+ <./11_10.png>] <11_11.png, id=2112, 569.12625pt x 354.32375pt>
+File: 11_11.png Graphic file (type png)
+ <use 11_11.png>
+Package pdftex.def Info: 11_11.png used on input line 4923.
+(pdftex.def)             Requested size: 307.28987pt x 191.32115pt.
+ [357
+
+ <./11_11.png>] [358
+
+] <11_12.png, id=2124, 354.32375pt x 189.70876pt>
+File: 11_12.png Graphic file (type png)
+ <use 11_12.png>
+Package pdftex.def Info: 11_12.png used on input line 4937.
+(pdftex.def)             Requested size: 307.28987pt x 164.53001pt.
+ [359
+
+ <./11_12.png>] [360
+
+] [361
+
+] <11_13.png, id=2142, 283.0575pt x 577.15625pt>
+File: 11_13.png Graphic file (type png)
+ <use 11_13.png>
+Package pdftex.def Info: 11_13.png used on input line 4960.
+(pdftex.def)             Requested size: 153.64493pt x 313.28896pt.
+
+Overfull \hbox (5.99908pt too wide) in paragraph at lines 4960--4960
+ [] 
+ []
+
+[362
+
+ <./11_13.png>] [363
+
+] <11_14.png, id=2154, 379.4175pt x 239.89626pt>
+File: 11_14.png Graphic file (type png)
+ <use 11_14.png>
+Package pdftex.def Info: 11_14.png used on input line 4975.
+(pdftex.def)             Requested size: 307.28987pt x 194.29659pt.
+ [364
+
+ <./11_14.png>] [365
+
+] [366
+
+] [367
+
+] [368
+
+] [369
+
+] [370
+
+] [371
+
+] [372
+
+] [373
+
+] [374
+
+] [375
+
+] [376
+
+] [377
+
+] <12_1.png, id=2228, 519.9425pt x 461.725pt>
+File: 12_1.png Graphic file (type png)
+ <use 12_1.png>
+Package pdftex.def Info: 12_1.png used on input line 5107.
+(pdftex.def)             Requested size: 245.83282pt x 218.30713pt.
+
+Overfull \vbox (10.6605pt too high) detected at line 5107
+ []
+
+[378
+
+ <./12_1.png>] [379
+
+] <12_3.png, id=2241, 523.9575pt x 268.00125pt>
+File: 12_3.png Graphic file (type png)
+ <use 12_3.png>
+Package pdftex.def Info: 12_3.png used on input line 5124.
+(pdftex.def)             Requested size: 307.28987pt x 157.1788pt.
+ [380
+
+ <./12_3.png>] [381
+
+] [382
+
+] [383
+
+] [384
+
+] [385
+
+] [386
+
+] [387
+
+] [388
+
+]
+Overfull \vbox (10.25613pt too high) detected at line 5230
+ []
+
+[389
+
+] [390
+
+] [391
+
+] [392
+
+] [393
+
+] <Sec1.png, id=2317, 489.32813pt x 288.3272pt>
+File: Sec1.png Graphic file (type png)
+ <use Sec1.png>
+Package pdftex.def Info: Sec1.png used on input line 5287.
+(pdftex.def)             Requested size: 307.28987pt x 181.06635pt.
+ [394
+
+ <./Sec1.png>] [395
+
+] [396
+
+] [397
+
+] [398
+
+] [399
+
+] [400
+
+] [401
+
+] [402
+
+] [403
+
+] [404
+
+] [405
+
+] [406
+
+] [407
+
+]
+Overfull \vbox (4.99098pt too high) detected at line 5429
+ []
+
+[408
+
+] [409
+
+] [410
+
+] [411
+
+] [412
+
+] [413
+
+] [414
+
+] [415
+
+] [416
+
+] <13_1.png, id=2438, 559.08875pt x 431.6125pt>
+File: 13_1.png Graphic file (type png)
+ <use 13_1.png>
+Package pdftex.def Info: 13_1.png used on input line 5520.
+(pdftex.def)             Requested size: 245.83282pt x 189.77837pt.
+ [417
+
+ <./13_1.png>] <13_2.png, id=2445, 572.1375pt x 466.74374pt>
+File: 13_2.png Graphic file (type png)
+ <use 13_2.png>
+Package pdftex.def Info: 13_2.png used on input line 5527.
+(pdftex.def)             Requested size: 245.83282pt x 200.54633pt.
+ [418
+
+ <./13_2.png>] [419
+
+] [420
+
+] <13_3.png, id=2462, 526.96875pt x 228.855pt>
+File: 13_3.png Graphic file (type png)
+ <use 13_3.png>
+Package pdftex.def Info: 13_3.png used on input line 5551.
+(pdftex.def)             Requested size: 307.28987pt x 133.45883pt.
+ [421
+
+ <./13_3.png>] [422
+
+] [423
+
+] [424
+
+] [425
+
+] [426
+
+] [427
+
+] [428
+
+] <13_4.png, id=2506, 536.0025pt x 385.44pt>
+File: 13_4.png Graphic file (type png)
+ <use 13_4.png>
+Package pdftex.def Info: 13_4.png used on input line 5633.
+(pdftex.def)             Requested size: 307.28987pt x 220.96756pt.
+
+Overfull \vbox (13.32094pt too high) detected at line 5633
+ []
+
+[429
+
+ <./13_4.png>] <13_5.png, id=2513, 547.04375pt x 344.28625pt>
+File: 13_5.png Graphic file (type png)
+ <use 13_5.png>
+Package pdftex.def Info: 13_5.png used on input line 5641.
+(pdftex.def)             Requested size: 307.28987pt x 193.39786pt.
+ [430
+
+ <./13_5.png>] [431
+
+] [432
+
+] <13_6.png, id=2531, 572.1375pt x 388.45125pt>
+File: 13_6.png Graphic file (type png)
+ <use 13_6.png>
+Package pdftex.def Info: 13_6.png used on input line 5667.
+(pdftex.def)             Requested size: 307.28987pt x 208.63435pt.
+
+Overfull \vbox (0.98773pt too high) detected at line 5667
+ []
+
+[433
+
+ <./13_6.png>] [434
+
+] [435
+
+] [436
+
+] [437
+
+] [438
+
+] [439
+
+] [440
+
+] [441
+
+] [442
+
+] [443
+
+] [444
+
+] [445
+
+] [446
+
+] [447
+
+] <Sarb.png, id=2611, 481.8pt x 243.91125pt>
+File: Sarb.png Graphic file (type png)
+ <use Sarb.png>
+Package pdftex.def Info: Sarb.png used on input line 5883.
+(pdftex.def)             Requested size: 307.28987pt x 155.57043pt.
+ [448
+
+ <./Sarb.png>] [449
+
+] [450
+
+] [451
+
+] [452
+
+] [453
+
+] <FSB.png, id=2643, 511.15968pt x 97.11281pt>
+File: FSB.png Graphic file (type png)
+ <use FSB.png>
+Package pdftex.def Info: FSB.png used on input line 5956.
+(pdftex.def)             Requested size: 184.3758pt x 35.02873pt.
+ [454
+
+ <./FSB.png>] [455
+
+] <NCR.png, id=2654, 196.48407pt x 128.73094pt>
+File: NCR.png Graphic file (type png)
+ <use NCR.png>
+Package pdftex.def Info: NCR.png used on input line 5990.
+(pdftex.def)             Requested size: 61.45703pt x 40.26366pt.
+
+Overfull \vbox (6.9906pt too high) detected at line 5990
+ []
+
+[456
+
+ <./NCR.png>] <NT.png, id=2661, 213.79875pt x 88.83188pt>
+File: NT.png Graphic file (type png)
+ <use NT.png>
+Package pdftex.def Info: NT.png used on input line 6002.
+(pdftex.def)             Requested size: 61.45703pt x 25.53421pt.
+ [457
+
+ <./NT.png>] [458
+
+] <TwinPeak2.png, id=2673, 560.0925pt x 301.125pt>
+File: TwinPeak2.png Graphic file (type png)
+ <use TwinPeak2.png>
+Package pdftex.def Info: TwinPeak2.png used on input line 6041.
+(pdftex.def)             Requested size: 307.28987pt x 165.2149pt.
+ [459
+
+ <./TwinPeak2.png>] [460
+
+] <Redbook.png, id=2684, 447.17062pt x 482.55281pt>
+File: Redbook.png Graphic file (type png)
+ <use Redbook.png>
+Package pdftex.def Info: Redbook.png used on input line 6059.
+(pdftex.def)             Requested size: 215.10196pt x 232.1234pt.
+ [461
+
+ <./Redbook.png>] <TwinPeak1.png, id=2690, 441.90094pt x 229.60782pt>
+File: TwinPeak1.png Graphic file (type png)
+ <use TwinPeak1.png>
+Package pdftex.def Info: TwinPeak1.png used on input line 6067.
+(pdftex.def)             Requested size: 307.28987pt x 159.67331pt.
+ [462
+
+ <./TwinPeak1.png>] [463
+
+] [464
+
+] [465
+
+] [466
+
+] [467
+
+] [468
+
+] [469
+
+] [470
+
+] [471
+
+] [472
+
+] [473
+
+]
+\tf@nav=\write6
+\openout6 = `main.nav'.
+
+\tf@toc=\write7
+\openout7 = `main.toc'.
+
+\tf@snm=\write8
+\openout8 = `main.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 6212.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 6212.
+ (./main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 6212.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 6212.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 2312FA7396EB74E39FE16AE6A4BF7F23;699.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.0pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 21357 strings out of 492995
+ 378912 string characters out of 6132704
+ 505759 words of memory out of 5000000
+ 23405 multiletter control sequences out of 15000+600000
+ 20280 words of font info for 73 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 56i,14n,55p,789b,618s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
+Output written on main.pdf (473 pages, 12178634 bytes).
+PDF statistics:
+ 3030 PDF objects out of 3580 (max. 8388607)
+ 2334 compressed objects within 24 object streams
+ 962 named destinations out of 1000 (max. 500000)
+ 638 words of extra memory for PDF output out of 10000 (max. 10000000)
+
