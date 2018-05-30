@@ -1,0 +1,5 @@
+\select@language {english}
+\beamer@sectionintoc {1}{Why Financial Intermediaries Matter}{10}{0}{1}
+\beamer@sectionintoc {2}{Banks as Financial Intermediaries}{17}{0}{2}
+\beamer@sectionintoc {3}{Banks as financial intermediaries}{19}{0}{3}
+\beamer@sectionintoc {4}{Adverse Selection Problems}{24}{0}{4}
