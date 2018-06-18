@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  18 JAN 2018 00:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  16 JUN 2018 23:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -93,8 +93,8 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen125
 \Gm@layoutvoffset=\dimen126
 \Gm@dimlist=\toks15
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/extsizes/size9.clo
-File: size9.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
  (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
@@ -1056,12 +1056,12 @@ File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
-* \topskip=9.0pt
+* \topskip=11.0pt
 * \footskip=14.22636pt
 * \marginparwidth=4.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=8.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1142,74 +1142,72 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 ) [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 85.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 92.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omsphv.fd
 File: omsphv.fd 
 )
-LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 85.
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 92.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 92.
  [2
 
 ] [3
 
-] <Images/disruption.jpg, id=151, 969.6225pt x 600.2425pt>
-File: Images/disruption.jpg Graphic file (type jpg)
- <use Images/disruption.jpg>
-Package pdftex.def Info: Images/disruption.jpg used on input line 106.
-(pdftex.def)             Requested size: 290.88899pt x 180.07413pt.
- [4
+] [4
 
- <./Images/disruption.jpg>] [5
+] [5
 
-] [6
+]
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 104.
+ [6
 
-] <Images/kpmg.png, id=170, 1114.1625pt x 672.5125pt>
-File: Images/kpmg.png Graphic file (type png)
- <use Images/kpmg.png>
-Package pdftex.def Info: Images/kpmg.png used on input line 134.
-(pdftex.def)             Requested size: 222.82855pt x 134.5001pt.
- [7
+] [7
 
- <./Images/kpmg.png>]
-LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 151.
- [8
+] [8
 
 ] [9
 
-] <Images/drivers.jpg, id=192, 558.085pt x 239.89626pt>
-File: Images/drivers.jpg Graphic file (type jpg)
- <use Images/drivers.jpg>
-Package pdftex.def Info: Images/drivers.jpg used on input line 177.
-(pdftex.def)             Requested size: 279.04182pt x 119.94783pt.
- [10
+] [10
 
- <./Images/drivers.jpg>] [11
+] [11
 
-] [12
+] <Images/disruption.jpg, id=199, 969.6225pt x 600.2425pt>
+File: Images/disruption.jpg Graphic file (type jpg)
+ <use Images/disruption.jpg>
+Package pdftex.def Info: Images/disruption.jpg used on input line 171.
+(pdftex.def)             Requested size: 290.88899pt x 180.07413pt.
+ [12
 
-] [13
+ <./Images/disruption.jpg>] [13
 
 ] [14
 
-] [15
+] <Images/kpmg.png, id=218, 1114.1625pt x 672.5125pt>
+File: Images/kpmg.png Graphic file (type png)
 
-] [16
+<use Images/kpmg.png>
+Package pdftex.def Info: Images/kpmg.png used on input line 199.
+(pdftex.def)             Requested size: 222.82855pt x 134.5001pt.
+ [15
+
+ <./Images/kpmg.png>] [16
 
 ] [17
 
-] [18
+] <Images/drivers.png, id=237, 1114.1625pt x 483.8075pt>
+File: Images/drivers.png Graphic file (type png)
+ <use Images/drivers.png>
+Package pdftex.def Info: Images/drivers.png used on input line 242.
+(pdftex.def)             Requested size: 278.53995pt x 120.95157pt.
+ [18
 
-] [19
+ <./Images/drivers.png>] [19
 
-] <Images/ecosystem.jpg, id=246, 1327.96124pt x 835.12pt>
-File: Images/ecosystem.jpg Graphic file (type jpg)
- <use Images/ecosystem.jpg>
-Package pdftex.def Info: Images/ecosystem.jpg used on input line 311.
-(pdftex.def)             Requested size: 265.58754pt x 167.02103pt.
- [20
+] [20
 
- <./Images/ecosystem.jpg>] [21
+] [21
 
 ] [22
 
@@ -1217,19 +1215,32 @@ Package pdftex.def Info: Images/ecosystem.jpg used on input line 311.
 
 ] [24
 
-] [25
+]
+Overfull \vbox (6.50896pt too high) detected at line 338
+ []
+
+[25
 
 ] [26
 
 ] [27
 
-] [28
+] <Images/ecosystem.jpg, id=292, 1327.96124pt x 835.12pt>
+File: Images/ecosystem.jpg Graphic file (type jpg)
+ <use Images/ecosystem.jpg>
+Package pdftex.def Info: Images/ecosystem.jpg used on input line 376.
+(pdftex.def)             Requested size: 265.58754pt x 167.02103pt.
+ [28
 
-] [29
+ <./Images/ecosystem.jpg>] [29
 
 ] [30
 
-] [31
+]
+Overfull \vbox (5.48805pt too high) detected at line 417
+ []
+
+[31
 
 ] [32
 
@@ -1239,511 +1250,560 @@ Package pdftex.def Info: Images/ecosystem.jpg used on input line 311.
 
 ] [35
 
-] [36
+]
+Overfull \vbox (5.48805pt too high) detected at line 477
+ []
 
-] <Images/dilbert-chain.jpg, id=392, 599.23875pt x 181.67876pt>
-File: Images/dilbert-chain.jpg Graphic file (type jpg)
- <use Images/dilbert-chain.jpg>
-Package pdftex.def Info: Images/dilbert-chain.jpg used on input line 517.
-(pdftex.def)             Requested size: 299.61864pt x 90.83914pt.
- [37
+[36
 
- <./Images/dilbert-chain.jpg>] [38
+] [37
+
+] [38
 
 ] [39
 
 ] [40
 
-]
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 594.
- [41
+] [41
 
 ] [42
 
-] <Images/database.jpg, id=425, 700.6175pt x 401.5pt>
+] [43
+
+] [44
+
+] <Images/dilbert-chain.jpg, id=440, 599.23875pt x 181.67876pt>
+File: Images/dilbert-chain.jpg Graphic file (type jpg)
+ <use Images/dilbert-chain.jpg>
+Package pdftex.def Info: Images/dilbert-chain.jpg used on input line 581.
+(pdftex.def)             Requested size: 299.61864pt x 90.83914pt.
+ [45
+
+ <./Images/dilbert-chain.jpg>] [46
+
+] [47
+
+] [48
+
+]
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 657.
+ [49
+
+] [50
+
+] <Images/database.jpg, id=473, 700.6175pt x 401.5pt>
 File: Images/database.jpg Graphic file (type jpg)
  <use Images/database.jpg>
-Package pdftex.def Info: Images/database.jpg used on input line 618.
+Package pdftex.def Info: Images/database.jpg used on input line 680.
 (pdftex.def)             Requested size: 289.07999pt x 165.66367pt.
- [43
 
- <./Images/database.jpg>] <Images/ledger.png, id=434, 750.805pt x 392.46625pt>
+Overfull \vbox (32.01195pt too high) detected at line 680
+ []
+
+[51
+
+ <./Images/database.jpg>] <Images/ledger.png, id=480, 750.805pt x 392.46625pt>
 File: Images/ledger.png Graphic file (type png)
  <use Images/ledger.png>
-Package pdftex.def Info: Images/ledger.png used on input line 633.
+Package pdftex.def Info: Images/ledger.png used on input line 695.
 (pdftex.def)             Requested size: 262.78568pt x 137.36523pt.
- [44
 
- <./Images/ledger.png>] [45
+Overfull \vbox (29.31352pt too high) detected at line 695
+ []
 
-] <Images/block101.png, id=447, 963.6pt x 722.7pt>
+[52
+
+ <./Images/ledger.png>] [53
+
+] <Images/block101.png, id=493, 963.6pt x 722.7pt>
 File: Images/block101.png Graphic file (type png)
  <use Images/block101.png>
-Package pdftex.def Info: Images/block101.png used on input line 655.
+Package pdftex.def Info: Images/block101.png used on input line 717.
 (pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
- [46
+ [54
 
- <./Images/block101.png>] <Images/blockchain-ecosystem.jpg, id=454, 1539.7525pt x 1051.93pt>
+ <./Images/block101.png>] <Images/blockchain-ecosystem.jpg, id=500, 1539.7525pt x 1051.93pt>
 File: Images/blockchain-ecosystem.jpg Graphic file (type jpg)
  <use Images/blockchain-ecosystem.jpg>
-Package pdftex.def Info: Images/blockchain-ecosystem.jpg used on input line 667.
+Package pdftex.def Info: Images/blockchain-ecosystem.jpg used on input line 729.
 (pdftex.def)             Requested size: 307.94504pt x 210.38226pt.
 
-Overfull \hbox (0.65517pt too wide) in paragraph at lines 667--667
+Overfull \hbox (0.65517pt too wide) in paragraph at lines 729--729
  [] 
  []
 
-[47
+[55
 
- <./Images/blockchain-ecosystem.jpg>] [48
+ <./Images/blockchain-ecosystem.jpg>]
+Overfull \vbox (45.08798pt too high) detected at line 747
+ []
 
-] <Images/advantages.jpg, id=466, 1659.19875pt x 1369.115pt>
+[56
+
+] <Images/advantages.jpg, id=513, 1659.19875pt x 1369.115pt>
 File: Images/advantages.jpg Graphic file (type jpg)
  <use Images/advantages.jpg>
-Package pdftex.def Info: Images/advantages.jpg used on input line 697.
+Package pdftex.def Info: Images/advantages.jpg used on input line 759.
 (pdftex.def)             Requested size: 248.86908pt x 205.35838pt.
- [49
-
- <./Images/advantages.jpg>] <Images/blockchain1.jpg, id=474, 638.385pt x 138.5175pt>
-File: Images/blockchain1.jpg Graphic file (type jpg)
- <use Images/blockchain1.jpg>
-Package pdftex.def Info: Images/blockchain1.jpg used on input line 713.
-(pdftex.def)             Requested size: 216.81pt x 47.04248pt.
- [50
-
- <./Images/blockchain1.jpg>] [51
-
-] <Images/cryptography.png, id=486, 963.6pt x 722.7pt>
-File: Images/cryptography.png Graphic file (type png)
- <use Images/cryptography.png>
-Package pdftex.def Info: Images/cryptography.png used on input line 744.
-(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
- [52
-
- <./Images/cryptography.png>] [53
-
-] <Images/hash1.png, id=498, 712.6625pt x 333.245pt>
-File: Images/hash1.png Graphic file (type png)
- <use Images/hash1.png>
-Package pdftex.def Info: Images/hash1.png used on input line 771.
-(pdftex.def)             Requested size: 213.8004pt x 99.97426pt.
- [54
-
- <./Images/hash1.png>] <Images/hash2.png, id=505, 826.08624pt x 320.19624pt>
-File: Images/hash2.png Graphic file (type png)
- <use Images/hash2.png>
-Package pdftex.def Info: Images/hash2.png used on input line 785.
-(pdftex.def)             Requested size: 247.82777pt x 96.0596pt.
- [55
-
- <./Images/hash2.png>] <Images/hash3.png, id=513, 783.92876pt x 493.845pt>
-File: Images/hash3.png Graphic file (type png)
- <use Images/hash3.png>
-Package pdftex.def Info: Images/hash3.png used on input line 799.
-(pdftex.def)             Requested size: 235.18044pt x 148.15463pt.
- [56
-
- <./Images/hash3.png>] <Images/hash4.png, id=520, 814.04124pt x 374.39874pt>
-File: Images/hash4.png Graphic file (type png)
- <use Images/hash4.png>
-Package pdftex.def Info: Images/hash4.png used on input line 813.
-(pdftex.def)             Requested size: 244.21425pt x 112.32048pt.
  [57
 
- <./Images/hash4.png>] <Images/hash5.png, id=527, 801.99625pt x 355.3275pt>
-File: Images/hash5.png Graphic file (type png)
- <use Images/hash5.png>
-Package pdftex.def Info: Images/hash5.png used on input line 827.
-(pdftex.def)             Requested size: 240.60072pt x 106.59906pt.
- [58
+ <./Images/advantages.jpg>] <Images/blockchain1.jpg, id=520, 638.385pt x 138.5175pt>
+File: Images/blockchain1.jpg Graphic file (type jpg)
+ <use Images/blockchain1.jpg>
+Package pdftex.def Info: Images/blockchain1.jpg used on input line 775.
+(pdftex.def)             Requested size: 216.81pt x 47.04248pt.
 
- <./Images/hash5.png>]
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 843.
- [59
+Overfull \vbox (47.1589pt too high) detected at line 775
+ []
 
-] <Images/paradox.png, id=539, 875.27pt x 685.56125pt>
-File: Images/paradox.png Graphic file (type png)
- <use Images/paradox.png>
-Package pdftex.def Info: Images/paradox.png used on input line 856.
-(pdftex.def)             Requested size: 175.05089pt x 137.10982pt.
+[58
+
+ <./Images/blockchain1.jpg>] [59
+
+] <Images/cryptography.png, id=533, 963.6pt x 722.7pt>
+File: Images/cryptography.png Graphic file (type png)
+ <use Images/cryptography.png>
+Package pdftex.def Info: Images/cryptography.png used on input line 806.
+(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
+
+Overfull \vbox (0.79472pt too high) detected at line 806
+ []
 
 [60
 
- <./Images/paradox.png>] [61
+ <./Images/cryptography.png>] [61
 
-] [62
+] <Images/hash1.png, id=546, 712.6625pt x 333.245pt>
+File: Images/hash1.png Graphic file (type png)
+ <use Images/hash1.png>
+Package pdftex.def Info: Images/hash1.png used on input line 833.
+(pdftex.def)             Requested size: 213.8004pt x 99.97426pt.
+ [62
 
-] [63
+ <./Images/hash1.png>] <Images/hash2.png, id=553, 826.08624pt x 320.19624pt>
+File: Images/hash2.png Graphic file (type png)
+ <use Images/hash2.png>
+Package pdftex.def Info: Images/hash2.png used on input line 847.
+(pdftex.def)             Requested size: 247.82777pt x 96.0596pt.
+ [63
 
-] <Images/binary.png, id=563, 584.1825pt x 505.89pt>
-File: Images/binary.png Graphic file (type png)
- <use Images/binary.png>
-Package pdftex.def Info: Images/binary.png used on input line 901.
-(pdftex.def)             Requested size: 175.25609pt x 151.76816pt.
+ <./Images/hash2.png>] <Images/hash3.png, id=560, 783.92876pt x 493.845pt>
+File: Images/hash3.png Graphic file (type png)
+ <use Images/hash3.png>
+Package pdftex.def Info: Images/hash3.png used on input line 861.
+(pdftex.def)             Requested size: 235.18044pt x 148.15463pt.
  [64
 
- <./Images/binary.png>] [65
+ <./Images/hash3.png>] <Images/hash4.png, id=567, 814.04124pt x 374.39874pt>
+File: Images/hash4.png Graphic file (type png)
+ <use Images/hash4.png>
+Package pdftex.def Info: Images/hash4.png used on input line 875.
+(pdftex.def)             Requested size: 244.21425pt x 112.32048pt.
+ [65
 
-] <Images/images.jpeg, id=575, 219.82124pt x 230.8625pt>
-File: Images/images.jpeg Graphic file (type jpg)
- <use Images/images.jpeg>
-Package pdftex.def Info: Images/images.jpeg used on input line 925.
-(pdftex.def)             Requested size: 109.91034pt x 115.43095pt.
+ <./Images/hash4.png>] <Images/hash5.png, id=574, 801.99625pt x 355.3275pt>
+File: Images/hash5.png Graphic file (type png)
+ <use Images/hash5.png>
+Package pdftex.def Info: Images/hash5.png used on input line 889.
+(pdftex.def)             Requested size: 240.60072pt x 106.59906pt.
  [66
 
- <./Images/images.jpeg>] <Images/spv.png, id=582, 954.56625pt x 356.33125pt>
-File: Images/spv.png Graphic file (type png)
- <use Images/spv.png>
-Package pdftex.def Info: Images/spv.png used on input line 945.
-(pdftex.def)             Requested size: 286.37209pt x 106.90019pt.
+ <./Images/hash5.png>]
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 905.
  [67
 
- <./Images/spv.png>] <Images/blockchain.png, id=592, 668.4975pt x 303.1325pt>
-File: Images/blockchain.png Graphic file (type png)
- <use Images/blockchain.png>
-Package pdftex.def Info: Images/blockchain.png used on input line 957.
-(pdftex.def)             Requested size: 289.07999pt x 131.08913pt.
+] <Images/paradox.png, id=588, 875.27pt x 685.56125pt>
+File: Images/paradox.png Graphic file (type png)
+ <use Images/paradox.png>
+Package pdftex.def Info: Images/paradox.png used on input line 918.
+(pdftex.def)             Requested size: 175.05089pt x 137.10982pt.
  [68
 
- <./Images/blockchain.png>] <Images/block.png, id=600, 954.56625pt x 499.8675pt>
-File: Images/block.png Graphic file (type png)
- <use Images/block.png>
-Package pdftex.def Info: Images/block.png used on input line 972.
-(pdftex.def)             Requested size: 289.07999pt x 151.37247pt.
- [69
+ <./Images/paradox.png>] [69
 
- <./Images/block.png>] <Images/publickey1.png, id=607, 702.625pt x 279.0425pt>
-File: Images/publickey1.png Graphic file (type png)
- <use Images/publickey1.png>
-Package pdftex.def Info: Images/publickey1.png used on input line 986.
-(pdftex.def)             Requested size: 289.07999pt x 114.8084pt.
- [70
+] [70
 
- <./Images/publickey1.png>] <Images/keys.png, id=616, 574.145pt x 104.39pt>
-File: Images/keys.png Graphic file (type png)
- <use Images/keys.png>
-Package pdftex.def Info: Images/keys.png used on input line 1003.
-(pdftex.def)             Requested size: 172.24483pt x 31.31723pt.
- [71
+] [71
 
- <./Images/keys.png>] [72
+] [72
 
-] [73
+] <Images/binary.png, id=617, 584.1825pt x 505.89pt>
+File: Images/binary.png Graphic file (type png)
+ <use Images/binary.png>
+Package pdftex.def Info: Images/binary.png used on input line 984.
+(pdftex.def)             Requested size: 175.25609pt x 151.76816pt.
+ [73
 
-] <Images/ECDSA3.jpg, id=634, 361.35pt x 154.5775pt>
-File: Images/ECDSA3.jpg Graphic file (type jpg)
- <use Images/ECDSA3.jpg>
-Package pdftex.def Info: Images/ECDSA3.jpg used on input line 1054.
-(pdftex.def)             Requested size: 144.53743pt x 61.8299pt.
- [74
+ <./Images/binary.png>] [74
 
- <./Images/ECDSA3.jpg>] <Images/ECDSA1.jpg, id=641, 395.4775pt x 169.63374pt>
-File: Images/ECDSA1.jpg Graphic file (type jpg)
- <use Images/ECDSA1.jpg>
-Package pdftex.def Info: Images/ECDSA1.jpg used on input line 1077.
-(pdftex.def)             Requested size: 158.18819pt x 67.85228pt.
+] <Images/images.jpeg, id=630, 219.82124pt x 230.8625pt>
+File: Images/images.jpeg Graphic file (type jpg)
+ <use Images/images.jpeg>
+Package pdftex.def Info: Images/images.jpeg used on input line 1008.
+(pdftex.def)             Requested size: 109.91034pt x 115.43095pt.
+ [75
 
-Overfull \hbox (4.54326pt too wide) in paragraph at lines 1077--1077
- [] 
- []
+ <./Images/images.jpeg>] <Images/spv.png, id=637, 803.0pt x 481.8pt>
+File: Images/spv.png Graphic file (type png)
+ <use Images/spv.png>
+Package pdftex.def Info: Images/spv.png used on input line 1028.
+(pdftex.def)             Requested size: 160.59715pt x 96.35829pt.
 
-[75
-
- <./Images/ECDSA1.jpg>] <Images/ECDSA2.png, id=648, 434.62375pt x 215.80624pt>
-File: Images/ECDSA2.png Graphic file (type png)
- <use Images/ECDSA2.png>
-Package pdftex.def Info: Images/ECDSA2.png used on input line 1101.
-(pdftex.def)             Requested size: 173.8464pt x 86.32095pt.
-
-Overfull \hbox (20.20148pt too wide) in paragraph at lines 1101--1101
- [] 
+Overfull \vbox (13.19127pt too high) detected at line 1028
  []
 
 [76
 
- <./Images/ECDSA2.png>] [77
+ <./Images/spv.png (PNG copy)>] <Images/publickey1.png, id=644, 702.625pt x 279.0425pt>
+File: Images/publickey1.png Graphic file (type png)
+ <use Images/publickey1.png>
+Package pdftex.def Info: Images/publickey1.png used on input line 1054.
+(pdftex.def)             Requested size: 289.07999pt x 114.8084pt.
+ [77
 
-] [78
+ <./Images/publickey1.png>] <Images/keys.png, id=653, 574.145pt x 104.39pt>
+File: Images/keys.png Graphic file (type png)
+ <use Images/keys.png>
+Package pdftex.def Info: Images/keys.png used on input line 1071.
+(pdftex.def)             Requested size: 172.24483pt x 31.31723pt.
+ [78
 
-] <Images/p2p.png, id=666, 892.33376pt x 398.48875pt>
-File: Images/p2p.png Graphic file (type png)
- <use Images/p2p.png>
-Package pdftex.def Info: Images/p2p.png used on input line 1178.
-(pdftex.def)             Requested size: 267.7022pt x 119.54755pt.
- [79
+ <./Images/keys.png>] [79
 
- <./Images/p2p.png>] [80
+] [80
 
-] <Images/p2pdisc.png, id=679, 963.6pt x 722.7pt>
-File: Images/p2pdisc.png Graphic file (type png)
- <use Images/p2pdisc.png>
-Package pdftex.def Info: Images/p2pdisc.png used on input line 1199.
-(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
+] <Images/ECDSA3.jpg, id=671, 361.35pt x 154.5775pt>
+File: Images/ECDSA3.jpg Graphic file (type jpg)
+ <use Images/ECDSA3.jpg>
+Package pdftex.def Info: Images/ECDSA3.jpg used on input line 1128.
+(pdftex.def)             Requested size: 144.53743pt x 61.8299pt.
  [81
 
- <./Images/p2pdisc.png>] [82
+ <./Images/ECDSA3.jpg>] <Images/ECDSA1.jpg, id=678, 395.4775pt x 169.63374pt>
+File: Images/ECDSA1.jpg Graphic file (type jpg)
+ <use Images/ECDSA1.jpg>
+Package pdftex.def Info: Images/ECDSA1.jpg used on input line 1151.
+(pdftex.def)             Requested size: 158.18819pt x 67.85228pt.
 
-] [83
-
-] <Images/nodes.png, id=696, 963.6pt x 722.7pt>
-File: Images/nodes.png Graphic file (type png)
- <use Images/nodes.png>
-Package pdftex.def Info: Images/nodes.png used on input line 1241.
-(pdftex.def)             Requested size: 337.26506pt x 252.94878pt.
-
-Overfull \hbox (29.97519pt too wide) in paragraph at lines 1241--1241
+Overfull \hbox (4.54326pt too wide) in paragraph at lines 1151--1151
  [] 
  []
 
 
-Overfull \vbox (38.99103pt too high) detected at line 1241
+Overfull \vbox (5.45695pt too high) detected at line 1151
  []
 
-[84
+[82
 
- <./Images/nodes.png>] [85
+ <./Images/ECDSA1.jpg>] <Images/ECDSA2.png, id=685, 434.62375pt x 215.80624pt>
+File: Images/ECDSA2.png Graphic file (type png)
+ <use Images/ECDSA2.png>
+Package pdftex.def Info: Images/ECDSA2.png used on input line 1175.
+(pdftex.def)             Requested size: 173.8464pt x 86.32095pt.
+
+Overfull \hbox (20.20148pt too wide) in paragraph at lines 1175--1175
+ [] 
+ []
+
+[83
+
+ <./Images/ECDSA2.png>] <Images/Digital_Signature.png, id=693, 1027.84pt x 770.88pt>
+File: Images/Digital_Signature.png Graphic file (type png)
+ <use Images/Digital_Signature.png>
+Package pdftex.def Info: Images/Digital_Signature.png used on input line 1187.
+(pdftex.def)             Requested size: 205.56436pt x 154.17326pt.
+ [84
+
+ <./Images/Digital_Signature.png>]
+Overfull \vbox (13.35965pt too high) detected at line 1240
+ []
+
+[85
 
 ] [86
 
-] [87
+] <Images/p2p.png, id=712, 892.33376pt x 398.48875pt>
+File: Images/p2p.png Graphic file (type png)
+ <use Images/p2p.png>
+Package pdftex.def Info: Images/p2p.png used on input line 1262.
+(pdftex.def)             Requested size: 267.7022pt x 119.54755pt.
+ [87
 
-] [88
+ <./Images/p2p.png>] [88
 
-] <Images/pvt.png, id=724, 963.6pt x 722.7pt>
-File: Images/pvt.png Graphic file (type png)
- <use Images/pvt.png>
-Package pdftex.def Info: Images/pvt.png used on input line 1294.
+] <Images/p2pdisc.png, id=725, 963.6pt x 722.7pt>
+File: Images/p2pdisc.png Graphic file (type png)
+ <use Images/p2pdisc.png>
+Package pdftex.def Info: Images/p2pdisc.png used on input line 1283.
 (pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
  [89
 
- <./Images/pvt.png>] [90
+ <./Images/p2pdisc.png>] [90
 
-] <Images/genesis.png, id=737, 923.45pt x 615.29875pt>
-File: Images/genesis.png Graphic file (type png)
- <use Images/genesis.png>
-Package pdftex.def Info: Images/genesis.png used on input line 1314.
-(pdftex.def)             Requested size: 256.0748pt x 170.62067pt.
- [91
+]
+Overfull \vbox (42.20804pt too high) detected at line 1317
+ []
 
- <./Images/genesis.png>] [92
+[91
 
-] [93
+] <Images/nodes.png, id=743, 963.6pt x 722.7pt>
+File: Images/nodes.png Graphic file (type png)
+ <use Images/nodes.png>
+Package pdftex.def Info: Images/nodes.png used on input line 1326.
+(pdftex.def)             Requested size: 337.26506pt x 252.94878pt.
+
+Overfull \hbox (29.97519pt too wide) in paragraph at lines 1326--1326
+ [] 
+ []
+
+
+Overfull \vbox (50.53185pt too high) detected at line 1326
+ []
+
+[92
+
+ <./Images/nodes.png>] [93
 
 ] [94
 
-] <Images/tx.png, id=760, 1162.3425pt x 638.385pt>
-File: Images/tx.png Graphic file (type png)
- <use Images/tx.png>
-Package pdftex.def Info: Images/tx.png used on input line 1372.
-(pdftex.def)             Requested size: 290.58492pt x 159.59586pt.
- [95
+] [95
 
- <./Images/tx.png>] [96
+] [96
 
-] <Images/tx-chain.png, id=773, 612.2875pt x 440.64626pt>
-File: Images/tx-chain.png Graphic file (type png)
- <use Images/tx-chain.png>
-Package pdftex.def Info: Images/tx-chain.png used on input line 1396.
-(pdftex.def)             Requested size: 244.91066pt x 176.25537pt.
+] <Images/pvt.png, id=770, 963.6pt x 722.7pt>
+File: Images/pvt.png Graphic file (type png)
+ <use Images/pvt.png>
+Package pdftex.def Info: Images/pvt.png used on input line 1380.
+(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
  [97
 
- <./Images/tx-chain.png>] [98
+ <./Images/pvt.png>] [98
 
-] <Images/spend.png, id=787, 963.6pt x 722.7pt>
-File: Images/spend.png Graphic file (type png)
- <use Images/spend.png>
-Package pdftex.def Info: Images/spend.png used on input line 1415.
-(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
+] <Images/genesis.png, id=783, 923.45pt x 615.29875pt>
+File: Images/genesis.png Graphic file (type png)
+ <use Images/genesis.png>
+Package pdftex.def Info: Images/genesis.png used on input line 1405.
+(pdftex.def)             Requested size: 256.0748pt x 170.62067pt.
  [99
 
- <./Images/spend.png>] [100
+ <./Images/genesis.png>] <Images/block.png, id=790, 954.56625pt x 499.8675pt>
+File: Images/block.png Graphic file (type png)
+ <use Images/block.png>
+Package pdftex.def Info: Images/block.png used on input line 1420.
+(pdftex.def)             Requested size: 289.07999pt x 151.37247pt.
+ [100
 
-] [101
+ <./Images/block.png>] [101
 
-] <Images/transaction-fees.png, id=804, 1266.7325pt x 492.84125pt>
-File: Images/transaction-fees.png Graphic file (type png)
- <use Images/transaction-fees.png>
-Package pdftex.def Info: Images/transaction-fees.png used on input line 1451.
-(pdftex.def)             Requested size: 316.68234pt x 123.21pt.
+] [102
 
-Overfull \hbox (9.39247pt too wide) in paragraph at lines 1451--1451
- [] 
- []
-
-[102
-
- <./Images/transaction-fees.png>] [103
+] [103
 
 ] [104
 
-] [105
+] <Images/tx.png, id=818, 1162.3425pt x 638.385pt>
+File: Images/tx.png Graphic file (type png)
+ <use Images/tx.png>
+Package pdftex.def Info: Images/tx.png used on input line 1498.
+(pdftex.def)             Requested size: 290.58492pt x 159.59586pt.
+ [105
 
-] <Images/miners-revenue.png, id=828, 1271.75125pt x 492.84125pt>
-File: Images/miners-revenue.png Graphic file (type png)
- <use Images/miners-revenue.png>
-Package pdftex.def Info: Images/miners-revenue.png used on input line 1501.
-(pdftex.def)             Requested size: 317.93703pt x 123.21pt.
+ <./Images/tx.png>] [106
 
-Overfull \hbox (10.64716pt too wide) in paragraph at lines 1501--1501
+] <Images/tx-chain.png, id=831, 612.2875pt x 440.64626pt>
+File: Images/tx-chain.png Graphic file (type png)
+ <use Images/tx-chain.png>
+Package pdftex.def Info: Images/tx-chain.png used on input line 1522.
+(pdftex.def)             Requested size: 244.91066pt x 176.25537pt.
+
+Overfull \vbox (2.77342pt too high) detected at line 1522
+ []
+
+[107
+
+ <./Images/tx-chain.png>] <Images/spend.png, id=839, 963.6pt x 722.7pt>
+File: Images/spend.png Graphic file (type png)
+ <use Images/spend.png>
+Package pdftex.def Info: Images/spend.png used on input line 1539.
+(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
+
+Overfull \vbox (0.79472pt too high) detected at line 1539
+ []
+
+[108
+
+ <./Images/spend.png>] [109
+
+] [110
+
+] <Images/transaction-fees.png, id=857, 1266.7325pt x 492.84125pt>
+File: Images/transaction-fees.png Graphic file (type png)
+ <use Images/transaction-fees.png>
+Package pdftex.def Info: Images/transaction-fees.png used on input line 1575.
+(pdftex.def)             Requested size: 316.68234pt x 123.21pt.
+
+Overfull \hbox (9.39247pt too wide) in paragraph at lines 1575--1575
  [] 
  []
 
-[106
+[111
 
- <./Images/miners-revenue.png>] <Images/trans.png, id=835, 919.435pt x 366.36874pt>
+ <./Images/transaction-fees.png>] [112
+
+] [113
+
+] [114
+
+] <Images/miners-revenue.png, id=880, 1271.75125pt x 492.84125pt>
+File: Images/miners-revenue.png Graphic file (type png)
+ <use Images/miners-revenue.png>
+Package pdftex.def Info: Images/miners-revenue.png used on input line 1625.
+(pdftex.def)             Requested size: 317.93703pt x 123.21pt.
+
+Overfull \hbox (10.64716pt too wide) in paragraph at lines 1625--1625
+ [] 
+ []
+
+[115
+
+ <./Images/miners-revenue.png>] <Images/trans.png, id=888, 919.435pt x 366.36874pt>
 File: Images/trans.png Graphic file (type png)
  <use Images/trans.png>
-Package pdftex.def Info: Images/trans.png used on input line 1513.
+Package pdftex.def Info: Images/trans.png used on input line 1637.
 (pdftex.def)             Requested size: 275.83263pt x 109.91147pt.
- [107
+ [116
 
- <./Images/trans.png>] <Images/anatomy.jpg, id=842, 610.28pt x 247.92625pt>
-File: Images/anatomy.jpg Graphic file (type jpg)
- <use Images/anatomy.jpg>
-Package pdftex.def Info: Images/anatomy.jpg used on input line 1525.
-(pdftex.def)             Requested size: 305.13925pt x 123.96281pt.
- [108
+ <./Images/trans.png>] <Images/anatomy.png, id=895, 1114.1625pt x 479.7925pt>
+File: Images/anatomy.png Graphic file (type png)
+ <use Images/anatomy.png>
+Package pdftex.def Info: Images/anatomy.png used on input line 1649.
+(pdftex.def)             Requested size: 278.53995pt x 119.94781pt.
+ [117
 
- <./Images/anatomy.jpg>] [109
+ <./Images/anatomy.png>] [118
 
-] <Images/broadcast.png, id=855, 596.2275pt x 284.06125pt>
+] <Images/broadcast.png, id=908, 596.2275pt x 284.06125pt>
 File: Images/broadcast.png Graphic file (type png)
  <use Images/broadcast.png>
-Package pdftex.def Info: Images/broadcast.png used on input line 1548.
+Package pdftex.def Info: Images/broadcast.png used on input line 1672.
 (pdftex.def)             Requested size: 238.48677pt x 113.62247pt.
- [110
+ [119
 
- <./Images/broadcast.png>] [111
+ <./Images/broadcast.png>] [120
 
-] <Images/consensus-req.png, id=867, 963.6pt x 722.7pt>
+] <Images/consensus-req.png, id=920, 963.6pt x 722.7pt>
 File: Images/consensus-req.png Graphic file (type png)
  <use Images/consensus-req.png>
-Package pdftex.def Info: Images/consensus-req.png used on input line 1592.
+Package pdftex.def Info: Images/consensus-req.png used on input line 1716.
 (pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
- [112
 
- <./Images/consensus-req.png>] <Images/byzantine.png, id=874, 1486.55376pt x 668.4975pt>
+Overfull \vbox (0.79472pt too high) detected at line 1716
+ []
+
+[121
+
+ <./Images/consensus-req.png>] <Images/byzantine.png, id=928, 1486.55376pt x 668.4975pt>
 File: Images/byzantine.png Graphic file (type png)
  <use Images/byzantine.png>
-Package pdftex.def Info: Images/byzantine.png used on input line 1604.
+Package pdftex.def Info: Images/byzantine.png used on input line 1728.
 (pdftex.def)             Requested size: 289.07999pt x 129.99437pt.
- [113
+ [122
 
- <./Images/byzantine.png>] [114
-
-] [115
-
-] [116
-
-] [117
-
-] <Images/sybil.jpg, id=904, 273.02pt x 255.95625pt>
-File: Images/sybil.jpg Graphic file (type jpg)
- <use Images/sybil.jpg>
-Package pdftex.def Info: Images/sybil.jpg used on input line 1668.
-(pdftex.def)             Requested size: 136.50966pt x 127.9778pt.
- [118
-
- <./Images/sybil.jpg>] [119
-
-] [120
-
-] [121
-
-] [122
-
-] <Images/pow.png, id=932, 954.56625pt x 356.33125pt>
-File: Images/pow.png Graphic file (type png)
- <use Images/pow.png>
-Package pdftex.def Info: Images/pow.png used on input line 1726.
-(pdftex.def)             Requested size: 334.1032pt x 124.71779pt.
-
-Overfull \hbox (26.81332pt too wide) in paragraph at lines 1726--1726
- [] 
+ <./Images/byzantine.png>]
+Overfull \vbox (9.48805pt too high) detected at line 1741
  []
 
 [123
 
- <./Images/pow.png>] [124
+] [124
 
 ] [125
 
-] <Images/fork6.png, id=949, 2502.34875pt x 822.07124pt>
-File: Images/fork6.png Graphic file (type png)
- <use Images/fork6.png>
-Package pdftex.def Info: Images/fork6.png used on input line 1756.
-(pdftex.def)             Requested size: 250.24953pt x 82.21193pt.
- [126
+] [126
 
- <./Images/fork6.png>] [127
+] <Images/sybil.jpg, id=956, 273.02pt x 255.95625pt>
+File: Images/sybil.jpg Graphic file (type jpg)
+ <use Images/sybil.jpg>
+Package pdftex.def Info: Images/sybil.jpg used on input line 1791.
+(pdftex.def)             Requested size: 136.50966pt x 127.9778pt.
+ [127
 
-] <Images/soft-fork.png, id=963, 581.17125pt x 177.66376pt>
-File: Images/soft-fork.png Graphic file (type png)
- <use Images/soft-fork.png>
-Package pdftex.def Info: Images/soft-fork.png used on input line 1792.
-(pdftex.def)             Requested size: 232.46437pt x 71.06424pt.
- <Images/hard-fork.png, id=964, 589.20125pt x 183.68625pt>
-File: Images/hard-fork.png Graphic file (type png)
- <use Images/hard-fork.png>
-Package pdftex.def Info: Images/hard-fork.png used on input line 1792.
-(pdftex.def)             Requested size: 235.67632pt x 73.47318pt.
- [128
+ <./Images/sybil.jpg>] [128
 
- <./Images/soft-fork.png> <./Images/hard-fork.png>] [129
+] [129
 
 ] [130
 
-] <Images/lcr.jpg, id=983, 565.11125pt x 232.87pt>
-File: Images/lcr.jpg Graphic file (type jpg)
- <use Images/lcr.jpg>
-Package pdftex.def Info: Images/lcr.jpg used on input line 1832.
-(pdftex.def)             Requested size: 282.55493pt x 116.43471pt.
- [131
+] [131
 
- <./Images/lcr.jpg>] [132
+] <Images/pow.png, id=984, 954.56625pt x 356.33125pt>
+File: Images/pow.png Graphic file (type png)
+ <use Images/pow.png>
+Package pdftex.def Info: Images/pow.png used on input line 1851.
+(pdftex.def)             Requested size: 334.1032pt x 124.71779pt.
 
-] [133
+Overfull \hbox (26.81332pt too wide) in paragraph at lines 1851--1851
+ [] 
+ []
+
+[132
+
+ <./Images/pow.png>] [133
 
 ] [134
 
-] <Images/stale.png, id=1006, 607.26875pt x 246.9225pt>
-File: Images/stale.png Graphic file (type png)
- <use Images/stale.png>
-Package pdftex.def Info: Images/stale.png used on input line 1880.
-(pdftex.def)             Requested size: 242.9032pt x 98.76724pt.
+] <Images/fork6.png, id=1002, 2502.34875pt x 822.07124pt>
+File: Images/fork6.png Graphic file (type png)
+ <use Images/fork6.png>
+Package pdftex.def Info: Images/fork6.png used on input line 1882.
+(pdftex.def)             Requested size: 250.24953pt x 82.21193pt.
  [135
 
- <./Images/stale.png>] [136
+ <./Images/fork6.png>] [136
 
-] [137
+] <Images/soft-fork.png, id=1016, 581.17125pt x 177.66376pt>
+File: Images/soft-fork.png Graphic file (type png)
+ <use Images/soft-fork.png>
+Package pdftex.def Info: Images/soft-fork.png used on input line 1918.
+(pdftex.def)             Requested size: 232.46437pt x 71.06424pt.
+ <Images/hard-fork.png, id=1017, 589.20125pt x 183.68625pt>
+File: Images/hard-fork.png Graphic file (type png)
+ <use Images/hard-fork.png>
+Package pdftex.def Info: Images/hard-fork.png used on input line 1918.
+(pdftex.def)             Requested size: 235.67632pt x 73.47318pt.
+ [137
 
-] [138
+ <./Images/soft-fork.png> <./Images/hard-fork.png>] [138
 
-] [139
+]
+Overfull \vbox (32.68806pt too high) detected at line 1946
+ []
 
-] <Images/hardware.png, id=1038, 1003.75pt x 565.11125pt>
-File: Images/hardware.png Graphic file (type png)
- <use Images/hardware.png>
-Package pdftex.def Info: Images/hardware.png used on input line 1952.
-(pdftex.def)             Requested size: 200.74644pt x 113.02023pt.
+[139
+
+] <Images/lcr.jpg, id=1037, 565.11125pt x 232.87pt>
+File: Images/lcr.jpg Graphic file (type jpg)
+ <use Images/lcr.jpg>
+Package pdftex.def Info: Images/lcr.jpg used on input line 1958.
+(pdftex.def)             Requested size: 282.55493pt x 116.43471pt.
  [140
 
- <./Images/hardware.png>] [141
+ <./Images/lcr.jpg>] [141
 
 ] [142
 
 ] [143
 
-] <Images/vs.png, id=1061, 1444.39626pt x 1508.63625pt>
-File: Images/vs.png Graphic file (type png)
- <use Images/vs.png>
-Package pdftex.def Info: Images/vs.png used on input line 1999.
-(pdftex.def)             Requested size: 216.65009pt x 226.28568pt.
+] <Images/stale.png, id=1059, 607.26875pt x 246.9225pt>
+File: Images/stale.png Graphic file (type png)
+ <use Images/stale.png>
+Package pdftex.def Info: Images/stale.png used on input line 2006.
+(pdftex.def)             Requested size: 242.9032pt x 98.76724pt.
  [144
 
- <./Images/vs.png>] [145
+ <./Images/stale.png>] [145
 
 ] [146
 
@@ -1751,74 +1811,72 @@ Package pdftex.def Info: Images/vs.png used on input line 1999.
 
 ] [148
 
-] [149
+] <Images/hardware.png, id=1088, 1003.75pt x 565.11125pt>
+File: Images/hardware.png Graphic file (type png)
+ <use Images/hardware.png>
+Package pdftex.def Info: Images/hardware.png used on input line 2078.
+(pdftex.def)             Requested size: 200.74644pt x 113.02023pt.
+ [149
 
-] [150
+ <./Images/hardware.png>] [150
 
-] <Images/token-rights.png, id=1100, 886.31125pt x 375.4025pt>
-File: Images/token-rights.png Graphic file (type png)
- <use Images/token-rights.png>
-Package pdftex.def Info: Images/token-rights.png used on input line 2096.
-(pdftex.def)             Requested size: 310.21358pt x 131.39284pt.
+] [151
 
-Overfull \hbox (2.9237pt too wide) in paragraph at lines 2096--2096
- [] 
+] [152
+
+] <Images/vs.png, id=1112, 1444.39626pt x 1508.63625pt>
+File: Images/vs.png Graphic file (type png)
+ <use Images/vs.png>
+Package pdftex.def Info: Images/vs.png used on input line 2125.
+(pdftex.def)             Requested size: 216.65009pt x 226.28568pt.
+
+Overfull \vbox (20.499pt too high) detected at line 2125
  []
 
-[151
+[153
 
- <./Images/token-rights.png>] <Images/infographic.png, id=1108, 1112.155pt x 677.53125pt>
-File: Images/infographic.png Graphic file (type png)
- <use Images/infographic.png>
-Package pdftex.def Info: Images/infographic.png used on input line 2111.
-(pdftex.def)             Requested size: 278.03807pt x 169.38239pt.
- [152
-
- <./Images/infographic.png>] [153
-
-] [154
+ <./Images/vs.png>] [154
 
 ] [155
 
 ] [156
 
-] [157
+]
+Overfull \vbox (6.6195pt too high) detected at line 2180
+ []
+
+[157
 
 ] [158
 
 ] [159
 
-] <Images/iot-ecosystem1.png, id=1156, 1505.625pt x 1075.01625pt>
-File: Images/iot-ecosystem1.png Graphic file (type png)
- <use Images/iot-ecosystem1.png>
-Package pdftex.def Info: Images/iot-ecosystem1.png used on input line 2220.
-(pdftex.def)             Requested size: 301.11966pt x 214.99944pt.
- [160
+] <Images/token-rights.png, id=1153, 886.31125pt x 375.4025pt>
+File: Images/token-rights.png Graphic file (type png)
+ <use Images/token-rights.png>
+Package pdftex.def Info: Images/token-rights.png used on input line 2223.
+(pdftex.def)             Requested size: 310.21358pt x 131.39284pt.
 
- <./Images/iot-ecosystem1.png>] [161
+Overfull \hbox (2.9237pt too wide) in paragraph at lines 2223--2223
+ [] 
+ []
 
-] <Images/storj.png, id=1169, 920.43875pt x 317.185pt>
-File: Images/storj.png Graphic file (type png)
- <use Images/storj.png>
-Package pdftex.def Info: Images/storj.png used on input line 2246.
-(pdftex.def)             Requested size: 276.13376pt x 95.15622pt.
- [162
+[160
 
- <./Images/storj.png>] <Images/implementation.png, id=1177, 963.6pt x 722.7pt>
-File: Images/implementation.png Graphic file (type png)
- <use Images/implementation.png>
-Package pdftex.def Info: Images/implementation.png used on input line 2255.
-(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
- [163
+ <./Images/token-rights.png>] <Images/infographic.png, id=1160, 1112.155pt x 677.53125pt>
+File: Images/infographic.png Graphic file (type png)
+ <use Images/infographic.png>
+Package pdftex.def Info: Images/infographic.png used on input line 2238.
+(pdftex.def)             Requested size: 278.03807pt x 169.38239pt.
+ [161
 
- <./Images/implementation.png>] <Images/savings.png, id=1185, 963.6pt x 722.7pt>
-File: Images/savings.png Graphic file (type png)
- <use Images/savings.png>
-Package pdftex.def Info: Images/savings.png used on input line 2264.
-(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
- [164
+ <./Images/infographic.png>] [162
 
- <./Images/savings.png>] [165
+] [163
+
+] [164
+
+] [165
 
 ] [166
 
@@ -1826,722 +1884,854 @@ Package pdftex.def Info: Images/savings.png used on input line 2264.
 
 ] [168
 
-] <Images/block-key.png, id=1212, 963.6pt x 722.7pt>
-File: Images/block-key.png Graphic file (type png)
- <use Images/block-key.png>
-Package pdftex.def Info: Images/block-key.png used on input line 2335.
-(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
+] <Images/iot-ecosystem1.png, id=1208, 1505.625pt x 1075.01625pt>
+File: Images/iot-ecosystem1.png Graphic file (type png)
+ <use Images/iot-ecosystem1.png>
+Package pdftex.def Info: Images/iot-ecosystem1.png used on input line 2347.
+(pdftex.def)             Requested size: 301.11966pt x 214.99944pt.
  [169
 
- <./Images/block-key.png>] <Images/benefits.png, id=1220, 963.6pt x 722.7pt>
-File: Images/benefits.png Graphic file (type png)
- <use Images/benefits.png>
-Package pdftex.def Info: Images/benefits.png used on input line 2345.
-(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
- [170
+ <./Images/iot-ecosystem1.png>] [170
 
- <./Images/benefits.png>] <Images/consensus.png, id=1227, 963.6pt x 722.7pt>
-File: Images/consensus.png Graphic file (type png)
- <use Images/consensus.png>
-Package pdftex.def Info: Images/consensus.png used on input line 2355.
+] <Images/storj.png, id=1222, 920.43875pt x 317.185pt>
+File: Images/storj.png Graphic file (type png)
+ <use Images/storj.png>
+Package pdftex.def Info: Images/storj.png used on input line 2373.
+(pdftex.def)             Requested size: 276.13376pt x 95.15622pt.
+ [171
+
+ <./Images/storj.png>] <Images/implementation.png, id=1230, 963.6pt x 722.7pt>
+File: Images/implementation.png Graphic file (type png)
+ <use Images/implementation.png>
+Package pdftex.def Info: Images/implementation.png used on input line 2382.
 (pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
 
-Overfull \vbox (18.6339pt too high) detected at line 2355
+Overfull \vbox (0.79472pt too high) detected at line 2382
  []
 
-[171
+[172
 
- <./Images/consensus.png>] [172
+ <./Images/implementation.png>] <Images/savings.png, id=1237, 963.6pt x 722.7pt>
+File: Images/savings.png Graphic file (type png)
+ <use Images/savings.png>
+Package pdftex.def Info: Images/savings.png used on input line 2391.
+(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
 
-] [173
+Overfull \vbox (0.79472pt too high) detected at line 2391
+ []
 
-] [174
+[173
 
-] <Images/cryptocurrency.jpg, id=1249, 1809.76125pt x 1023.825pt>
-File: Images/cryptocurrency.jpg Graphic file (type jpg)
- <use Images/cryptocurrency.jpg>
-Package pdftex.def Info: Images/cryptocurrency.jpg used on input line 2401.
-(pdftex.def)             Requested size: 144.54pt x 81.76706pt.
- [175
+ <./Images/savings.png>]
+Overfull \vbox (7.00806pt too high) detected at line 2407
+ []
 
- <./Images/cryptocurrency.jpg>]
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 2410.
- [176
+[174
+
+] [175
+
+] [176
 
 ] [177
 
 ] [178
 
-] [179
+] <Images/block-key.png, id=1270, 963.6pt x 722.7pt>
+File: Images/block-key.png Graphic file (type png)
+ <use Images/block-key.png>
+Package pdftex.def Info: Images/block-key.png used on input line 2469.
+(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
 
-] <Images/markcap.png, id=1276, 655.44875pt x 669.50125pt>
-File: Images/markcap.png Graphic file (type png)
- <use Images/markcap.png>
-Package pdftex.def Info: Images/markcap.png used on input line 2456.
-(pdftex.def)             Requested size: 196.63614pt x 200.85191pt.
- [180
+Overfull \vbox (0.79472pt too high) detected at line 2469
+ []
 
- <./Images/markcap.png>] <Images/price.png, id=1283, 683.55376pt x 640.3925pt>
-File: Images/price.png Graphic file (type png)
- <use Images/price.png>
-Package pdftex.def Info: Images/price.png used on input line 2469.
-(pdftex.def)             Requested size: 216.81pt x 203.11226pt.
- [181
+[179
 
- <./Images/price.png>] <Images/vol.png, id=1292, 814.04124pt x 336.25626pt>
-File: Images/vol.png Graphic file (type png)
- <use Images/vol.png>
-Package pdftex.def Info: Images/vol.png used on input line 2483.
-(pdftex.def)             Requested size: 289.07999pt x 119.41028pt.
- [182
+ <./Images/block-key.png>] <Images/benefits.png, id=1277, 963.6pt x 722.7pt>
+File: Images/benefits.png Graphic file (type png)
+ <use Images/benefits.png>
+Package pdftex.def Info: Images/benefits.png used on input line 2479.
+(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
 
- <./Images/vol.png>] [183
+Overfull \vbox (0.79472pt too high) detected at line 2479
+ []
+
+[180
+
+ <./Images/benefits.png>] <Images/consensus.png, id=1284, 963.6pt x 722.7pt>
+File: Images/consensus.png Graphic file (type png)
+ <use Images/consensus.png>
+Package pdftex.def Info: Images/consensus.png used on input line 2489.
+(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
+
+Overfull \vbox (30.6197pt too high) detected at line 2489
+ []
+
+[181
+
+ <./Images/consensus.png>] [182
+
+] [183
 
 ] [184
 
-] <Images/bitcoin-logo.png, id=1311, 2007.5pt x 418.56375pt>
-File: Images/bitcoin-logo.png Graphic file (type png)
- <use Images/bitcoin-logo.png>
-Package pdftex.def Info: Images/bitcoin-logo.png used on input line 2518.
-(pdftex.def)             Requested size: 200.76175pt x 41.85883pt.
+] <Images/cryptocurrency.jpg, id=1308, 1809.76125pt x 1023.825pt>
+File: Images/cryptocurrency.jpg Graphic file (type jpg)
+ <use Images/cryptocurrency.jpg>
+Package pdftex.def Info: Images/cryptocurrency.jpg used on input line 2535.
+(pdftex.def)             Requested size: 144.54pt x 81.76706pt.
  [185
 
- <./Images/bitcoin-logo.png>] <Images/dilbert-bitcoin.png, id=1318, 602.25pt x 191.71625pt>
-File: Images/dilbert-bitcoin.png Graphic file (type png)
- <use Images/dilbert-bitcoin.png>
-Package pdftex.def Info: Images/dilbert-bitcoin.png used on input line 2527.
-(pdftex.def)             Requested size: 301.12425pt x 95.85788pt.
+ <./Images/cryptocurrency.jpg>]
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 2544.
  [186
 
- <./Images/dilbert-bitcoin.png>] [187
+] [187
 
 ] [188
 
-] <Images/btc-circulation.png, id=1338, 1205.50375pt x 552.0625pt>
-File: Images/btc-circulation.png Graphic file (type png)
- <use Images/btc-circulation.png>
-Package pdftex.def Info: Images/btc-circulation.png used on input line 2568.
-(pdftex.def)             Requested size: 241.09648pt x 110.41054pt.
+] <Images/cryptovsfiat.png, id=1330, 898.35625pt x 452.69125pt>
+File: Images/cryptovsfiat.png Graphic file (type png)
+ <use Images/cryptovsfiat.png>
+Package pdftex.def Info: Images/cryptovsfiat.png used on input line 2575.
+(pdftex.def)             Requested size: 269.50894pt x 135.80841pt.
  [189
 
- <./Images/btc-circulation.png>] [190
+ <./Images/cryptovsfiat.png>] [190
 
-] <Images/pizza1.png, id=1351, 739.76375pt x 367.3725pt>
-File: Images/pizza1.png Graphic file (type png)
-
-<use Images/pizza1.png>
-Package pdftex.def Info: Images/pizza1.png used on input line 2589.
-(pdftex.def)             Requested size: 216.81pt x 107.66762pt.
+] <Images/markcap.png, id=1342, 603.25375pt x 491.8375pt>
+File: Images/markcap.png Graphic file (type png)
+ <use Images/markcap.png>
+Package pdftex.def Info: Images/markcap.png used on input line 2599.
+(pdftex.def)             Requested size: 180.97751pt x 147.55238pt.
  [191
 
- <./Images/pizza1.png>] <Images/pizza2.png, id=1358, 743.77875pt x 458.71375pt>
-File: Images/pizza2.png Graphic file (type png)
- <use Images/pizza2.png>
-Package pdftex.def Info: Images/pizza2.png used on input line 2598.
-(pdftex.def)             Requested size: 216.81pt x 133.70952pt.
- [192
+ <./Images/markcap.png>] <Images/price.png, id=1349, 683.55376pt x 640.3925pt>
+File: Images/price.png Graphic file (type png)
+ <use Images/price.png>
+Package pdftex.def Info: Images/price.png used on input line 2612.
+(pdftex.def)             Requested size: 216.81pt x 203.11226pt.
 
- <./Images/pizza2.png>] [193
+Overfull \vbox (2.47531pt too high) detected at line 2612
+ []
 
-] <Images/bitlegal.png, id=1371, 785.93625pt x 471.7625pt>
-File: Images/bitlegal.png Graphic file (type png)
- <use Images/bitlegal.png>
-Package pdftex.def Info: Images/bitlegal.png used on input line 2622.
-(pdftex.def)             Requested size: 235.78268pt x 141.52983pt.
- [194
+[192
 
- <./Images/bitlegal.png>] [195
+ <./Images/price.png>] <Images/vol.png, id=1357, 1114.1625pt x 526.96875pt>
+File: Images/vol.png Graphic file (type png)
+ <use Images/vol.png>
+Package pdftex.def Info: Images/vol.png used on input line 2626.
+(pdftex.def)             Requested size: 289.07999pt x 136.7272pt.
+ [193
 
-] <Images/difficulty.png, id=1384, 1284.8pt x 552.0625pt>
-File: Images/difficulty.png Graphic file (type png)
- <use Images/difficulty.png>
-Package pdftex.def Info: Images/difficulty.png used on input line 2647.
-(pdftex.def)             Requested size: 256.95544pt x 110.41054pt.
+ <./Images/vol.png>] [194
+
+] [195
+
+] <Images/bitcoin-logo.png, id=1376, 2007.5pt x 418.56375pt>
+File: Images/bitcoin-logo.png Graphic file (type png)
+ <use Images/bitcoin-logo.png>
+Package pdftex.def Info: Images/bitcoin-logo.png used on input line 2661.
+(pdftex.def)             Requested size: 200.76175pt x 41.85883pt.
  [196
 
- <./Images/difficulty.png>] [197
+ <./Images/bitcoin-logo.png>] <Images/dilbert-bitcoin.png, id=1383, 602.25pt x 191.71625pt>
+File: Images/dilbert-bitcoin.png Graphic file (type png)
+ <use Images/dilbert-bitcoin.png>
+Package pdftex.def Info: Images/dilbert-bitcoin.png used on input line 2674.
+(pdftex.def)             Requested size: 301.12425pt x 95.85788pt.
 
-] <Images/ownership.jpg, id=1397, 556.32843pt x 309.40594pt>
-File: Images/ownership.jpg Graphic file (type jpg)
- <use Images/ownership.jpg>
-Package pdftex.def Info: Images/ownership.jpg used on input line 2670.
-(pdftex.def)             Requested size: 278.16353pt x 154.70259pt.
- [198
+Overfull \hbox (37.87413pt too wide) in paragraph at lines 2674--2674
+[]\T1/phv/m/n/8 https://disruptdecentralisedisintermediate.files.wordpress.com/2015/04/dilbert.png?w=700&h=222[] 
+ []
 
- <./Images/ownership.jpg>] [199
+[197
 
-] <Images/bubble1.jpg, id=1410, 1405.25pt x 907.39pt>
-File: Images/bubble1.jpg Graphic file (type jpg)
- <use Images/bubble1.jpg>
-Package pdftex.def Info: Images/bubble1.jpg used on input line 2694.
-(pdftex.def)             Requested size: 289.07999pt x 186.65305pt.
+ <./Images/dilbert-bitcoin.png>] [198
+
+] [199
+
+] <Images/btc-circulation.png, id=1403, 1205.50375pt x 552.0625pt>
+File: Images/btc-circulation.png Graphic file (type png)
+ <use Images/btc-circulation.png>
+Package pdftex.def Info: Images/btc-circulation.png used on input line 2716.
+(pdftex.def)             Requested size: 241.09648pt x 110.41054pt.
  [200
 
- <./Images/bubble1.jpg>] [201
+ <./Images/btc-circulation.png>] [201
 
-] <Images/fork1.png, id=1422, 627.34375pt x 65.24374pt>
-File: Images/fork1.png Graphic file (type png)
- <use Images/fork1.png>
-Package pdftex.def Info: Images/fork1.png used on input line 2726.
-(pdftex.def)             Requested size: 289.07999pt x 30.06523pt.
- <Images/fork2.png, id=1423, 629.35126pt x 66.2475pt>
-File: Images/fork2.png Graphic file (type png)
- <use Images/fork2.png>
-Package pdftex.def Info: Images/fork2.png used on input line 2726.
-(pdftex.def)             Requested size: 289.07999pt x 30.42973pt.
+] <Images/pizza1.png, id=1416, 739.76375pt x 367.3725pt>
+File: Images/pizza1.png Graphic file (type png)
+ <use Images/pizza1.png>
+Package pdftex.def Info: Images/pizza1.png used on input line 2737.
+(pdftex.def)             Requested size: 216.81pt x 107.66762pt.
  [202
 
- <./Images/fork1.png> <./Images/fork2.png>] <Images/fork3.png, id=1432, 670.505pt x 157.58875pt>
+ <./Images/pizza1.png>] <Images/pizza2.png, id=1423, 743.77875pt x 458.71375pt>
+File: Images/pizza2.png Graphic file (type png)
+ <use Images/pizza2.png>
+Package pdftex.def Info: Images/pizza2.png used on input line 2746.
+(pdftex.def)             Requested size: 216.81pt x 133.70952pt.
+ [203
+
+ <./Images/pizza2.png>] [204
+
+] <Images/bitlegal.png, id=1435, 785.93625pt x 471.7625pt>
+File: Images/bitlegal.png Graphic file (type png)
+ <use Images/bitlegal.png>
+Package pdftex.def Info: Images/bitlegal.png used on input line 2770.
+(pdftex.def)             Requested size: 235.78268pt x 141.52983pt.
+ [205
+
+ <./Images/bitlegal.png>] [206
+
+] <Images/difficulty.png, id=1450, 1284.8pt x 552.0625pt>
+File: Images/difficulty.png Graphic file (type png)
+ <use Images/difficulty.png>
+Package pdftex.def Info: Images/difficulty.png used on input line 2795.
+(pdftex.def)             Requested size: 256.95544pt x 110.41054pt.
+ [207
+
+ <./Images/difficulty.png>] [208
+
+] <Images/ownership.jpg, id=1463, 556.32843pt x 309.40594pt>
+File: Images/ownership.jpg Graphic file (type jpg)
+ <use Images/ownership.jpg>
+Package pdftex.def Info: Images/ownership.jpg used on input line 2818.
+(pdftex.def)             Requested size: 278.16353pt x 154.70259pt.
+ [209
+
+ <./Images/ownership.jpg>] [210
+
+] <Images/bubble1.jpg, id=1475, 1405.25pt x 907.39pt>
+File: Images/bubble1.jpg Graphic file (type jpg)
+ <use Images/bubble1.jpg>
+Package pdftex.def Info: Images/bubble1.jpg used on input line 2842.
+(pdftex.def)             Requested size: 289.07999pt x 186.65305pt.
+ [211
+
+ <./Images/bubble1.jpg>] [212
+
+] <Images/fork1.png, id=1488, 627.34375pt x 65.24374pt>
+File: Images/fork1.png Graphic file (type png)
+ <use Images/fork1.png>
+Package pdftex.def Info: Images/fork1.png used on input line 2874.
+(pdftex.def)             Requested size: 289.07999pt x 30.06523pt.
+
+<Images/fork2.png, id=1489, 629.35126pt x 66.2475pt>
+File: Images/fork2.png Graphic file (type png)
+ <use Images/fork2.png>
+Package pdftex.def Info: Images/fork2.png used on input line 2874.
+(pdftex.def)             Requested size: 289.07999pt x 30.42973pt.
+ [213
+
+ <./Images/fork1.png> <./Images/fork2.png>] <Images/fork3.png, id=1498, 670.505pt x 157.58875pt>
 File: Images/fork3.png Graphic file (type png)
  <use Images/fork3.png>
-Package pdftex.def Info: Images/fork3.png used on input line 2742.
+Package pdftex.def Info: Images/fork3.png used on input line 2890.
 (pdftex.def)             Requested size: 289.07999pt x 67.94217pt.
- <Images/fork4.png, id=1433, 752.8125pt x 176.66pt>
+ <Images/fork4.png, id=1499, 752.8125pt x 176.66pt>
 File: Images/fork4.png Graphic file (type png)
  <use Images/fork4.png>
-Package pdftex.def Info: Images/fork4.png used on input line 2742.
+Package pdftex.def Info: Images/fork4.png used on input line 2890.
 (pdftex.def)             Requested size: 289.07999pt x 67.83774pt.
+ [214
 
-[203
-
- <./Images/fork3.png> <./Images/fork4.png>] <Images/fork5.png, id=1441, 660.4675pt x 77.28876pt>
+ <./Images/fork3.png> <./Images/fork4.png>] <Images/fork5.png, id=1507, 660.4675pt x 77.28876pt>
 File: Images/fork5.png Graphic file (type png)
  <use Images/fork5.png>
-Package pdftex.def Info: Images/fork5.png used on input line 2759.
+Package pdftex.def Info: Images/fork5.png used on input line 2907.
 (pdftex.def)             Requested size: 289.07999pt x 33.82907pt.
- [204
+ [215
 
- <./Images/fork5.png>] [205
+ <./Images/fork5.png>] [216
 
-] [206
+] [217
 
-] [207
+] [218
 
-] <Images/blocksize.png, id=1467, 702.625pt x 401.5pt>
-File: Images/blocksize.png Graphic file (type png)
- <use Images/blocksize.png>
-Package pdftex.def Info: Images/blocksize.png used on input line 2809.
-(pdftex.def)             Requested size: 289.07999pt x 165.19194pt.
- [208
+] <Images/average-block-size.png, id=1532, 1284.8pt x 552.0625pt>
+File: Images/average-block-size.png Graphic file (type png)
+ <use Images/average-block-size.png>
+Package pdftex.def Info: Images/average-block-size.png used on input line 2957.
+(pdftex.def)             Requested size: 321.19922pt x 138.01527pt.
 
- <./Images/blocksize.png>] [209
+Overfull \hbox (13.90935pt too wide) in paragraph at lines 2957--2957
+ [] 
+ []
 
-] [210
+[219
 
-] [211
+ <./Images/average-block-size.png>] [220
 
-] <Images/sidechain.png, id=1490, 963.6pt x 722.7pt>
+] <Images/average-number-of-transactions-per-block.png, id=1544, 1284.8pt x 552.0625pt>
+File: Images/average-number-of-transactions-per-block.png Graphic file (type png)
+ <use Images/average-number-of-transactions-per-block.png>
+Package pdftex.def Info: Images/average-number-of-transactions-per-block.png used on input line 2977.
+(pdftex.def)             Requested size: 321.19922pt x 138.01527pt.
+
+Overfull \hbox (13.90935pt too wide) in paragraph at lines 2977--2977
+ [] 
+ []
+
+[221
+
+ <./Images/average-number-of-transactions-per-block.png>] [222
+
+] [223
+
+] <Images/sidechain.png, id=1562, 963.6pt x 722.7pt>
 File: Images/sidechain.png Graphic file (type png)
  <use Images/sidechain.png>
-Package pdftex.def Info: Images/sidechain.png used on input line 2848.
+Package pdftex.def Info: Images/sidechain.png used on input line 3005.
 (pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
- [212
 
- <./Images/sidechain.png>] [213
+Overfull \vbox (0.79472pt too high) detected at line 3005
+ []
 
-] [214
+[224
 
-] [215
+ <./Images/sidechain.png>] [225
 
-] <Images/segwit1.png, id=1512, 963.6pt x 722.7pt>
-File: Images/segwit1.png Graphic file (type png)
- <use Images/segwit1.png>
-Package pdftex.def Info: Images/segwit1.png used on input line 2895.
-(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
- [216
-
- <./Images/segwit1.png>] <Images/segwit2.png, id=1519, 963.6pt x 722.7pt>
-File: Images/segwit2.png Graphic file (type png)
- <use Images/segwit2.png>
-Package pdftex.def Info: Images/segwit2.png used on input line 2904.
-(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
- [217
-
- <./Images/segwit2.png>] [218
-
-] [219
-
-] [220
-
-] <Images/pool.png, id=1542, 738.76pt x 504.88625pt>
-File: Images/pool.png Graphic file (type png)
- <use Images/pool.png>
-Package pdftex.def Info: Images/pool.png used on input line 2957.
-(pdftex.def)             Requested size: 258.56987pt x 176.71283pt.
- [221
-
- <./Images/pool.png>] [222
-
-] <Images/bitcoin-energy.png, id=1556, 973.6375pt x 329.23pt>
-File: Images/bitcoin-energy.png Graphic file (type png)
- <use Images/bitcoin-energy.png>
-Package pdftex.def Info: Images/bitcoin-energy.png used on input line 2981.
-(pdftex.def)             Requested size: 292.0935pt x 98.76976pt.
- [223
-
- <./Images/bitcoin-energy.png>] [224
-
-] <Images/ethereum-logo.png, id=1570, 501.875pt x 395.4775pt>
-File: Images/ethereum-logo.png Graphic file (type png)
- <use Images/ethereum-logo.png>
-Package pdftex.def Info: Images/ethereum-logo.png used on input line 3003.
-(pdftex.def)             Requested size: 150.56366pt x 118.64417pt.
- [225
-
- <./Images/ethereum-logo.png>] [226
+] [226
 
 ] [227
 
-] <Images/eth-supply.png, id=1587, 1135.24126pt x 407.5225pt>
-File: Images/eth-supply.png Graphic file (type png)
- <use Images/eth-supply.png>
-Package pdftex.def Info: Images/eth-supply.png used on input line 3035.
-(pdftex.def)             Requested size: 283.80962pt x 101.88037pt.
- [228
+] <Images/segwit1.png, id=1584, 963.6pt x 722.7pt>
+File: Images/segwit1.png Graphic file (type png)
+ <use Images/segwit1.png>
+Package pdftex.def Info: Images/segwit1.png used on input line 3052.
+(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
 
- <./Images/eth-supply.png>] <Images/eth-breakdown.png, id=1595, 617.30624pt x 257.96375pt>
-File: Images/eth-breakdown.png Graphic file (type png)
- <use Images/eth-breakdown.png>
-Package pdftex.def Info: Images/eth-breakdown.png used on input line 3047.
-(pdftex.def)             Requested size: 308.65236pt x 128.98155pt.
+Overfull \vbox (0.79472pt too high) detected at line 3052
+ []
 
-Overfull \hbox (1.36249pt too wide) in paragraph at lines 3047--3047
- [] 
+[228
+
+ <./Images/segwit1.png>] <Images/segwit2.png, id=1592, 963.6pt x 722.7pt>
+File: Images/segwit2.png Graphic file (type png)
+ <use Images/segwit2.png>
+Package pdftex.def Info: Images/segwit2.png used on input line 3061.
+(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
+
+Overfull \vbox (0.79472pt too high) detected at line 3061
  []
 
 [229
 
- <./Images/eth-breakdown.png>] [230
+ <./Images/segwit2.png>] [230
 
 ] [231
 
-] [232
+]
+Overfull \vbox (30.50902pt too high) detected at line 3100
+ []
 
-] [233
+[232
 
-] [234
+] <Images/pool.png, id=1615, 738.76pt x 504.88625pt>
+File: Images/pool.png Graphic file (type png)
+ <use Images/pool.png>
+Package pdftex.def Info: Images/pool.png used on input line 3114.
+(pdftex.def)             Requested size: 258.56987pt x 176.71283pt.
 
-] [235
+Overfull \vbox (3.57983pt too high) detected at line 3114
+ []
 
-] <Images/eth-fee.png, id=1636, 1147.28625pt x 396.48125pt>
-File: Images/eth-fee.png Graphic file (type png)
- <use Images/eth-fee.png>
-Package pdftex.def Info: Images/eth-fee.png used on input line 3153.
-(pdftex.def)             Requested size: 286.82086pt x 99.12006pt.
- [236
+[233
 
- <./Images/eth-fee.png>] [237
+ <./Images/pool.png>] [234
 
-] [238
+] <Images/bitcoin-energy.png, id=1629, 973.6375pt x 329.23pt>
+File: Images/bitcoin-energy.png Graphic file (type png)
+ <use Images/bitcoin-energy.png>
+Package pdftex.def Info: Images/bitcoin-energy.png used on input line 3138.
+(pdftex.def)             Requested size: 292.0935pt x 98.76976pt.
+ [235
+
+ <./Images/bitcoin-energy.png>] [236
+
+] <Images/ethereum-logo.png, id=1643, 501.875pt x 395.4775pt>
+File: Images/ethereum-logo.png Graphic file (type png)
+ <use Images/ethereum-logo.png>
+Package pdftex.def Info: Images/ethereum-logo.png used on input line 3160.
+(pdftex.def)             Requested size: 150.56366pt x 118.64417pt.
+ [237
+
+ <./Images/ethereum-logo.png>] [238
 
 ] [239
 
-] [240
+] <Images/eth-supply.png, id=1660, 1160.335pt x 433.62pt>
+File: Images/eth-supply.png Graphic file (type png)
+ <use Images/eth-supply.png>
+Package pdftex.def Info: Images/eth-supply.png used on input line 3192.
+(pdftex.def)             Requested size: 290.08304pt x 108.40472pt.
+ [240
 
-] [241
+ <./Images/eth-supply.png>] <Images/eth-breakdown.png, id=1668, 617.30624pt x 257.96375pt>
+File: Images/eth-breakdown.png Graphic file (type png)
+ <use Images/eth-breakdown.png>
+Package pdftex.def Info: Images/eth-breakdown.png used on input line 3204.
+(pdftex.def)             Requested size: 308.65236pt x 128.98155pt.
 
-] <Images/eth-difficulty.png, id=1670, 1116.17pt x 407.5225pt>
-File: Images/eth-difficulty.png Graphic file (type png)
- <use Images/eth-difficulty.png>
-Package pdftex.def Info: Images/eth-difficulty.png used on input line 3235.
-(pdftex.def)             Requested size: 279.04181pt x 101.88037pt.
- [242
+Overfull \hbox (1.36249pt too wide) in paragraph at lines 3204--3204
+ [] 
+ []
 
- <./Images/eth-difficulty.png>] [243
+[241
 
-] <Images/eth-miners.png, id=1683, 836.12375pt x 331.2375pt>
-File: Images/eth-miners.png Graphic file (type png)
- <use Images/eth-miners.png>
-Package pdftex.def Info: Images/eth-miners.png used on input line 3259.
-(pdftex.def)             Requested size: 209.03043pt x 82.80916pt.
- [244
+ <./Images/eth-breakdown.png>] [242
 
- <./Images/eth-miners.png>] [245
+] [243
+
+] [244
+
+] [245
 
 ] [246
 
-] <Images/ethash.png, id=1701, 692.5875pt x 650.43pt>
-File: Images/ethash.png Graphic file (type png)
- <use Images/ethash.png>
-Package pdftex.def Info: Images/ethash.png used on input line 3297.
-(pdftex.def)             Requested size: 207.77785pt x 195.1305pt.
- [247
+] [247
 
- <./Images/ethash.png>] [248
+] <Images/eth-fee.png, id=1708, 1132.23pt x 405.515pt>
+File: Images/eth-fee.png Graphic file (type png)
+ <use Images/eth-fee.png>
+Package pdftex.def Info: Images/eth-fee.png used on input line 3316.
+(pdftex.def)             Requested size: 283.05681pt x 101.3785pt.
+ [248
 
-] [249
+ <./Images/eth-fee.png>] [249
 
 ] [250
 
-] [251
+]
+Overfull \hbox (54.50972pt too wide) in paragraph at lines 3364--3364
+ [] 
+ []
+
+[251
 
 ] [252
 
 ] [253
 
-] [254
+] <Images/eth-difficulty.png, id=1743, 1148.29pt x 402.50375pt>
+File: Images/eth-difficulty.png Graphic file (type png)
+ <use Images/eth-difficulty.png>
+Package pdftex.def Info: Images/eth-difficulty.png used on input line 3398.
+(pdftex.def)             Requested size: 287.0718pt x 100.62569pt.
+ [254
 
-] [255
+ <./Images/eth-difficulty.png>] [255
 
-] [256
+]
+Overfull \vbox (23.08806pt too high) detected at line 3422
+ []
 
-] [257
+[256
 
-] [258
+]
+Overfull \vbox (3.309pt too high) detected at line 3436
+ []
 
-] <Images/smart4.png, id=1767, 597.23125pt x 376.40625pt>
-File: Images/smart4.png Graphic file (type png)
- <use Images/smart4.png>
-Package pdftex.def Info: Images/smart4.png used on input line 3469.
-(pdftex.def)             Requested size: 298.61488pt x 188.20265pt.
- [259
+[257
 
- <./Images/smart4.png>] [260
+] <Images/ethash.png, id=1766, 692.5875pt x 650.43pt>
+File: Images/ethash.png Graphic file (type png)
+ <use Images/ethash.png>
+Package pdftex.def Info: Images/ethash.png used on input line 3448.
+(pdftex.def)             Requested size: 207.77785pt x 195.1305pt.
+ [258
 
-] [261
+ <./Images/ethash.png>] [259
 
-] <Images/smart-use.png, id=1789, 699.0918pt x 344.9688pt>
-File: Images/smart-use.png Graphic file (type png)
- <use Images/smart-use.png>
-Package pdftex.def Info: Images/smart-use.png used on input line 3514.
-(pdftex.def)             Requested size: 279.63176pt x 137.98506pt.
- [262
+] <Images/eth-miners.png, id=1780, 901.3675pt x 348.30125pt>
+File: Images/eth-miners.png Graphic file (type png)
+ <use Images/eth-miners.png>
+Package pdftex.def Info: Images/eth-miners.png used on input line 3471.
+(pdftex.def)             Requested size: 225.34131pt x 87.07509pt.
+ [260
 
- <./Images/smart-use.png>] [263
+ <./Images/eth-miners.png>] [261
+
+] [262
+
+] [263
 
 ] [264
 
 ] [265
 
-] <Images/dao-attack.png, id=1813, 764.8575pt x 572.89032pt>
-File: Images/dao-attack.png Graphic file (type png)
- <use Images/dao-attack.png>
-Package pdftex.def Info: Images/dao-attack.png used on input line 3563.
-(pdftex.def)             Requested size: 229.45901pt x 171.86841pt.
- [266
+] [266
 
- <./Images/dao-attack.png>] <Images/contract1.png, id=1821, 440.64626pt x 410.53375pt>
-File: Images/contract1.png Graphic file (type png)
- <use Images/contract1.png>
-Package pdftex.def Info: Images/contract1.png used on input line 3573.
-(pdftex.def)             Requested size: 176.25537pt x 164.21059pt.
- [267
+] [267
 
- <./Images/contract1.png>] <Images/contract5.png, id=1828, 440.64626pt x 410.53375pt>
-File: Images/contract5.png Graphic file (type png)
- <use Images/contract5.png>
-Package pdftex.def Info: Images/contract5.png used on input line 3588.
-(pdftex.def)             Requested size: 132.19489pt x 123.16107pt.
+] [268
 
-Overfull \hbox (9.28082pt too wide) in paragraph at lines 3588--3588
-[][]  
- []
-
-[268
-
- <./Images/contract5.png>]
-File: Images/contract5.png Graphic file (type png)
- <use Images/contract5.png>
-Package pdftex.def Info: Images/contract5.png used on input line 3604.
-(pdftex.def)             Requested size: 132.19489pt x 123.16107pt.
-
-Overfull \hbox (9.28082pt too wide) in paragraph at lines 3604--3604
-[][]  
+]
+Overfull \vbox (19.08806pt too high) detected at line 3602
  []
 
 [269
 
 ]
-File: Images/contract5.png Graphic file (type png)
- <use Images/contract5.png>
-Package pdftex.def Info: Images/contract5.png used on input line 3621.
-(pdftex.def)             Requested size: 132.19489pt x 123.16107pt.
-
-Overfull \hbox (9.28082pt too wide) in paragraph at lines 3621--3621
-[][]  
+Overfull \vbox (5.48805pt too high) detected at line 3615
  []
 
 [270
 
-]
-File: Images/contract5.png Graphic file (type png)
- <use Images/contract5.png>
-Package pdftex.def Info: Images/contract5.png used on input line 3639.
-(pdftex.def)             Requested size: 132.19489pt x 123.16107pt.
+] <Images/smart4.png, id=1839, 597.23125pt x 376.40625pt>
+File: Images/smart4.png Graphic file (type png)
+ <use Images/smart4.png>
+Package pdftex.def Info: Images/smart4.png used on input line 3634.
+(pdftex.def)             Requested size: 298.61488pt x 188.20265pt.
+ [271
 
-Overfull \hbox (9.28082pt too wide) in paragraph at lines 3639--3639
-[][]  
- []
-
-[271
-
-]
-File: Images/contract5.png Graphic file (type png)
- <use Images/contract5.png>
-Package pdftex.def Info: Images/contract5.png used on input line 3654.
-(pdftex.def)             Requested size: 132.19489pt x 123.16107pt.
-
-Overfull \hbox (9.28082pt too wide) in paragraph at lines 3654--3654
-[][]  
+ <./Images/smart4.png>]
+Overfull \vbox (13.69798pt too high) detected at line 3653
  []
 
 [272
 
-]
-File: Images/contract5.png Graphic file (type png)
- <use Images/contract5.png>
-Package pdftex.def Info: Images/contract5.png used on input line 3672.
-(pdftex.def)             Requested size: 132.19489pt x 123.16107pt.
+] [273
 
-Overfull \hbox (9.28082pt too wide) in paragraph at lines 3672--3672
+] <Images/smart-use.png, id=1861, 699.0918pt x 344.9688pt>
+File: Images/smart-use.png Graphic file (type png)
+ <use Images/smart-use.png>
+Package pdftex.def Info: Images/smart-use.png used on input line 3679.
+(pdftex.def)             Requested size: 314.5884pt x 155.23451pt.
+
+Overfull \hbox (7.29852pt too wide) in paragraph at lines 3679--3679
+ [] 
+ []
+
+[274
+
+ <./Images/smart-use.png>] [275
+
+] [276
+
+] [277
+
+] <Images/dao-attack.png, id=1886, 764.8575pt x 572.89032pt>
+File: Images/dao-attack.png Graphic file (type png)
+ <use Images/dao-attack.png>
+Package pdftex.def Info: Images/dao-attack.png used on input line 3728.
+(pdftex.def)             Requested size: 229.45901pt x 171.86841pt.
+ [278
+
+ <./Images/dao-attack.png>] <Images/contract_new.png, id=1894, 469.755pt x 357.335pt>
+File: Images/contract_new.png Graphic file (type png)
+ <use Images/contract_new.png>
+Package pdftex.def Info: Images/contract_new.png used on input line 3738.
+(pdftex.def)             Requested size: 187.89867pt x 142.93146pt.
+ [279
+
+ <./Images/contract_new.png>]
+File: Images/contract_new.png Graphic file (type png)
+ <use Images/contract_new.png>
+Package pdftex.def Info: Images/contract_new.png used on input line 3753.
+(pdftex.def)             Requested size: 140.92758pt x 107.20132pt.
+
+Overfull \hbox (18.01352pt too wide) in paragraph at lines 3753--3753
 [][]  
  []
 
-[273
+[280
 
-] [274
+]
+File: Images/contract_new.png Graphic file (type png)
+ <use Images/contract_new.png>
+Package pdftex.def Info: Images/contract_new.png used on input line 3769.
+(pdftex.def)             Requested size: 140.92758pt x 107.20132pt.
 
-] [275
+Overfull \hbox (18.01352pt too wide) in paragraph at lines 3769--3769
+[][]  
+ []
 
-] <Images/btcvseth.png, id=1871, 898.35625pt x 452.69125pt>
-File: Images/btcvseth.png Graphic file (type png)
- <use Images/btcvseth.png>
-Package pdftex.def Info: Images/btcvseth.png used on input line 3702.
-(pdftex.def)             Requested size: 224.5885pt x 113.17253pt.
- [276
+[281
 
- <./Images/btcvseth.png>] <Images/geth1.png, id=1880, 524.96124pt x 108.405pt>
-File: Images/geth1.png Graphic file (type png)
- <use Images/geth1.png>
-Package pdftex.def Info: Images/geth1.png used on input line 3720.
-(pdftex.def)             Requested size: 262.47998pt x 54.20236pt.
- [277
+]
+File: Images/contract_new.png Graphic file (type png)
+ <use Images/contract_new.png>
+Package pdftex.def Info: Images/contract_new.png used on input line 3786.
+(pdftex.def)             Requested size: 140.92758pt x 107.20132pt.
 
- <./Images/geth1.png>] <Images/geth3.png, id=1888, 399.4925pt x 53.19875pt>
-File: Images/geth3.png Graphic file (type png)
- <use Images/geth3.png>
-Package pdftex.def Info: Images/geth3.png used on input line 3734.
-(pdftex.def)             Requested size: 199.74576pt x 26.5993pt.
- [278
+Overfull \hbox (18.01352pt too wide) in paragraph at lines 3786--3786
+[][]  
+ []
 
- <./Images/geth3.png>] [279
+[282
 
-] [280
+]
+File: Images/contract_new.png Graphic file (type png)
+ <use Images/contract_new.png>
+Package pdftex.def Info: Images/contract_new.png used on input line 3804.
+(pdftex.def)             Requested size: 140.92758pt x 107.20132pt.
 
-] [281
+Overfull \hbox (18.01352pt too wide) in paragraph at lines 3804--3804
+[][]  
+ []
 
-] <Images/geth4.png, id=1912, 1014.03844pt x 293.59688pt>
-File: Images/geth4.png Graphic file (type png)
- <use Images/geth4.png>
-Package pdftex.def Info: Images/geth4.png used on input line 3786.
-(pdftex.def)             Requested size: 304.21388pt x 88.07973pt.
- [282
 
- <./Images/geth4.png>] [283
+Overfull \vbox (20.48805pt too high) detected at line 3804
+ []
 
-] <Images/geth2.png, id=1926, 686.565pt x 352.31625pt>
-File: Images/geth2.png Graphic file (type png)
- <use Images/geth2.png>
-Package pdftex.def Info: Images/geth2.png used on input line 3807.
-(pdftex.def)             Requested size: 274.62112pt x 140.924pt.
- [284
+[283
 
- <./Images/geth2.png>] <Images/geth5.png, id=1933, 800.9925pt x 73.77562pt>
-File: Images/geth5.png Graphic file (type png)
- <use Images/geth5.png>
-Package pdftex.def Info: Images/geth5.png used on input line 3822.
-(pdftex.def)             Requested size: 320.39133pt x 29.5097pt.
+]
+File: Images/contract_new.png Graphic file (type png)
+ <use Images/contract_new.png>
+Package pdftex.def Info: Images/contract_new.png used on input line 3819.
+(pdftex.def)             Requested size: 140.92758pt x 107.20132pt.
 
-Overfull \hbox (13.10146pt too wide) in paragraph at lines 3822--3822
- [] 
+Overfull \hbox (18.01352pt too wide) in paragraph at lines 3819--3819
+[][]  
+ []
+
+[284
+
+]
+File: Images/contract_new.png Graphic file (type png)
+ <use Images/contract_new.png>
+Package pdftex.def Info: Images/contract_new.png used on input line 3837.
+(pdftex.def)             Requested size: 140.92758pt x 107.20132pt.
+
+Overfull \hbox (18.01352pt too wide) in paragraph at lines 3837--3837
+[][]  
+ []
+
+
+Overfull \vbox (72.8076pt too high) detected at line 3837
  []
 
 [285
 
- <./Images/geth5.png>] [286
+] [286
 
-] <Images/geth6.png, id=1945, 1010.27437pt x 419.31656pt>
-File: Images/geth6.png Graphic file (type png)
- <use Images/geth6.png>
-Package pdftex.def Info: Images/geth6.png used on input line 3846.
-(pdftex.def)             Requested size: 303.08464pt x 125.79593pt.
- [287
+] [287
 
- <./Images/geth6.png>] <Images/geth7.png, id=1952, 959.83594pt x 278.54062pt>
-File: Images/geth7.png Graphic file (type png)
- <use Images/geth7.png>
-Package pdftex.def Info: Images/geth7.png used on input line 3862.
-(pdftex.def)             Requested size: 287.953pt x 83.56282pt.
+] <Images/geth1.png, id=1942, 524.96124pt x 108.405pt>
+File: Images/geth1.png Graphic file (type png)
+ <use Images/geth1.png>
+Package pdftex.def Info: Images/geth1.png used on input line 3877.
+(pdftex.def)             Requested size: 262.47998pt x 54.20236pt.
  [288
 
- <./Images/geth7.png>] <Images/geth8.png, id=1959, 839.38594pt x 156.585pt>
-File: Images/geth8.png Graphic file (type png)
- <use Images/geth8.png>
-Package pdftex.def Info: Images/geth8.png used on input line 3876.
-(pdftex.def)             Requested size: 293.78947pt x 54.80556pt.
+ <./Images/geth1.png>] <Images/geth3.png, id=1949, 399.4925pt x 53.19875pt>
+File: Images/geth3.png Graphic file (type png)
+ <use Images/geth3.png>
+Package pdftex.def Info: Images/geth3.png used on input line 3891.
+(pdftex.def)             Requested size: 199.74576pt x 26.5993pt.
  [289
 
- <./Images/geth8.png>] [290
+ <./Images/geth3.png>] [290
 
 ] [291
 
-] <Images/geth9.png, id=1977, 1008.76875pt x 411.03563pt>
-File: Images/geth9.png Graphic file (type png)
- <use Images/geth9.png>
-Package pdftex.def Info: Images/geth9.png used on input line 3913.
-(pdftex.def)             Requested size: 302.63297pt x 123.31163pt.
- [292
+] [292
 
- <./Images/geth9.png>] <Images/ripple-logo.png, id=1984, 610.28pt x 164.615pt>
-File: Images/ripple-logo.png Graphic file (type png)
- <use Images/ripple-logo.png>
-Package pdftex.def Info: Images/ripple-logo.png used on input line 3923.
-(pdftex.def)             Requested size: 183.0854pt x 49.38487pt.
+] <Images/geth4.png, id=1974, 1014.03844pt x 293.59688pt>
+File: Images/geth4.png Graphic file (type png)
+ <use Images/geth4.png>
+Package pdftex.def Info: Images/geth4.png used on input line 3943.
+(pdftex.def)             Requested size: 304.21388pt x 88.07973pt.
  [293
 
- <./Images/ripple-logo.png>] [294
+ <./Images/geth4.png>] [294
 
-] [295
+] <Images/geth2.png, id=1987, 686.565pt x 352.31625pt>
+File: Images/geth2.png Graphic file (type png)
+ <use Images/geth2.png>
+Package pdftex.def Info: Images/geth2.png used on input line 3964.
+(pdftex.def)             Requested size: 274.62112pt x 140.924pt.
+ [295
 
-] <Images/hawala.png, id=2002, 1019.81pt x 333.245pt>
-File: Images/hawala.png Graphic file (type png)
- <use Images/hawala.png>
-Package pdftex.def Info: Images/hawala.png used on input line 3954.
-(pdftex.def)             Requested size: 305.94536pt x 99.97426pt.
- [296
+ <./Images/geth2.png>] <Images/geth5.png, id=1995, 800.9925pt x 73.77562pt>
+File: Images/geth5.png Graphic file (type png)
+ <use Images/geth5.png>
+Package pdftex.def Info: Images/geth5.png used on input line 3979.
+(pdftex.def)             Requested size: 320.39133pt x 29.5097pt.
 
- <./Images/hawala.png>] [297
-
-] [298
-
-] [299
-
-] <Images/ripple1.png, id=2024, 803.0pt x 351.3125pt>
-File: Images/ripple1.png Graphic file (type png)
- <use Images/ripple1.png>
-Package pdftex.def Info: Images/ripple1.png used on input line 3999.
-(pdftex.def)             Requested size: 240.90186pt x 105.39455pt.
- [300
-
- <./Images/ripple1.png>] [301
-
-] <Images/ripple.jpg, id=2038, 830.10126pt x 543.02875pt>
-File: Images/ripple.jpg Graphic file (type jpg)
- <use Images/ripple.jpg>
-Package pdftex.def Info: Images/ripple.jpg used on input line 4019.
-(pdftex.def)             Requested size: 249.0323pt x 162.90987pt.
- [302
-
- <./Images/ripple.jpg>] [303
-
-]
-<Images/iota-logo.png, id=2049, 216.62932pt x 72.63135pt>
-File: Images/iota-logo.png Graphic file (type png)
- <use Images/iota-logo.png>
-Package pdftex.def Info: Images/iota-logo.png used on input line 4043.
-(pdftex.def)             Requested size: 86.65018pt x 29.05202pt.
- [304
-
- <./Images/iota-logo.png>] [305
-
-] <Images/iota-features.png, id=2061, 963.6pt x 722.7pt>
-File: Images/iota-features.png Graphic file (type png)
- <use Images/iota-features.png>
-Package pdftex.def Info: Images/iota-features.png used on input line 4063.
-(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
- [306
-
- <./Images/iota-features.png>] [307
-
-] <Images/tanglevsblock.png, id=2074, 1168.365pt x 716.6775pt>
-File: Images/tanglevsblock.png Graphic file (type png)
- <use Images/tanglevsblock.png>
-Package pdftex.def Info: Images/tanglevsblock.png used on input line 4089.
-(pdftex.def)             Requested size: 233.66885pt x 143.33296pt.
- [308
-
- <./Images/tanglevsblock.png>] <Images/iota-dag.png, id=2082, 368.1253pt x 209.28188pt>
-File: Images/iota-dag.png Graphic file (type png)
- <use Images/iota-dag.png>
-Package pdftex.def Info: Images/iota-dag.png used on input line 4105.
-(pdftex.def)             Requested size: 128.84578pt x 73.24974pt.
- [309
-
- <./Images/iota-dag.png>] [310
-
-] [311
-
-] [312
-
-] <Images/iota-consensus.png, id=2106, 735.74875pt x 208.78pt>
-File: Images/iota-consensus.png Graphic file (type png)
- <use Images/iota-consensus.png>
-Package pdftex.def Info: Images/iota-consensus.png used on input line 4154.
-(pdftex.def)             Requested size: 220.72632pt x 62.63448pt.
- [313
-
- <./Images/iota-consensus.png (PNG copy)>] [314
-
-] [315
-
-] [316
-
-] [317
-
-] <Images/tangle.png, id=2134, 1236.62pt x 687.56876pt>
-File: Images/tangle.png Graphic file (type png)
- <use Images/tangle.png>
-Package pdftex.def Info: Images/tangle.png used on input line 4211.
-(pdftex.def)             Requested size: 370.98886pt x 206.27222pt.
-
-Overfull \hbox (63.69899pt too wide) in paragraph at lines 4211--4211
+Overfull \hbox (13.10146pt too wide) in paragraph at lines 3979--3979
  [] 
  []
 
-[318
+[296
 
- <./Images/tangle.png>] [319
+ <./Images/geth5.png>] [297
 
-] [320
+] <Images/geth6.png, id=2007, 1010.27437pt x 419.31656pt>
+File: Images/geth6.png Graphic file (type png)
+ <use Images/geth6.png>
+Package pdftex.def Info: Images/geth6.png used on input line 4003.
+(pdftex.def)             Requested size: 303.08464pt x 125.79593pt.
+ [298
 
-] [321
+ <./Images/geth6.png>] <Images/geth7.png, id=2015, 959.83594pt x 278.54062pt>
+File: Images/geth7.png Graphic file (type png)
+ <use Images/geth7.png>
+Package pdftex.def Info: Images/geth7.png used on input line 4019.
+(pdftex.def)             Requested size: 287.953pt x 83.56282pt.
+ [299
 
-] <Images/taxonomy.png, id=2158, 631.35875pt x 381.425pt>
-File: Images/taxonomy.png Graphic file (type png)
- <use Images/taxonomy.png>
-Package pdftex.def Info: Images/taxonomy.png used on input line 4269.
-(pdftex.def)             Requested size: 289.07999pt x 174.6428pt.
- [322
+ <./Images/geth7.png>]
+Overfull \hbox (38.60982pt too wide) in paragraph at lines 4033--4033
+\T1/pcr/m/n/9 admin.addPeer("enode://f4642fa65af50...66f416c0@ipv4:30303")  
+ []
 
- <./Images/taxonomy.png>] [323
+<Images/geth8.png, id=2022, 839.38594pt x 156.585pt>
+File: Images/geth8.png Graphic file (type png)
+ <use Images/geth8.png>
+Package pdftex.def Info: Images/geth8.png used on input line 4033.
+(pdftex.def)             Requested size: 293.78947pt x 54.80556pt.
+ [300
 
-] [324
+ <./Images/geth8.png>] [301
 
-] [325
+] [302
+
+] <Images/geth9.png, id=2040, 1008.76875pt x 411.03563pt>
+File: Images/geth9.png Graphic file (type png)
+ <use Images/geth9.png>
+Package pdftex.def Info: Images/geth9.png used on input line 4070.
+(pdftex.def)             Requested size: 302.63297pt x 123.31163pt.
+ [303
+
+ <./Images/geth9.png>] <Images/ripple-logo.png, id=2047, 610.28pt x 164.615pt>
+File: Images/ripple-logo.png Graphic file (type png)
+ <use Images/ripple-logo.png>
+Package pdftex.def Info: Images/ripple-logo.png used on input line 4080.
+(pdftex.def)             Requested size: 183.0854pt x 49.38487pt.
+ [304
+
+ <./Images/ripple-logo.png>] [305
+
+]
+Overfull \vbox (5.48805pt too high) detected at line 4103
+ []
+
+[306
+
+] <Images/hawala.png, id=2064, 1019.81pt x 333.245pt>
+File: Images/hawala.png Graphic file (type png)
+ <use Images/hawala.png>
+Package pdftex.def Info: Images/hawala.png used on input line 4112.
+(pdftex.def)             Requested size: 305.94536pt x 99.97426pt.
+ [307
+
+ <./Images/hawala.png>] [308
+
+] [309
+
+] [310
+
+] <Images/ripple1.png, id=2087, 803.0pt x 351.3125pt>
+File: Images/ripple1.png Graphic file (type png)
+ <use Images/ripple1.png>
+Package pdftex.def Info: Images/ripple1.png used on input line 4157.
+(pdftex.def)             Requested size: 240.90186pt x 105.39455pt.
+ [311
+
+ <./Images/ripple1.png>] [312
+
+] <Images/ripple.jpg, id=2099, 830.10126pt x 543.02875pt>
+File: Images/ripple.jpg Graphic file (type jpg)
+ <use Images/ripple.jpg>
+Package pdftex.def Info: Images/ripple.jpg used on input line 4177.
+(pdftex.def)             Requested size: 249.0323pt x 162.90987pt.
+ [313
+
+ <./Images/ripple.jpg>] [314
+
+] <Images/iota-logo.png, id=2111, 216.62932pt x 72.63135pt>
+File: Images/iota-logo.png Graphic file (type png)
+ <use Images/iota-logo.png>
+Package pdftex.def Info: Images/iota-logo.png used on input line 4201.
+(pdftex.def)             Requested size: 86.65018pt x 29.05202pt.
+ [315
+
+ <./Images/iota-logo.png>] [316
+
+] <Images/iota-features.png, id=2123, 963.6pt x 722.7pt>
+File: Images/iota-features.png Graphic file (type png)
+ <use Images/iota-features.png>
+Package pdftex.def Info: Images/iota-features.png used on input line 4221.
+(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
+
+Overfull \vbox (0.79472pt too high) detected at line 4221
+ []
+
+[317
+
+ <./Images/iota-features.png>] [318
+
+] <Images/tanglevsblock.png, id=2135, 1168.365pt x 716.6775pt>
+File: Images/tanglevsblock.png Graphic file (type png)
+ <use Images/tanglevsblock.png>
+Package pdftex.def Info: Images/tanglevsblock.png used on input line 4247.
+(pdftex.def)             Requested size: 233.66885pt x 143.33296pt.
+ [319
+
+ <./Images/tanglevsblock.png>] <Images/iota-dag.png, id=2144, 368.1253pt x 209.28188pt>
+File: Images/iota-dag.png Graphic file (type png)
+ <use Images/iota-dag.png>
+Package pdftex.def Info: Images/iota-dag.png used on input line 4263.
+(pdftex.def)             Requested size: 128.84578pt x 73.24974pt.
+ [320
+
+ <./Images/iota-dag.png>] [321
+
+] [322
+
+]
+Overfull \vbox (10.50893pt too high) detected at line 4300
+ []
+
+[323
+
+] <Images/iota-consensus.png, id=2169, 735.74875pt x 208.78pt>
+File: Images/iota-consensus.png Graphic file (type png)
+ <use Images/iota-consensus.png>
+Package pdftex.def Info: Images/iota-consensus.png used on input line 4312.
+(pdftex.def)             Requested size: 220.72632pt x 62.63448pt.
+ [324
+
+ <./Images/iota-consensus.png (PNG copy)>] [325
 
 ] [326
 
 ] [327
 
-] <Images/ubin.png, id=2193, 530.98375pt x 373.395pt>
-File: Images/ubin.png Graphic file (type png)
- <use Images/ubin.png>
-Package pdftex.def Info: Images/ubin.png used on input line 4340.
-(pdftex.def)             Requested size: 264.61063pt x 186.0817pt.
- [328
+] [328
 
- <./Images/ubin.png>] [329
+] <Images/tangle.png, id=2197, 1236.62pt x 687.56876pt>
+File: Images/tangle.png Graphic file (type png)
+ <use Images/tangle.png>
+Package pdftex.def Info: Images/tangle.png used on input line 4370.
+(pdftex.def)             Requested size: 370.98886pt x 206.27222pt.
 
-] [330
+Overfull \hbox (63.69899pt too wide) in paragraph at lines 4370--4370
+ [] 
+ []
+
+[329
+
+ <./Images/tangle.png>] [330
 
 ] [331
 
 ] [332
 
-] [333
+] <Images/taxonomy.png, id=2221, 631.35875pt x 381.425pt>
+File: Images/taxonomy.png Graphic file (type png)
+ <use Images/taxonomy.png>
+Package pdftex.def Info: Images/taxonomy.png used on input line 4428.
+(pdftex.def)             Requested size: 289.07999pt x 174.6428pt.
+ [333
 
-] [334
+ <./Images/taxonomy.png>] [334
 
 ] [335
 
@@ -2549,53 +2739,53 @@ Package pdftex.def Info: Images/ubin.png used on input line 4340.
 
 ] [337
 
-] <Images/settle.png, id=2248, 624.3325pt x 583.17876pt>
-File: Images/settle.png Graphic file (type png)
- <use Images/settle.png>
-Package pdftex.def Info: Images/settle.png used on input line 4456.
-(pdftex.def)             Requested size: 144.54pt x 135.00925pt.
- [338
+] [338
 
- <./Images/settle.png>] [339
+] <Images/ubin.png, id=2255, 530.98375pt x 373.395pt>
+File: Images/ubin.png Graphic file (type png)
+ <use Images/ubin.png>
+Package pdftex.def Info: Images/ubin.png used on input line 4499.
+(pdftex.def)             Requested size: 264.61063pt x 186.0817pt.
+ [339
 
-] [340
+ <./Images/ubin.png>] [340
 
 ] [341
 
 ] [342
 
-] [343
+] <Images/btcvseth.png, id=2278, 898.35625pt x 452.69125pt>
+File: Images/btcvseth.png Graphic file (type png)
+ <use Images/btcvseth.png>
+Package pdftex.def Info: Images/btcvseth.png used on input line 4539.
+(pdftex.def)             Requested size: 224.5885pt x 113.17253pt.
+ [343
 
-] <Images/dilbert-ico.jpg, id=2284, 3864.4375pt x 1202.4925pt>
-File: Images/dilbert-ico.jpg Graphic file (type jpg)
- <use Images/dilbert-ico.jpg>
-Package pdftex.def Info: Images/dilbert-ico.jpg used on input line 4546.
-(pdftex.def)             Requested size: 270.53827pt x 84.18307pt.
- [344
+ <./Images/btcvseth.png>] [344
 
- <./Images/dilbert-ico.jpg>] [345
+] [345
 
-] <Images/ico2.png, id=2296, 620.3175pt x 421.575pt>
-File: Images/ico2.png Graphic file (type png)
- <use Images/ico2.png>
-Package pdftex.def Info: Images/ico2.png used on input line 4567.
-(pdftex.def)             Requested size: 264.61063pt x 179.83278pt.
- [346
+] [346
 
- <./Images/ico2.png>] <Images/ico1.jpg, id=2304, 770.88pt x 578.16pt>
-File: Images/ico1.jpg Graphic file (type jpg)
- <use Images/ico1.jpg>
-Package pdftex.def Info: Images/ico1.jpg used on input line 4579.
-(pdftex.def)             Requested size: 241.84842pt x 181.38031pt.
- [347
+] [347
 
- <./Images/ico1.jpg>] [348
+] [348
 
 ] [349
 
-] [350
+] <Images/settle.png, id=2318, 624.3325pt x 583.17876pt>
+File: Images/settle.png Graphic file (type png)
+ <use Images/settle.png>
+Package pdftex.def Info: Images/settle.png used on input line 4623.
+(pdftex.def)             Requested size: 144.54pt x 135.00925pt.
 
-] [351
+Overfull \hbox (20.07426pt too wide) in paragraph at lines 4623--4623
+[]\T1/phv/m/n/8 https://www.jse.co.za/PublishingImages/Pages/clearingandsettlement/equitymarket/Clearing- 
+ []
+
+[350
+
+ <./Images/settle.png>] [351
 
 ] [352
 
@@ -2603,65 +2793,63 @@ Package pdftex.def Info: Images/ico1.jpg used on input line 4579.
 
 ] [354
 
-] [355
+]
+Overfull \vbox (36.68806pt too high) detected at line 4691
+ []
 
-] [356
+[355
 
-] [357
+] <Images/dilbert-ico.jpg, id=2354, 3864.4375pt x 1202.4925pt>
+File: Images/dilbert-ico.jpg Graphic file (type jpg)
+ <use Images/dilbert-ico.jpg>
+Package pdftex.def Info: Images/dilbert-ico.jpg used on input line 4716.
+(pdftex.def)             Requested size: 270.53827pt x 84.18307pt.
+ [356
 
-] <Images/erc20.png, id=2366, 882.29625pt x 230.8625pt>
-File: Images/erc20.png Graphic file (type png)
- <use Images/erc20.png>
-Package pdftex.def Info: Images/erc20.png used on input line 4716.
-(pdftex.def)             Requested size: 289.07999pt x 75.63884pt.
+ <./Images/dilbert-ico.jpg>] [357
+
+] <Images/ico2.png, id=2367, 620.3175pt x 421.575pt>
+File: Images/ico2.png Graphic file (type png)
+ <use Images/ico2.png>
+Package pdftex.def Info: Images/ico2.png used on input line 4737.
+(pdftex.def)             Requested size: 264.61063pt x 179.83278pt.
  [358
 
- <./Images/erc20.png>] [359
+ <./Images/ico2.png>] <Images/ico1.jpg, id=2374, 770.88pt x 578.16pt>
+File: Images/ico1.jpg Graphic file (type jpg)
+ <use Images/ico1.jpg>
+Package pdftex.def Info: Images/ico1.jpg used on input line 4749.
+(pdftex.def)             Requested size: 241.84842pt x 181.38031pt.
+ [359
 
-] [360
+ <./Images/ico1.jpg>] [360
 
 ] [361
 
-]
-<Images/wallet.png, id=2395, 798.985pt x 589.20125pt>
-File: Images/wallet.png Graphic file (type png)
- <use Images/wallet.png>
-Package pdftex.def Info: Images/wallet.png used on input line 4774.
-(pdftex.def)             Requested size: 239.69734pt x 176.76173pt.
- [362
+] [362
 
- <./Images/wallet.png>] <Images/ICOlist.png, id=2403, 1174.3875pt x 558.085pt>
-File: Images/ICOlist.png Graphic file (type png)
- <use Images/ICOlist.png>
-Package pdftex.def Info: Images/ICOlist.png used on input line 4784.
-(pdftex.def)             Requested size: 234.87334pt x 111.61502pt.
- [363
+] [363
 
- <./Images/ICOlist.png>] [364
+] [364
 
 ] [365
 
-] <Images/reg-timeline.png, id=2421, 963.6pt x 722.7pt>
-File: Images/reg-timeline.png Graphic file (type png)
- <use Images/reg-timeline.png>
-Package pdftex.def Info: Images/reg-timeline.png used on input line 4823.
-(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
- [366
+] [366
 
- <./Images/reg-timeline.png>] [367
+] [367
 
 ] [368
 
-] <Images/startups.png, id=2440, 1405.25pt x 823.075pt>
-File: Images/startups.png Graphic file (type png)
- <use Images/startups.png>
-Package pdftex.def Info: Images/startups.png used on input line 4875.
-(pdftex.def)             Requested size: 281.04501pt x 164.61208pt.
- [369
+] [369
 
- <./Images/startups.png (PNG copy)>] [370
+] <Images/erc20.png, id=2437, 882.29625pt x 230.8625pt>
+File: Images/erc20.png Graphic file (type png)
+ <use Images/erc20.png>
+Package pdftex.def Info: Images/erc20.png used on input line 4888.
+(pdftex.def)             Requested size: 289.07999pt x 75.63884pt.
+ [370
 
-] [371
+ <./Images/erc20.png>] [371
 
 ] [372
 
@@ -2669,43 +2857,54 @@ Package pdftex.def Info: Images/startups.png used on input line 4875.
 
 ] [374
 
-] [375
+] <Images/wallet.png, id=2471, 798.985pt x 589.20125pt>
+File: Images/wallet.png Graphic file (type png)
+ <use Images/wallet.png>
+Package pdftex.def Info: Images/wallet.png used on input line 4958.
+(pdftex.def)             Requested size: 239.69734pt x 176.76173pt.
+ [375
 
-] [376
+ <./Images/wallet.png>] <Images/ICOlist.png, id=2479, 1174.3875pt x 558.085pt>
+File: Images/ICOlist.png Graphic file (type png)
+ <use Images/ICOlist.png>
+Package pdftex.def Info: Images/ICOlist.png used on input line 4968.
+(pdftex.def)             Requested size: 234.87334pt x 111.61502pt.
+ [376
 
-] [377
+ <./Images/ICOlist.png>] [377
 
 ] [378
 
-] [379
+] <Images/reg-timeline.png, id=2496, 963.6pt x 722.7pt>
+File: Images/reg-timeline.png Graphic file (type png)
+ <use Images/reg-timeline.png>
+Package pdftex.def Info: Images/reg-timeline.png used on input line 5007.
+(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
+ [379
 
-] [380
+ <./Images/reg-timeline.png>] [380
 
 ] [381
 
-] [382
+] <Images/startups.png, id=2514, 1405.25pt x 823.075pt>
+File: Images/startups.png Graphic file (type png)
+ <use Images/startups.png>
+Package pdftex.def Info: Images/startups.png used on input line 5059.
+(pdftex.def)             Requested size: 281.04501pt x 164.61208pt.
+ [382
 
-] [383
+ <./Images/startups.png (PNG copy)>]
+[383
 
-] <Images/kyc.jpg, id=2520, 1011.78pt x 578.16pt>
-File: Images/kyc.jpg Graphic file (type jpg)
- <use Images/kyc.jpg>
-Package pdftex.def Info: Images/kyc.jpg used on input line 5059.
-(pdftex.def)             Requested size: 289.07999pt x 165.19194pt.
- [384
+] [384
 
- <./Images/kyc.jpg>] [385
+] [385
 
 ] [386
 
-] <Images/mixer.png, id=2540, 676.5275pt x 429.605pt>
-File: Images/mixer.png Graphic file (type png)
- <use Images/mixer.png>
-Package pdftex.def Info: Images/mixer.png used on input line 5095.
-(pdftex.def)             Requested size: 270.6062pt x 171.83894pt.
- [387
+] [387
 
- <./Images/mixer.png>] [388
+] [388
 
 ] [389
 
@@ -2713,7 +2912,11 @@ Package pdftex.def Info: Images/mixer.png used on input line 5095.
 
 ] [391
 
-] [392
+]
+Overfull \vbox (4.02382pt too high) detected at line 5173
+ []
+
+[392
 
 ] [393
 
@@ -2727,7 +2930,11 @@ Package pdftex.def Info: Images/mixer.png used on input line 5095.
 
 ] [398
 
-] [399
+]
+Overfull \vbox (39.04483pt too high) detected at line 5255
+ []
+
+[399
 
 ] [400
 
@@ -2737,7 +2944,11 @@ Package pdftex.def Info: Images/mixer.png used on input line 5095.
 
 ] [403
 
-] [404
+]
+Overfull \vbox (5.48805pt too high) detected at line 5316
+ []
+
+[404
 
 ] [405
 
@@ -2745,21 +2956,25 @@ Package pdftex.def Info: Images/mixer.png used on input line 5095.
 
 ] [407
 
-] <Images/ico-map.png, id=2652, 963.6pt x 722.7pt>
-File: Images/ico-map.png Graphic file (type png)
- <use Images/ico-map.png>
-Package pdftex.def Info: Images/ico-map.png used on input line 5347.
-(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
+] <Images/kyc.jpg, id=2652, 1011.78pt x 578.16pt>
+File: Images/kyc.jpg Graphic file (type jpg)
+ <use Images/kyc.jpg>
+Package pdftex.def Info: Images/kyc.jpg used on input line 5364.
+(pdftex.def)             Requested size: 289.07999pt x 165.19194pt.
  [408
 
- <./Images/ico-map.png>]
-[409
+ <./Images/kyc.jpg>] [409
 
 ] [410
 
-] [411
+] <Images/mixer.png, id=2673, 676.5275pt x 429.605pt>
+File: Images/mixer.png Graphic file (type png)
+ <use Images/mixer.png>
+Package pdftex.def Info: Images/mixer.png used on input line 5400.
+(pdftex.def)             Requested size: 270.6062pt x 171.83894pt.
+ [411
 
-] [412
+ <./Images/mixer.png>] [412
 
 ] [413
 
@@ -2773,7 +2988,64 @@ Package pdftex.def Info: Images/ico-map.png used on input line 5347.
 
 ] [418
 
-] (./Presentation.bbl) [419
+] [419
+
+] [420
+
+] [421
+
+] [422
+
+]
+Overfull \vbox (7.309pt too high) detected at line 5542
+ []
+
+[423
+
+] [424
+
+] [425
+
+] [426
+
+] [427
+
+] [428
+
+] [429
+
+]
+Overfull \vbox (20.90901pt too high) detected at line 5630
+ []
+
+[430
+
+] <Images/ico-map.png, id=2780, 963.6pt x 722.7pt>
+File: Images/ico-map.png Graphic file (type png)
+ <use Images/ico-map.png>
+Package pdftex.def Info: Images/ico-map.png used on input line 5641.
+(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
+ [431
+
+ <./Images/ico-map.png>] [432
+
+] [433
+
+] [434
+
+] [435
+
+] [436
+
+] [437
+
+] [438
+
+] [439
+
+] [440
+
+] [441
 
 ]
 \tf@nav=\write6
@@ -2785,28 +3057,27 @@ Package pdftex.def Info: Images/ico-map.png used on input line 5347.
 \tf@snm=\write8
 \openout8 = `Presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 5534.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 5534.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 5789.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 5789.
  (./Presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 5534.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 5534.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 5789.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 5789.
 Package rerunfilecheck Info: File `Presentation.out' has not changed.
-(rerunfilecheck)             Checksum: B04449DA6870B0844925A5F4893881ED;1882.
+(rerunfilecheck)             Checksum: 787EB30BB141C838300865D6368576BF;1909.
  ) 
 Here is how much of TeX's memory you used:
- 30474 strings out of 492995
- 578541 string characters out of 6132704
- 650086 words of memory out of 5000000
- 32496 multiletter control sequences out of 15000+600000
- 570482 words of font info for 76 fonts, out of 8000000 for 9000
+ 30574 strings out of 492995
+ 579941 string characters out of 6132704
+ 654126 words of memory out of 5000000
+ 32554 multiletter control sequences out of 15000+600000
+ 580441 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,12n,55p,10353b,670s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2017
-/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on Presentation.pdf (419 pages, 11128859 bytes).
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on Presentation.pdf (441 pages, 11354142 bytes).
 PDF statistics:
- 2957 PDF objects out of 2984 (max. 8388607)
- 2256 compressed objects within 23 object streams
- 873 named destinations out of 1000 (max. 500000)
- 930 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3083 PDF objects out of 3580 (max. 8388607)
+ 2358 compressed objects within 24 object streams
+ 915 named destinations out of 1000 (max. 500000)
+ 935 words of extra memory for PDF output out of 10000 (max. 10000000)
 
