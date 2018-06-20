@@ -10,12 +10,13 @@
 \headcommand {\beamer@framepages {8}{8}}
 \headcommand {\slideentry {0}{0}{6}{9/9}{}{0}}
 \headcommand {\beamer@framepages {9}{9}}
-\headcommand {\sectionentry {1}{Fintech}{10}{Fintech}{0}}
 \headcommand {\beamer@sectionpages {1}{9}}
 \headcommand {\beamer@subsectionpages {1}{9}}
+\headcommand {\sectionentry {1}{Fintech}{10}{Fintech}{0}}
 \headcommand {\slideentry {1}{0}{1}{10/10}{}{0}}
 \headcommand {\beamer@framepages {10}{10}}
-\headcommand {\beamer@subsectionentry {0}{1}{1}{11}{Digital disruption}}\headcommand {\beamer@subsectionpages {10}{10}}
+\headcommand {\beamer@subsectionpages {10}{10}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{11}{Digital disruption}}
 \headcommand {\slideentry {1}{1}{1}{11/11}{Digital disruption}{0}}
 \headcommand {\beamer@framepages {11}{11}}
 \headcommand {\slideentry {1}{1}{2}{12/12}{Digital disruption}{0}}
@@ -52,7 +53,8 @@
 \headcommand {\beamer@framepages {27}{27}}
 \headcommand {\slideentry {1}{1}{18}{28/28}{Digital disruption}{0}}
 \headcommand {\beamer@framepages {28}{28}}
-\headcommand {\beamer@subsectionentry {0}{1}{2}{29}{Fintech in action}}\headcommand {\beamer@subsectionpages {11}{28}}
+\headcommand {\beamer@subsectionpages {11}{28}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{29}{Fintech in action}}
 \headcommand {\slideentry {1}{2}{1}{29/29}{Fintech in action}{0}}
 \headcommand {\beamer@framepages {29}{29}}
 \headcommand {\slideentry {1}{2}{2}{30/30}{Fintech in action}{0}}
@@ -83,21 +85,23 @@
 \headcommand {\beamer@framepages {42}{42}}
 \headcommand {\slideentry {1}{2}{15}{43/43}{Fintech in action}{0}}
 \headcommand {\beamer@framepages {43}{43}}
-\headcommand {\sectionentry {2}{Blockchains}{44}{Blockchains}{0}}
 \headcommand {\beamer@sectionpages {10}{43}}
 \headcommand {\beamer@subsectionpages {29}{43}}
+\headcommand {\sectionentry {2}{Blockchains}{44}{Blockchains}{0}}
 \headcommand {\slideentry {2}{0}{1}{44/44}{}{0}}
 \headcommand {\beamer@framepages {44}{44}}
 \headcommand {\slideentry {2}{0}{2}{45/45}{}{0}}
 \headcommand {\beamer@framepages {45}{45}}
 \headcommand {\slideentry {2}{0}{3}{46/46}{}{0}}
 \headcommand {\beamer@framepages {46}{46}}
-\headcommand {\beamer@subsectionentry {0}{2}{1}{47}{History of bookkeeping}}\headcommand {\beamer@subsectionpages {44}{46}}
+\headcommand {\beamer@subsectionpages {44}{46}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{47}{History of bookkeeping}}
 \headcommand {\slideentry {2}{1}{1}{47/47}{History of bookkeeping}{0}}
 \headcommand {\beamer@framepages {47}{47}}
 \headcommand {\slideentry {2}{1}{2}{48/48}{History of bookkeeping}{0}}
 \headcommand {\beamer@framepages {48}{48}}
-\headcommand {\beamer@subsectionentry {0}{2}{2}{49}{Blockchain 101}}\headcommand {\beamer@subsectionpages {47}{48}}
+\headcommand {\beamer@subsectionpages {47}{48}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{49}{Blockchain 101}}
 \headcommand {\slideentry {2}{2}{1}{49/49}{Blockchain 101}{0}}
 \headcommand {\beamer@framepages {49}{49}}
 \headcommand {\slideentry {2}{2}{2}{50/50}{Blockchain 101}{0}}
@@ -118,7 +122,8 @@
 \headcommand {\beamer@framepages {57}{57}}
 \headcommand {\slideentry {2}{2}{10}{58/58}{Blockchain 101}{0}}
 \headcommand {\beamer@framepages {58}{58}}
-\headcommand {\beamer@subsectionentry {0}{2}{3}{59}{Cryptography}}\headcommand {\beamer@subsectionpages {49}{58}}
+\headcommand {\beamer@subsectionpages {49}{58}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{59}{Cryptography}}
 \headcommand {\slideentry {2}{3}{1}{59/59}{Cryptography}{0}}
 \headcommand {\beamer@framepages {59}{59}}
 \headcommand {\slideentry {2}{3}{2}{60/60}{Cryptography}{0}}
@@ -155,7 +160,8 @@
 \headcommand {\beamer@framepages {75}{75}}
 \headcommand {\slideentry {2}{3}{18}{76/76}{Cryptography}{0}}
 \headcommand {\beamer@framepages {76}{76}}
-\headcommand {\beamer@subsectionentry {0}{2}{4}{77}{Public key cryptography}}\headcommand {\beamer@subsectionpages {59}{76}}
+\headcommand {\beamer@subsectionpages {59}{76}}
+\headcommand {\beamer@subsectionentry {0}{2}{4}{77}{Public key cryptography}}
 \headcommand {\slideentry {2}{4}{1}{77/77}{Public key cryptography}{0}}
 \headcommand {\beamer@framepages {77}{77}}
 \headcommand {\slideentry {2}{4}{2}{78/78}{Public key cryptography}{0}}
@@ -174,7 +180,8 @@
 \headcommand {\beamer@framepages {84}{84}}
 \headcommand {\slideentry {2}{4}{9}{85/85}{Public key cryptography}{0}}
 \headcommand {\beamer@framepages {85}{85}}
-\headcommand {\beamer@subsectionentry {0}{2}{5}{86}{Peer to peer networks}}\headcommand {\beamer@subsectionpages {77}{85}}
+\headcommand {\beamer@subsectionpages {77}{85}}
+\headcommand {\beamer@subsectionentry {0}{2}{5}{86}{Peer to peer networks}}
 \headcommand {\slideentry {2}{5}{1}{86/86}{Peer to peer networks}{0}}
 \headcommand {\beamer@framepages {86}{86}}
 \headcommand {\slideentry {2}{5}{2}{87/87}{Peer to peer networks}{0}}
@@ -189,7 +196,8 @@
 \headcommand {\beamer@framepages {91}{91}}
 \headcommand {\slideentry {2}{5}{7}{92/92}{Peer to peer networks}{0}}
 \headcommand {\beamer@framepages {92}{92}}
-\headcommand {\beamer@subsectionentry {0}{2}{6}{93}{Types of blockchains}}\headcommand {\beamer@subsectionpages {86}{92}}
+\headcommand {\beamer@subsectionpages {86}{92}}
+\headcommand {\beamer@subsectionentry {0}{2}{6}{93}{Types of blockchains}}
 \headcommand {\slideentry {2}{6}{1}{93/93}{Types of blockchains}{0}}
 \headcommand {\beamer@framepages {93}{93}}
 \headcommand {\slideentry {2}{6}{2}{94/94}{Types of blockchains}{0}}
@@ -200,7 +208,8 @@
 \headcommand {\beamer@framepages {96}{96}}
 \headcommand {\slideentry {2}{6}{5}{97/97}{Types of blockchains}{0}}
 \headcommand {\beamer@framepages {97}{97}}
-\headcommand {\beamer@subsectionentry {0}{2}{7}{98}{Block Structure and Transactions}}\headcommand {\beamer@subsectionpages {93}{97}}
+\headcommand {\beamer@subsectionpages {93}{97}}
+\headcommand {\beamer@subsectionentry {0}{2}{7}{98}{Block Structure and Transactions}}
 \headcommand {\slideentry {2}{7}{1}{98/98}{Block Structure and Transactions}{0}}
 \headcommand {\beamer@framepages {98}{98}}
 \headcommand {\slideentry {2}{7}{2}{99/99}{Block Structure and Transactions}{0}}
@@ -245,7 +254,8 @@
 \headcommand {\beamer@framepages {118}{118}}
 \headcommand {\slideentry {2}{7}{22}{119/119}{Block Structure and Transactions}{0}}
 \headcommand {\beamer@framepages {119}{119}}
-\headcommand {\beamer@subsectionentry {0}{2}{8}{120}{Consensus}}\headcommand {\beamer@subsectionpages {98}{119}}
+\headcommand {\beamer@subsectionpages {98}{119}}
+\headcommand {\beamer@subsectionentry {0}{2}{8}{120}{Consensus}}
 \headcommand {\slideentry {2}{8}{1}{120/120}{Consensus}{0}}
 \headcommand {\beamer@framepages {120}{120}}
 \headcommand {\slideentry {2}{8}{2}{121/121}{Consensus}{0}}
@@ -322,14 +332,16 @@
 \headcommand {\beamer@framepages {156}{156}}
 \headcommand {\slideentry {2}{8}{38}{157/157}{Consensus}{0}}
 \headcommand {\beamer@framepages {157}{157}}
-\headcommand {\beamer@subsectionentry {0}{2}{9}{158}{Digital tokens}}\headcommand {\beamer@subsectionpages {120}{157}}
+\headcommand {\beamer@subsectionpages {120}{157}}
+\headcommand {\beamer@subsectionentry {0}{2}{9}{158}{Digital tokens}}
 \headcommand {\slideentry {2}{9}{1}{158/158}{Digital tokens}{0}}
 \headcommand {\beamer@framepages {158}{158}}
 \headcommand {\slideentry {2}{9}{2}{159/159}{Digital tokens}{0}}
 \headcommand {\beamer@framepages {159}{159}}
 \headcommand {\slideentry {2}{9}{3}{160/160}{Digital tokens}{0}}
 \headcommand {\beamer@framepages {160}{160}}
-\headcommand {\beamer@subsectionentry {0}{2}{10}{161}{Bitcoin blockchain}}\headcommand {\beamer@subsectionpages {158}{160}}
+\headcommand {\beamer@subsectionpages {158}{160}}
+\headcommand {\beamer@subsectionentry {0}{2}{10}{161}{Bitcoin blockchain}}
 \headcommand {\slideentry {2}{10}{1}{161/161}{Bitcoin blockchain}{0}}
 \headcommand {\beamer@framepages {161}{161}}
 \headcommand {\slideentry {2}{10}{2}{162/162}{Bitcoin blockchain}{0}}
@@ -342,7 +354,8 @@
 \headcommand {\beamer@framepages {165}{165}}
 \headcommand {\slideentry {2}{10}{6}{166/166}{Bitcoin blockchain}{0}}
 \headcommand {\beamer@framepages {166}{166}}
-\headcommand {\beamer@subsectionentry {0}{2}{11}{167}{Blockchains outside of finance}}\headcommand {\beamer@subsectionpages {161}{166}}
+\headcommand {\beamer@subsectionpages {161}{166}}
+\headcommand {\beamer@subsectionentry {0}{2}{11}{167}{Blockchains outside of finance}}
 \headcommand {\slideentry {2}{11}{1}{167/167}{Blockchains outside of finance}{0}}
 \headcommand {\beamer@framepages {167}{167}}
 \headcommand {\slideentry {2}{11}{2}{168/168}{Blockchains outside of finance}{0}}
@@ -373,14 +386,15 @@
 \headcommand {\beamer@framepages {180}{180}}
 \headcommand {\slideentry {2}{11}{15}{181/181}{Blockchains outside of finance}{0}}
 \headcommand {\beamer@framepages {181}{181}}
-\headcommand {\sectionentry {3}{Cryptocurrency}{182}{Cryptocurrency}{0}}
 \headcommand {\beamer@sectionpages {44}{181}}
 \headcommand {\beamer@subsectionpages {167}{181}}
+\headcommand {\sectionentry {3}{Cryptocurrency}{182}{Cryptocurrency}{0}}
 \headcommand {\slideentry {3}{0}{1}{182/182}{}{0}}
 \headcommand {\beamer@framepages {182}{182}}
 \headcommand {\slideentry {3}{0}{2}{183/183}{}{0}}
 \headcommand {\beamer@framepages {183}{183}}
-\headcommand {\beamer@subsectionentry {0}{3}{1}{184}{Cryptocurrency}}\headcommand {\beamer@subsectionpages {182}{183}}
+\headcommand {\beamer@subsectionpages {182}{183}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{184}{Cryptocurrency}}
 \headcommand {\slideentry {3}{1}{1}{184/184}{Cryptocurrency}{0}}
 \headcommand {\beamer@framepages {184}{184}}
 \headcommand {\slideentry {3}{1}{2}{185/185}{Cryptocurrency}{0}}
@@ -405,7 +419,8 @@
 \headcommand {\beamer@framepages {194}{194}}
 \headcommand {\slideentry {3}{1}{12}{195/195}{Cryptocurrency}{0}}
 \headcommand {\beamer@framepages {195}{195}}
-\headcommand {\beamer@subsectionentry {0}{3}{2}{196}{Bitcoin}}\headcommand {\beamer@subsectionpages {184}{195}}
+\headcommand {\beamer@subsectionpages {184}{195}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{196}{Bitcoin}}
 \headcommand {\slideentry {3}{2}{1}{196/196}{Bitcoin}{0}}
 \headcommand {\beamer@framepages {196}{196}}
 \headcommand {\slideentry {3}{2}{2}{197/197}{Bitcoin}{0}}
@@ -491,7 +506,8 @@
 \headcommand {\beamer@framepages {235}{235}}
 \headcommand {\slideentry {3}{2}{41}{236/236}{Bitcoin}{0}}
 \headcommand {\beamer@framepages {236}{236}}
-\headcommand {\beamer@subsectionentry {0}{3}{3}{237}{Ethereum}}\headcommand {\beamer@subsectionpages {196}{236}}
+\headcommand {\beamer@subsectionpages {196}{236}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{237}{Ethereum}}
 \headcommand {\slideentry {3}{3}{1}{237/237}{Ethereum}{0}}
 \headcommand {\beamer@framepages {237}{237}}
 \headcommand {\slideentry {3}{3}{2}{238/238}{Ethereum}{0}}
@@ -626,7 +642,8 @@
 \headcommand {\beamer@framepages {302}{302}}
 \headcommand {\slideentry {3}{3}{67}{303/303}{Ethereum}{0}}
 \headcommand {\beamer@framepages {303}{303}}
-\headcommand {\beamer@subsectionentry {0}{3}{4}{304}{Ripple}}\headcommand {\beamer@subsectionpages {237}{303}}
+\headcommand {\beamer@subsectionpages {237}{303}}
+\headcommand {\beamer@subsectionentry {0}{3}{4}{304}{Ripple}}
 \headcommand {\slideentry {3}{4}{1}{304/304}{Ripple}{0}}
 \headcommand {\beamer@framepages {304}{304}}
 \headcommand {\slideentry {3}{4}{2}{305/305}{Ripple}{0}}
@@ -649,7 +666,8 @@
 \headcommand {\beamer@framepages {313}{313}}
 \headcommand {\slideentry {3}{4}{11}{314/314}{Ripple}{0}}
 \headcommand {\beamer@framepages {314}{314}}
-\headcommand {\beamer@subsectionentry {0}{3}{5}{315}{IOTA}}\headcommand {\beamer@subsectionpages {304}{314}}
+\headcommand {\beamer@subsectionpages {304}{314}}
+\headcommand {\beamer@subsectionentry {0}{3}{5}{315}{IOTA}}
 \headcommand {\slideentry {3}{5}{1}{315/315}{IOTA}{0}}
 \headcommand {\beamer@framepages {315}{315}}
 \headcommand {\slideentry {3}{5}{2}{316/316}{IOTA}{0}}
@@ -682,7 +700,8 @@
 \headcommand {\beamer@framepages {329}{329}}
 \headcommand {\slideentry {3}{5}{16}{330/330}{IOTA}{0}}
 \headcommand {\beamer@framepages {330}{330}}
-\headcommand {\beamer@subsectionentry {0}{3}{6}{331}{Central Bank Cryptocurrencies}}\headcommand {\beamer@subsectionpages {315}{330}}
+\headcommand {\beamer@subsectionpages {315}{330}}
+\headcommand {\beamer@subsectionentry {0}{3}{6}{331}{Central Bank Cryptocurrencies}}
 \headcommand {\slideentry {3}{6}{1}{331/331}{Central Bank Cryptocurrencies}{0}}
 \headcommand {\beamer@framepages {331}{331}}
 \headcommand {\slideentry {3}{6}{2}{332/332}{Central Bank Cryptocurrencies}{0}}
@@ -713,14 +732,15 @@
 \headcommand {\beamer@framepages {344}{344}}
 \headcommand {\slideentry {3}{6}{15}{345/345}{Central Bank Cryptocurrencies}{0}}
 \headcommand {\beamer@framepages {345}{345}}
-\headcommand {\sectionentry {4}{Blockchain applications}{346}{Blockchain applications}{0}}
 \headcommand {\beamer@sectionpages {182}{345}}
 \headcommand {\beamer@subsectionpages {331}{345}}
+\headcommand {\sectionentry {4}{Blockchain applications}{346}{Blockchain applications}{0}}
 \headcommand {\slideentry {4}{0}{1}{346/346}{}{0}}
 \headcommand {\beamer@framepages {346}{346}}
 \headcommand {\slideentry {4}{0}{2}{347/347}{}{0}}
 \headcommand {\beamer@framepages {347}{347}}
-\headcommand {\beamer@subsectionentry {0}{4}{1}{348}{Clearing and settlement}}\headcommand {\beamer@subsectionpages {346}{347}}
+\headcommand {\beamer@subsectionpages {346}{347}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{348}{Clearing and settlement}}
 \headcommand {\slideentry {4}{1}{1}{348/348}{Clearing and settlement}{0}}
 \headcommand {\beamer@framepages {348}{348}}
 \headcommand {\slideentry {4}{1}{2}{349/349}{Clearing and settlement}{0}}
@@ -737,7 +757,8 @@
 \headcommand {\beamer@framepages {354}{354}}
 \headcommand {\slideentry {4}{1}{8}{355/355}{Clearing and settlement}{0}}
 \headcommand {\beamer@framepages {355}{355}}
-\headcommand {\beamer@subsectionentry {0}{4}{2}{356}{Initial Coin Offerings}}\headcommand {\beamer@subsectionpages {348}{355}}
+\headcommand {\beamer@subsectionpages {348}{355}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{356}{Initial Coin Offerings}}
 \headcommand {\slideentry {4}{2}{1}{356/356}{Initial Coin Offerings}{0}}
 \headcommand {\beamer@framepages {356}{356}}
 \headcommand {\slideentry {4}{2}{2}{357/357}{Initial Coin Offerings}{0}}
@@ -782,14 +803,15 @@
 \headcommand {\beamer@framepages {376}{376}}
 \headcommand {\slideentry {4}{2}{22}{377/377}{Initial Coin Offerings}{0}}
 \headcommand {\beamer@framepages {377}{377}}
-\headcommand {\sectionentry {5}{Regulation}{378}{Regulation}{0}}
 \headcommand {\beamer@sectionpages {346}{377}}
 \headcommand {\beamer@subsectionpages {356}{377}}
+\headcommand {\sectionentry {5}{Regulation}{378}{Regulation}{0}}
 \headcommand {\slideentry {5}{0}{1}{378/378}{}{0}}
 \headcommand {\beamer@framepages {378}{378}}
 \headcommand {\slideentry {5}{0}{2}{379/379}{}{0}}
 \headcommand {\beamer@framepages {379}{379}}
-\headcommand {\beamer@subsectionentry {0}{5}{1}{380}{Regulatory environment}}\headcommand {\beamer@subsectionpages {378}{379}}
+\headcommand {\beamer@subsectionpages {378}{379}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{380}{Regulatory environment}}
 \headcommand {\slideentry {5}{1}{1}{380/380}{Regulatory environment}{0}}
 \headcommand {\beamer@framepages {380}{380}}
 \headcommand {\slideentry {5}{1}{2}{381/381}{Regulatory environment}{0}}
@@ -870,7 +892,8 @@
 \headcommand {\beamer@framepages {418}{418}}
 \headcommand {\slideentry {5}{1}{40}{419/419}{Regulatory environment}{0}}
 \headcommand {\beamer@framepages {419}{419}}
-\headcommand {\beamer@subsectionentry {0}{5}{2}{420}{Regulating ICOs}}\headcommand {\beamer@subsectionpages {380}{419}}
+\headcommand {\beamer@subsectionpages {380}{419}}
+\headcommand {\beamer@subsectionentry {0}{5}{2}{420}{Regulating ICOs}}
 \headcommand {\slideentry {5}{2}{1}{420/420}{Regulating ICOs}{0}}
 \headcommand {\beamer@framepages {420}{420}}
 \headcommand {\slideentry {5}{2}{2}{421/421}{Regulating ICOs}{0}}
@@ -895,7 +918,8 @@
 \headcommand {\beamer@framepages {430}{430}}
 \headcommand {\slideentry {5}{2}{12}{431/431}{Regulating ICOs}{0}}
 \headcommand {\beamer@framepages {431}{431}}
-\headcommand {\beamer@subsectionentry {0}{5}{3}{432}{Smart contracts and contract law}}\headcommand {\beamer@subsectionpages {420}{431}}
+\headcommand {\beamer@subsectionpages {420}{431}}
+\headcommand {\beamer@subsectionentry {0}{5}{3}{432}{Smart contracts and contract law}}
 \headcommand {\slideentry {5}{3}{1}{432/432}{Smart contracts and contract law}{0}}
 \headcommand {\beamer@framepages {432}{432}}
 \headcommand {\slideentry {5}{3}{2}{433/433}{Smart contracts and contract law}{0}}
@@ -920,4 +944,4 @@
 \headcommand {\beamer@subsectionpages {432}{441}}
 \headcommand {\beamer@sectionpages {378}{441}}
 \headcommand {\beamer@documentpages {441}}
-\headcommand {\def \inserttotalframenumber {438}}
+\headcommand {\gdef \inserttotalframenumber {438}}
