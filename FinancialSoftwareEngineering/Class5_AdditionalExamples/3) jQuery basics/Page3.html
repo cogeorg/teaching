@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>JS Example One</title>
+  </head>
+  <body>
+    <h1>Using the DOM via JS to edit our HTML</h1>
+    <p>
+
+      We'll look at how we can use the DOM within JS to edit our HTML. Since the DOM represents HTML elements as objects, we can access certain attributes and methods
+
+    </p>
+
+    <p>Some of the important attributes you'll come across are:</p>
+
+    <ul>
+      <li>document.body -> All of the content in the HTML body</li>
+      <li>document.head  -> All of the content in the HTML head</li>
+      <li>document.links -> All of the links in the HTML files</li>
+      <li id = "my_list">This is blank</li>
+    </ul>
+
+    <p>Some of the important methods you'll come across are</p>
+    <ul>
+      <li>document.getElementById() -> Returns the element with the a specific id</li>
+      <li>document.getElementsByClassName() -> Returns list of all elements belonging to a class</li>
+      <li>document.getElementsByTagName() -> Returns list of all elements with the tag</li>
+      <li>document.querySelector() -- Returns the first object matching the CSS style selector</li>
+      <li>document.querySelectorAll() -- Returns all objects matchin the CSS style selector</li>
+    </ul>
+    <p>
+
+      The first three of these are pretty self explanatory. The querySelector()
+      can accept CSS style selector, so you can use # or . if you want ids or classes.
+      Basically a more generalized method where you can type any CSS style.
+
+      The difference between querySelector() and querySelectorAll() is that
+      querySelectorAll() will return a list of all matches, querySelector() just
+      returns the first match.
+    </p>
+    <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+    <script src = "my_js.js"></script>
+  </body>
+
+  </script>
+</html>
